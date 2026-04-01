@@ -1,0 +1,25 @@
+[
+  {
+    "number": "1.",
+    "question": "El marco territorial de la atenci�n primaria es:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El �rea de salud."
+      },
+      {
+        "letter": "b",
+        "option": "La zona b�sica de salud."
+      },
+      {
+        "letter": "c",
+        "option": "El centro de salud."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las opciones son falsas."
+      }
+    ]
+  }
+]

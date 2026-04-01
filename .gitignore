@@ -1,0 +1,87 @@
+## =========================
+## Build results
+## =========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache/options
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VS Code (opcional)
+.idea/
+.vscode/
+
+## =========================
+## .NET Core / SDK
+## =========================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## =========================
+## NuGet
+## =========================
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## =========================
+## Resharper
+## =========================
+_ReSharper*/
+*.DotSettings.user
+
+## =========================
+## Logs y archivos temporales
+## =========================
+*.log
+*.tmp
+*.temp
+*.cache
+
+## =========================
+## Archivos generados
+## =========================
+Generated_Code/
+
+## =========================
+## Publicación
+## =========================
+publish/
+*.publishsettings
+
+## =========================
+## Archivos de sistema
+## =========================
+.DS_Store
+Thumbs.db
+
+## =========================
+## Certificados y secretos
+## =========================
+*.pfx
+*.key
+secrets.json
+
+## =========================
+## WPF específicos
+## =========================
+*.g.cs
+*.g.i.cs
+*.baml
+
+## =========================
+## Otros
+## =========================
+*.pidb
+*.svclog
+*.scc
