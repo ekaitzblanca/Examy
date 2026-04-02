@@ -23,10 +23,22 @@ namespace SimulacroOposiciones.MVC.StartMenu
 
         private void setListeners()
         {
-            _view.btn_aux.Click += Aux;
+            _view.btn_auxiliar.Click += Auxiliar;
+            _view.btn_laboratorio.Click += Laboratorio;
+            _view.btn_celador.Click += Celador;
         }
 
-        private void Aux(object sender, RoutedEventArgs e)
+        private void Auxiliar(object sender, RoutedEventArgs e)
+        {
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.Auxiliar.View());
+        }
+
+        private void Laboratorio(object sender, RoutedEventArgs e)
+        {
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.Auxiliar.View());
+        }
+
+        private void Celador(object sender, RoutedEventArgs e)
         {
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.Auxiliar.View());
         }

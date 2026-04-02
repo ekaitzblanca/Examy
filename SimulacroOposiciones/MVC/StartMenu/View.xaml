@@ -9,7 +9,13 @@
       Title="View">
 
     <Grid>
-        <Button x:Name="btn_aux" Content="Auxiliar" Margin="10,10,10,225"/>
-
+        <Grid.RowDefinitions>
+            <RowDefinition Height="147*"/>
+            <RowDefinition Height="154*"/>
+            <RowDefinition Height="149*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btn_auxiliar" Content="Auxiliar de Enfermeria" Margin="10,10,10,12"/>
+        <Button x:Name="btn_laboratorio" Content="Tecnico de Laboratorio" Margin="10,15,10,13" Grid.Row="1"/>
+        <Button x:Name="btn_celador" Content="Celador" Margin="10,14,10,10" Grid.Row="2"/>
     </Grid>
 </Page>

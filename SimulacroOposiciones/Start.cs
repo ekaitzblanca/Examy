@@ -16,11 +16,9 @@ namespace SimulacroOposiciones
         {
             base.OnStartup(e);
 
-            string path200 = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\questions_200.json"));
-            string path300 = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\questions_300.json"));
+            string auxiliar_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\auxiliar_questions.json"));
 
-            Gen.questions_200 = LoadQuestions(path200);
-            Gen.questions_300 = LoadQuestions(path300);
+            Gen.questions_200 = LoadQuestions(auxiliar_path);
 
             MVC.App app = new MVC.App();
             app.Show();
@@ -38,8 +36,7 @@ namespace SimulacroOposiciones
                 PropertyNameCaseInsensitive = true
             };
 
-            return System.Text.Json.JsonSerializer.Deserialize<List<Question>>(json, options)
-                   ?? new List<Question>();
+            return System.Text.Json.JsonSerializer.Deserialize<List<Question>>(json, options) ?? new List<Question>();
         }
     }
 }
