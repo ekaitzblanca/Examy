@@ -112,7 +112,7 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
 
         private void Fin_Click(object sender, RoutedEventArgs e)
         {
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.CategoryMenu.View());
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeResume.View(_questions));
         }
     }
 }
