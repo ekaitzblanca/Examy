@@ -9,6 +9,6 @@ namespace SimulacroOposiciones.Objects
     public class Option
     {
         public string letter { get; set; }
-        public string text { get; set; }
+        public string option { get; set; }
     }
 }
