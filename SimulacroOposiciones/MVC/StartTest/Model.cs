@@ -104,6 +104,7 @@ namespace SimulacroOposiciones.MVC.StartTest
                 case "errores":
                     break;
                 case "examen":
+                    questionary = temporal.OrderBy(x => Guid.NewGuid()).Take(100).ToList();
                     break;
             }
 
