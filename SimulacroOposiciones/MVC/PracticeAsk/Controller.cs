@@ -48,6 +48,10 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
         private void option1_Checked(object sender, RoutedEventArgs e)
         {
             _questions[_index].response = "a";
+            if (_questions[_index].response == _questions[_index].answer)
+            {
+                _questions[_index].isCorrect = true;
+            }
 
             _model.CheckOptionChecked(_view, _index, _questions);
         }
@@ -55,6 +59,10 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
         private void option2_Checked(object sender, RoutedEventArgs e)
         {
             _questions[_index].response = "b";
+            if (_questions[_index].response == _questions[_index].answer)
+            {
+                _questions[_index].isCorrect = true;
+            }
 
             _model.CheckOptionChecked(_view, _index, _questions);
         }
@@ -62,6 +70,10 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
         private void option3_Checked(object sender, RoutedEventArgs e)
         {
             _questions[_index].response = "c";
+            if (_questions[_index].response == _questions[_index].answer)
+            {
+                _questions[_index].isCorrect = true;
+            }
 
             _model.CheckOptionChecked(_view, _index, _questions);
         }
@@ -69,6 +81,10 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
         private void option4_Checked(object sender, RoutedEventArgs e)
         {
             _questions[_index].response = "d";
+            if (_questions[_index].response == _questions[_index].answer)
+            {
+                _questions[_index].isCorrect = true;
+            }
 
             _model.CheckOptionChecked(_view, _index, _questions);
         }

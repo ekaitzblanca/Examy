@@ -36,7 +36,6 @@ namespace SimulacroOposiciones.MVC.TypeMenu
         private void Comun_Click(object sender, RoutedEventArgs e)
         {
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.StartTest.View(_category, _mode, "comun"));
-
         }
 
         private void Especifico_Click(object sender, RoutedEventArgs e)
