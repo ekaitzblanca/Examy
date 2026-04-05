@@ -5,18 +5,159 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:SimulacroOposiciones.MVC.TypeMenu"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800" Background="White"
-      Title="View">
+      d:DesignHeight="700" d:DesignWidth="1000"
+      Title="Examy"
+      Background="#F4F8FB">
 
-    <Grid>
+    <Page.Resources>
+        <Style x:Key="TypeButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="#1F2937"/>
+            <Setter Property="FontSize" Value="22"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Height" Value="110"/>
+            <Setter Property="Margin" Value="0,0,0,18"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#D6E4F0"/>
+            <Setter Property="BorderThickness" Value="1.5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="20"
+                                Padding="20">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="75"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="40"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Border Width="56"
+                                        Height="56"
+                                        CornerRadius="28"
+                                        Background="#E8F1FB"
+                                        VerticalAlignment="Center"
+                                        HorizontalAlignment="Center">
+                                    <TextBlock x:Name="icon"
+                                               Text="📂"
+                                               FontSize="26"
+                                               HorizontalAlignment="Center"
+                                               VerticalAlignment="Center"/>
+                                </Border>
+
+                                <StackPanel Grid.Column="1"
+                                            VerticalAlignment="Center"
+                                            Margin="16,0,0,0">
+                                    <TextBlock Text="{TemplateBinding Content}"
+                                               FontSize="{TemplateBinding FontSize}"
+                                               FontWeight="{TemplateBinding FontWeight}"
+                                               Foreground="{TemplateBinding Foreground}"/>
+                                    <TextBlock x:Name="description"
+                                               Text="Selecciona una opción para continuar"
+                                               FontSize="13"
+                                               Foreground="#6B7280"
+                                               Margin="0,6,0,0"/>
+                                </StackPanel>
+
+                                <TextBlock Grid.Column="2"
+                                           Text="›"
+                                           FontSize="28"
+                                           Foreground="#3B82F6"
+                                           VerticalAlignment="Center"
+                                           HorizontalAlignment="Center"/>
+                            </Grid>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F9FCFF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#93C5FD"/>
+                            </Trigger>
+
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#EAF4FF"/>
+                            </Trigger>
+
+                            <Trigger Property="Tag" Value="comun">
+                                <Setter TargetName="icon" Property="Text" Value="📘"/>
+                                <Setter TargetName="description" Property="Text" Value="Preguntas comunes de la categoría seleccionada"/>
+                            </Trigger>
+
+                            <Trigger Property="Tag" Value="especifico">
+                                <Setter TargetName="icon" Property="Text" Value="🎯"/>
+                                <Setter TargetName="description" Property="Text" Value="Contenido específico y más enfocado"/>
+                            </Trigger>
+
+                            <Trigger Property="Tag" Value="todo">
+                                <Setter TargetName="icon" Property="Text" Value="🧩"/>
+                                <Setter TargetName="description" Property="Text" Value="Incluye preguntas comunes y específicas"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Margin="30">
         <Grid.RowDefinitions>
-            <RowDefinition Height="139*"/>
-            <RowDefinition Height="161*"/>
-            <RowDefinition Height="150*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <Button x:Name="btn_Comun" Content="Comun" Margin="10,10,10,12"/>
-        <Button x:Name="btn_Especifico" Content="Especifico" HorizontalAlignment="Left" Width="780" Grid.Row="1" Margin="10,21,0,21"/>
-        <Button x:Name="btn_Todo" Content="Todo" Margin="10,10,10,17" Grid.Row="2"/>
 
+        <!-- CABECERA COMPACTA -->
+        <Border Grid.Row="0"
+                Background="#0F4C81"
+                CornerRadius="18"
+                Padding="20"
+                Margin="0,0,0,20">
+            <StackPanel>
+                <TextBlock Text="Examy"
+                           FontSize="32"
+                           FontWeight="Bold"
+                           Foreground="White"/>
+
+                <TextBlock Text="Selecciona el tipo de contenido"
+                           FontSize="14"
+                           Foreground="#DCEBFA"
+                           Margin="0,4,0,0"/>
+
+                <TextBlock Text="Elige qué bloque quieres practicar"
+                           FontSize="12"
+                           Foreground="#BFD9F5"
+                           Margin="0,6,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- BOTONES -->
+        <StackPanel Grid.Row="1">
+            <Button x:Name="btn_Comun"
+                    Tag="comun"
+                    Content="Común"
+                    Style="{StaticResource TypeButtonStyle}"/>
+
+            <Button x:Name="btn_Especifico"
+                    Tag="especifico"
+                    Content="Específico"
+                    Style="{StaticResource TypeButtonStyle}"/>
+
+            <Button x:Name="btn_Todo"
+                    Tag="todo"
+                    Content="Todo"
+                    Style="{StaticResource TypeButtonStyle}"/>
+        </StackPanel>
+
+        <!-- FOOTER -->
+        <TextBlock Grid.Row="2"
+                   Text="Desarrollado por Ekaitz Blanca"
+                   HorizontalAlignment="Center"
+                   Margin="0,20,0,0"
+                   FontSize="12"
+                   Foreground="#9CA3AF"/>
     </Grid>
 </Page>

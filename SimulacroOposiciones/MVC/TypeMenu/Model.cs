@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SimulacroOposiciones.MVC.TypeMenu
 {
-    internal class Model
+    public class Model
     {
-    }
+        
+    }  
 }

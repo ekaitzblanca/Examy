@@ -24,9 +24,9 @@ namespace SimulacroOposiciones.MVC.StartTest
             _view = view;
             setListeners();
 
-            _view.lbl_category.Content = _category;
-            _view.lbl_mode.Content = _mode;
-            _view.lbl_type.Content = _type;
+            _view.lbl_category.Content = _model.getCategoryDisplay(_category);
+            _view.lbl_mode.Content = _model.getModeDisplay(_mode);
+            _view.lbl_type.Content = _model.getTypeDisplay(_type);
         }
 
         public void setListeners()
