@@ -9,8 +9,13 @@ namespace SimulacroOposiciones.Objects
     public class Question
     {
         public string number { get; set; }
+        public string type { get; set; }
         public string question { get; set; }
         public string answer { get; set; }
         public List<Option> options { get; set; }
+
+
+        public string response { get; set; }
+        public bool isCorrect { get; set; }
     }
 }

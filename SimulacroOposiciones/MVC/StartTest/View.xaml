@@ -5,13 +5,184 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:SimulacroOposiciones.MVC.StartTest"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800" Background="White"
-      Title="View">
+      d:DesignHeight="700" d:DesignWidth="1000"
+      Title="Examy"
+      Background="#F4F8FB">
 
-    <Grid>
-        <Label x:Name="lbl_category" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="lbl_mode" Content="" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="lbl_type" Content="" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+    <Page.Resources>
+        <Style x:Key="InfoCardStyle" TargetType="Border">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="CornerRadius" Value="18"/>
+            <Setter Property="Padding" Value="18"/>
+            <Setter Property="Margin" Value="0,0,0,16"/>
+            <Setter Property="BorderBrush" Value="#D6E4F0"/>
+            <Setter Property="BorderThickness" Value="1.5"/>
+        </Style>
 
+        <Style x:Key="SectionTitleStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="Foreground" Value="#6B7280"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+        </Style>
+
+        <Style x:Key="SectionValueStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="Foreground" Value="#1F2937"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="Margin" Value="0,6,0,0"/>
+        </Style>
+
+        <Style x:Key="StartButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="64"/>
+            <Setter Property="FontSize" Value="22"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#0F4C81"/>
+            <Setter Property="BorderBrush" Value="#0F4C81"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="18"
+                                Padding="16">
+                            <StackPanel Orientation="Horizontal"
+                                        HorizontalAlignment="Center"
+                                        VerticalAlignment="Center">
+                                <TextBlock Text="▶"
+                                           FontSize="18"
+                                           Margin="0,0,10,0"
+                                           VerticalAlignment="Center"/>
+                                <ContentPresenter HorizontalAlignment="Center"
+                                                  VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#13619F"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#0B3A63"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- CABECERA -->
+        <Border Grid.Row="0"
+                Background="#0F4C81"
+                CornerRadius="18"
+                Padding="20"
+                Margin="0,0,0,20">
+            <StackPanel>
+                <TextBlock Text="Examy"
+                           FontSize="32"
+                           FontWeight="Bold"
+                           Foreground="White"/>
+
+                <TextBlock Text="Resumen antes de comenzar"
+                           FontSize="14"
+                           Foreground="#DCEBFA"
+                           Margin="0,4,0,0"/>
+
+                <TextBlock Text="Revisa tu selección y empieza el test"
+                           FontSize="12"
+                           Foreground="#BFD9F5"
+                           Margin="0,6,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- CONTENIDO -->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- CATEGORÍA -->
+            <Border Grid.Row="0" Style="{StaticResource InfoCardStyle}">
+                <StackPanel>
+                    <TextBlock Text="Categoría"
+                               Style="{StaticResource SectionTitleStyle}"/>
+                    <Label x:Name="lbl_category"
+                           Content="Auxiliar de Enfermería"
+                           Style="{StaticResource SectionValueStyle}"/>
+                </StackPanel>
+            </Border>
+
+            <!-- MODO -->
+            <Border Grid.Row="1" Style="{StaticResource InfoCardStyle}">
+                <StackPanel>
+                    <TextBlock Text="Modo de test"
+                               Style="{StaticResource SectionTitleStyle}"/>
+                    <Label x:Name="lbl_mode"
+                           Content="Test de Práctica"
+                           Style="{StaticResource SectionValueStyle}"/>
+                </StackPanel>
+            </Border>
+
+            <!-- TIPO -->
+            <Border Grid.Row="2" Style="{StaticResource InfoCardStyle}">
+                <StackPanel>
+                    <TextBlock Text="Tipo de contenido"
+                               Style="{StaticResource SectionTitleStyle}"/>
+                    <Label x:Name="lbl_type"
+                           Content="Común"
+                           Style="{StaticResource SectionValueStyle}"/>
+                </StackPanel>
+            </Border>
+
+            <!-- TEXTO DE APOYO -->
+            <Border Grid.Row="3"
+                    Background="#EEF6FF"
+                    CornerRadius="18"
+                    Padding="18"
+                    Margin="0,4,0,20"
+                    BorderBrush="#CFE3F8"
+                    BorderThickness="1">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="🧠"
+                               FontSize="24"
+                               Margin="0,0,12,0"
+                               VerticalAlignment="Center"/>
+                    <TextBlock Text="Todo listo para empezar. Cuando pulses el botón, comenzará tu simulacro en Examy."
+                               FontSize="14"
+                               Foreground="#37516B"
+                               VerticalAlignment="Center"
+                               TextWrapping="Wrap"/>
+                </StackPanel>
+            </Border>
+
+            <!-- BOTÓN -->
+            <Button Grid.Row="4"
+                    x:Name="btn_StartTest"
+                    Content="Iniciar test"
+                    Style="{StaticResource StartButtonStyle}"/>
+        </Grid>
+
+        <!-- FOOTER -->
+        <TextBlock Grid.Row="2"
+                   Text="Desarrollado por Ekaitz Blanca"
+                   HorizontalAlignment="Center"
+                   Margin="0,20,0,0"
+                   FontSize="12"
+                   Foreground="#9CA3AF"/>
     </Grid>
 </Page>

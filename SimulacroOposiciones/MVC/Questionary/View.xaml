@@ -1,0 +1,336 @@
+﻿<Page x:Class="SimulacroOposiciones.MVC.Questionary.View"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SimulacroOposiciones.MVC.Questionary"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1000"
+      Title="Examy"
+      Background="#F4F8FB">
+
+    <Page.Resources>
+
+        <Style x:Key="OptionRadioStyle" TargetType="RadioButton">
+            <Setter Property="Margin" Value="0,0,0,16"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Foreground" Value="#1F2937"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="RadioButton">
+                        <Border x:Name="border"
+                                Background="White"
+                                BorderBrush="#D6E4F0"
+                                BorderThickness="1.5"
+                                CornerRadius="18"
+                                Padding="18">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="36"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Grid Width="22" Height="22" VerticalAlignment="Top" Margin="0,2,0,0">
+                                    <Ellipse x:Name="outerCircle"
+                                             Width="22"
+                                             Height="22"
+                                             Stroke="#9CA3AF"
+                                             StrokeThickness="2"
+                                             Fill="Transparent"/>
+                                    <Ellipse x:Name="innerCircle"
+                                             Width="10"
+                                             Height="10"
+                                             Fill="#0F4C81"
+                                             Visibility="Collapsed"
+                                             HorizontalAlignment="Center"
+                                             VerticalAlignment="Center"/>
+                                </Grid>
+
+                                <ContentPresenter Grid.Column="1"
+                                                  Margin="12,0,0,0"
+                                                  VerticalAlignment="Center"/>
+                            </Grid>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F9FCFF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#93C5FD"/>
+                            </Trigger>
+
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#EEF6FF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#3B82F6"/>
+                                <Setter TargetName="outerCircle" Property="Stroke" Value="#0F4C81"/>
+                                <Setter TargetName="innerCircle" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="border" Property="Opacity" Value="0.70"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="PrimaryButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="60"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#0F4C81"/>
+            <Setter Property="BorderBrush" Value="#0F4C81"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="0,0,12,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="18"
+                                Padding="16">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#13619F"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#0B3A63"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="border" Property="Opacity" Value="0.6"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="SecondaryButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="60"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="#0F4C81"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#C7D9EA"/>
+            <Setter Property="BorderThickness" Value="1.5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="18"
+                                Padding="16">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F8FBFF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#93C5FD"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#EEF6FF"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Page.Resources>
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- CABECERA -->
+        <Border Grid.Row="0"
+                Background="#0F4C81"
+                CornerRadius="18"
+                Padding="20"
+                Margin="0,0,0,20">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel>
+                    <TextBlock Text="Examy"
+                               FontSize="32"
+                               FontWeight="Bold"
+                               Foreground="White"/>
+
+                    <TextBlock Text="Pregunta en curso"
+                               FontSize="14"
+                               Foreground="#DCEBFA"
+                               Margin="0,4,0,0"/>
+
+                    <TextBlock Text="Selecciona una respuesta y revisa la explicación"
+                               FontSize="12"
+                               Foreground="#BFD9F5"
+                               Margin="0,6,0,0"/>
+                </StackPanel>
+
+                <Border Grid.Column="1"
+                        Background="#13619F"
+                        CornerRadius="14"
+                        Padding="14,8"
+                        VerticalAlignment="Top">
+                    <TextBlock x:Name="lbl_questionNumber"
+                               Text="Pregunta 1/20"
+                               FontSize="13"
+                               FontWeight="SemiBold"
+                               Foreground="White"/>
+                </Border>
+            </Grid>
+        </Border>
+
+        <!-- CONTENIDO -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+
+                <!-- PREGUNTA -->
+                <Border Background="White"
+                        BorderBrush="#D6E4F0"
+                        BorderThickness="1.5"
+                        CornerRadius="20"
+                        Padding="24"
+                        Margin="0,0,0,20">
+                    <StackPanel>
+                        <TextBlock Text="Enunciado"
+                                   FontSize="13"
+                                   FontWeight="SemiBold"
+                                   Foreground="#6B7280"/>
+
+                        <Label x:Name="lbl_question"
+                               Content="¿Cuál de las siguientes opciones corresponde a una función propia del celador en el ámbito hospitalario?"
+                               FontSize="25"
+                               FontWeight="SemiBold"
+                               Foreground="#1F2937"
+                               Padding="0"
+                               Margin="0,10,0,0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- RESPUESTAS -->
+                <StackPanel x:Name="panel_answers">
+                    <RadioButton x:Name="rb_option1"
+                                 GroupName="Answers"
+                                 Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock Text="A) Trasladar pacientes dentro del centro sanitario."
+                                   TextWrapping="Wrap"/>
+                    </RadioButton>
+
+                    <RadioButton x:Name="rb_option2"
+                                 GroupName="Answers"
+                                 Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock Text="B) Prescribir medicación en planta."
+                                   TextWrapping="Wrap"/>
+                    </RadioButton>
+
+                    <RadioButton x:Name="rb_option3"
+                                 GroupName="Answers"
+                                 Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock Text="C) Realizar diagnósticos clínicos especializados."
+                                   TextWrapping="Wrap"/>
+                    </RadioButton>
+
+                    <RadioButton x:Name="rb_option4"
+                                 GroupName="Answers"
+                                 Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock Text="D) Autorizar altas hospitalarias."
+                                   TextWrapping="Wrap"/>
+                    </RadioButton>
+                </StackPanel>
+
+                <!-- RESULTADO / EXPLICACIÓN -->
+                <Border x:Name="resultPanel"
+                        Background="#ECFDF3"
+                        BorderBrush="#A7F3D0"
+                        BorderThickness="1.5"
+                        CornerRadius="18"
+                        Padding="20"
+                        Margin="0,8,0,0"
+                        Visibility="Collapsed">
+                    <StackPanel>
+                        <TextBlock x:Name="lbl_resultTitle"
+                                   Text="Respuesta correcta"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Foreground="#065F46"/>
+
+                        <TextBlock Text="Opción correcta"
+                                   FontSize="13"
+                                   FontWeight="SemiBold"
+                                   Foreground="#6B7280"
+                                   Margin="0,14,0,0"/>
+
+                        <Label x:Name="lbl_correctAnswer"
+                               Content="A) Trasladar pacientes dentro del centro sanitario."
+                               FontSize="18"
+                               FontWeight="SemiBold"
+                               Foreground="#1F2937"
+                               Padding="0"
+                               Margin="0,6,0,0"/>
+
+                        <TextBlock Text="Explicación"
+                                   FontSize="13"
+                                   FontWeight="SemiBold"
+                                   Foreground="#6B7280"
+                                   Margin="0,16,0,0"/>
+
+                        <TextBlock x:Name="lbl_explanation"
+                                   Text="El celador se encarga, entre otras funciones, del traslado de pacientes y apoyo logístico dentro del centro. No prescribe medicación, no realiza diagnósticos ni autoriza altas."
+                                   FontSize="15"
+                                   Foreground="#374151"
+                                   TextWrapping="Wrap"
+                                   Margin="0,6,0,0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- BOTONES -->
+                <Grid Margin="0,22,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="btn_Answer"
+                            Grid.Column="0"
+                            Content="Responder"
+                            Style="{StaticResource PrimaryButtonStyle}"/>
+
+                    <Button x:Name="btn_NextQuestion"
+                            Grid.Column="1"
+                            Content="Siguiente pregunta"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Visibility="Collapsed"/>
+                </Grid>
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- FOOTER -->
+        <TextBlock Grid.Row="2"
+                   Text="Desarrollado por Ekaitz Blanca"
+                   HorizontalAlignment="Center"
+                   Margin="0,20,0,0"
+                   FontSize="12"
+                   Foreground="#9CA3AF"/>
+    </Grid>
+</Page>

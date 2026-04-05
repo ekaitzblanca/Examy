@@ -1,4 +1,6 @@
-﻿using System;
+﻿using SimulacroOposiciones.Data;
+using SimulacroOposiciones.Objects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,6 +65,49 @@ namespace SimulacroOposiciones.MVC.StartTest
             }
 
             return displaytype;
+        }
+
+        public List<Question> GenerateQuestionary(string category, string mode, string type)
+        {
+            List<Question> temporal = new List<Question>();
+            List<Question> questionary = new List<Question>();
+
+            switch (category)
+            {
+                case "auxiliar":
+                    temporal = new List<Question>(Gen.auxiliar_questions);
+                    break;
+                case "laboratorio":
+                    temporal = new List<Question>(Gen.laboratorio_questions);
+                    break;
+                case "celador":
+                    temporal = new List<Question>(Gen.celador_questions);
+                    break;
+            }
+
+            switch (mode)
+            {
+                case "practica":
+                    switch (type)
+                    {
+                        case "comun":
+                            temporal = temporal.Where(q => q.type == "comun").ToList();
+                            break;
+                        case "especifico":
+                            temporal = temporal.Where(q => q.type == "especifico").ToList();
+                            break;
+                        case "todo":
+                            break;
+                    }
+                    questionary = temporal.OrderBy(x => Guid.NewGuid()).Take(50).ToList();
+                    break;
+                case "errores":
+                    break;
+                case "examen":
+                    break;
+            }
+
+            return questionary;
         }
     }
 }

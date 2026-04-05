@@ -40,7 +40,7 @@ namespace SimulacroOposiciones.MVC.ModeMenu
         }
 
         private void Examen_Click(object sender, RoutedEventArgs e)
-        {
+        {            
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.StartTest.View(_category, "examen", ""));
         }
     }

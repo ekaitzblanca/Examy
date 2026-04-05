@@ -1,7 +1,7 @@
 [
   {
     "number": "1.",
-    "type": "Comun",
+    "type": "comun",
     "question": "El marco territorial de la atenci�n primaria es:",
     "answer": "b",
     "options": [
@@ -25,7 +25,7 @@
   },
   {
     "number": "2.",
-    "type": "Specific",
+    "type": "especifico",
     "question": "El marco territorial de la atenci�n primaria es:",
     "answer": "b",
     "options": [

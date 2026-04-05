@@ -1,8 +1,10 @@
-﻿using System;
+﻿using SimulacroOposiciones.Objects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace SimulacroOposiciones.MVC.StartTest
 {
@@ -31,7 +33,15 @@ namespace SimulacroOposiciones.MVC.StartTest
 
         public void setListeners()
         {
- 
+            _view.btn_StartTest.Click += StartTest_Click;
         }
+
+        private void StartTest_Click(object sender, RoutedEventArgs e)
+        {
+            List<Question> questions = _model.GenerateQuestionary(_category, _mode, _type);
+
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.Questionary.View());
+        }
+
     }
 }

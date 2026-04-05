@@ -16,8 +16,13 @@ namespace SimulacroOposiciones
         {
             base.OnStartup(e);
 
-            //string auxiliar_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\auxiliar_questions.json"));
-            //Gen.questions_200 = LoadQuestions(auxiliar_path);
+            string auxiliar_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\auxiliar_questions.json"));
+            string laboratorio_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\laboratorio_questions.json"));
+            string celador_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\celador_questions.json"));
+
+            Gen.auxiliar_questions = LoadQuestions(auxiliar_path);
+            Gen.laboratorio_questions = LoadQuestions(laboratorio_path);
+            Gen.celador_questions = LoadQuestions(celador_path);
 
             MVC.App app = new MVC.App();
             app.Show();
