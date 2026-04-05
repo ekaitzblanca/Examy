@@ -3,7 +3,7 @@
     "number": "1.",
     "type": "especifico",
     "question": "El marco territorial de la atención primaria es:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -27,7 +27,7 @@
     "number": "2.",
     "type": "especifico",
     "question": "El órgano permanente de coordinación, cooperación, comunicación e información de los servicios de salud entre ellos y con la administración de estado se denomina:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -51,7 +51,7 @@
     "number": "3.",
     "type": "especifico",
     "question": "En la hoja de interconsulta:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -75,7 +75,7 @@
     "number": "4.",
     "type": "especifico",
     "question": "¿Cuál es la estructura fundamental del sistema sanitario español?",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -99,7 +99,7 @@
     "number": "5.",
     "type": "especifico",
     "question": "¿Cuál es la principal característica de la salud comunitaria que la diferencia de la salud pública?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -123,7 +123,7 @@
     "number": "6.",
     "type": "especifico",
     "question": "¿En qué trabaja básicamente la salud comunitaria?",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -147,7 +147,7 @@
     "number": "7.",
     "type": "especifico",
     "question": "Definimos el proceso de atención de enfermería como:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -171,7 +171,7 @@
     "number": "8.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes características NO pertenece a la historia clínica hospitalaria?",
-    "answer": "",
+    "answer": "d",
     "options": [
       {
         "letter": "a",
@@ -195,7 +195,7 @@
     "number": "9.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes frases NO es verdad acerca de la esperanza de vida?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -219,7 +219,7 @@
     "number": "10.",
     "type": "especifico",
     "question": "Un material sensible a la humedad es:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -243,7 +243,7 @@
     "number": "11.",
     "type": "especifico",
     "question": "Entre las funciones del almacén NO se encuentra:",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -267,7 +267,7 @@
     "number": "12.",
     "type": "especifico",
     "question": "El conjunto de productos que tienen movimientos en una empresa se denomina:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -291,7 +291,7 @@
     "number": "13.",
     "type": "especifico",
     "question": "¿En qué año se crea la figura de Técnico en Cuidados Auxiliares de Enfermería?",
-    "answer": "",
+    "answer": "d",
     "options": [
       {
         "letter": "a",
@@ -315,7 +315,7 @@
     "number": "14.",
     "type": "especifico",
     "question": "La documentación no clínica es un tipo de documentación:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -339,7 +339,7 @@
     "number": "15.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes NO se encuentra dentro de las funciones del TCAE?",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -363,7 +363,7 @@
     "number": "16.",
     "type": "especifico",
     "question": "¿En qué año se instauran en España los estudios de formación profesional en la rama sanitaria donde aparece el título de auxiliar de clínica?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -387,7 +387,7 @@
     "number": "17.",
     "type": "especifico",
     "question": "En los tipos de documentación, ¿Cuál de las siguientes es una documentación no clínica?",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -411,7 +411,7 @@
     "number": "18.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes materiales precisa de condiciones distintas de almacenamiento por ser higroscópico?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -435,7 +435,7 @@
     "number": "19.",
     "type": "especifico",
     "question": "El profesional técnico en cuidados auxiliares de enfermería es:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -459,7 +459,7 @@
     "number": "20.",
     "type": "especifico",
     "question": "La documentación clínica deberá ser conservada durante un intervalo de tiempo de:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -483,7 +483,7 @@
     "number": "21.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes funciones pertenece al TCAE en los departamentos de quirófano y esterilización?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -507,7 +507,7 @@
     "number": "22.",
     "type": "especifico",
     "question": "Indicadores de morbilidad. La prevalencia es:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -531,7 +531,7 @@
     "number": "23.",
     "type": "especifico",
     "question": "Dentro de los modelos de enfermería, el modelo suplementario y complementario fue propuesto por:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -555,7 +555,7 @@
     "number": "24.",
     "type": "especifico",
     "question": "Documentos extrahospitalarios. El parte de EDO es:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -579,7 +579,7 @@
     "number": "25.",
     "type": "especifico",
     "question": "La aplicación del principio de Pareto en el almacén sanitario. Es correcto que los productos tipo B:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -603,7 +603,7 @@
     "number": "26.",
     "type": "especifico",
     "question": "Según las condiciones de almacenamiento, ¿Cuál de los siguientes se considera material termosensible?",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -627,7 +627,7 @@
     "number": "27.",
     "type": "especifico",
     "question": "En la salud comunitaria:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -651,7 +651,7 @@
     "number": "28.",
     "type": "especifico",
     "question": "En la valoración de existencias en el almacén se utiliza el método:",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -675,7 +675,7 @@
     "number": "29.",
     "type": "especifico",
     "question": "¿Qué modelo de enfermería considera al hombre como un ser biopsicosocial en constante interacción con el entorno?",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -699,7 +699,7 @@
     "number": "30.",
     "type": "especifico",
     "question": "De los siguientes casos, ¿cuándo se utilizarán guantes estériles?",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -723,7 +723,7 @@
     "number": "31.",
     "type": "especifico",
     "question": "¿En cuál de los siguientes casos NO es necesario el uso de guantes?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -747,7 +747,7 @@
     "number": "32.",
     "type": "especifico",
     "question": "Una vez cumplimentado el parte de lesiones por agresión o abuso sexual:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -771,7 +771,7 @@
     "number": "33.",
     "type": "especifico",
     "question": "Según la guía de actuación para profesionales de la salud ante la violencia de género y las agresiones sexuales en Euskadi, en la prevención terciaria es FALSO:",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -795,7 +795,7 @@
     "number": "34.",
     "type": "especifico",
     "question": "La ética kantiana (Immanuel Kant) se caracteriza porque:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -819,7 +819,7 @@
     "number": "35.",
     "type": "especifico",
     "question": "El consentimiento informado es:",
-    "answer": "",
+    "answer": "d",
     "options": [
       {
         "letter": "a",
@@ -843,7 +843,7 @@
     "number": "36.",
     "type": "especifico",
     "question": "¿Cuál es un principio o criterio a aplicar para lograr la justicia sanitaria?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -867,7 +867,7 @@
     "number": "37.",
     "type": "especifico",
     "question": "Respecto al debate actual sobre el aborto, de las siguientes frases, cuál NO es un motivo que se utiliza para alegar la interrupción del embarazo:",
-    "answer": "",
+    "answer": "d",
     "options": [
       {
         "letter": "a",
@@ -891,7 +891,7 @@
     "number": "38.",
     "type": "especifico",
     "question": "El principio de beneficencia es uno de los principios incluidos en:",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -915,7 +915,7 @@
     "number": "39.",
     "type": "especifico",
     "question": "En la obtención de órganos de donantes en muerte cerebral:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -939,7 +939,7 @@
     "number": "40.",
     "type": "especifico",
     "question": "En general, las leyes despenalizadoras del aborto pueden ser:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -963,7 +963,7 @@
     "number": "41.",
     "type": "especifico",
     "question": "Respecto a la movilización de pacientes, ¿cuál es la posición recomendada para los pies con el fin de garantizar una base de sustentación segura y estable?",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -987,7 +987,7 @@
     "number": "42.",
     "type": "especifico",
     "question": "En caso de sufrir un accidente biológico por salpicadura en las mucosas, ¿cuál es el protocolo de limpieza?",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -1011,7 +1011,7 @@
     "number": "43.",
     "type": "especifico",
     "question": "Durante la retirada de lencería de una cama, ¿qué precaución crítica debe adoptar el/la TCAE para evitar accidentes biológicos antes de enviar la ropa a lavandería?",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -1035,7 +1035,7 @@
     "number": "44.",
     "type": "especifico",
     "question": "¿Cuál es el plazo recomendado para notificar un accidente biológico al/la responsable del área o al Servicio de Prevención?",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -1059,7 +1059,7 @@
     "number": "45.",
     "type": "especifico",
     "question": "Si la información obligatoria de la etiqueta de un producto químico es insuficiente para la persona trabajadora, ¿qué documento debe consultar como fuente de información avanzada?",
-    "answer": "",
+    "answer": "c",
     "options": [
       {
         "letter": "a",
@@ -1083,7 +1083,7 @@
     "number": "46.",
     "type": "especifico",
     "question": "Entre las funciones que el/la TCAE ha de llevar a cabo en los servicios de enfermería NO se encuentra:",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -1107,7 +1107,7 @@
     "number": "47.",
     "type": "especifico",
     "question": "¿Qué autor describe esta serie de estadios en la evolución de la infancia: impulsivo, puro, emocional, sensomotor?",
-    "answer": "",
+    "answer": "d",
     "options": [
       {
         "letter": "a",
@@ -1131,7 +1131,7 @@
     "number": "48.",
     "type": "especifico",
     "question": "¿Qué teorías de la personalidad ponen el acento en el funcionamiento inconsciente, en las motivaciones inconscientes y en el choque entre la vida instintiva, la realidad y las limitaciones que impone la sociedad?",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
@@ -1155,7 +1155,7 @@
     "number": "49.",
     "type": "especifico",
     "question": "¿Qué mecanismo de defensa de la personalidad utilizamos cuándo rechazamos de nuestra conciencia los contenidos desagradables o dolorosos?",
-    "answer": "",
+    "answer": "b",
     "options": [
       {
         "letter": "a",
@@ -1179,7 +1179,7 @@
     "number": "50.",
     "type": "especifico",
     "question": "Cuando una persona no expresa sus verdaderos sentimientos y opiniones, aceptando los criterios de los demás, hablamos de un estilo de relación – comunicación:",
-    "answer": "",
+    "answer": "a",
     "options": [
       {
         "letter": "a",
