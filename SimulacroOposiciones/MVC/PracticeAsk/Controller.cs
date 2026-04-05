@@ -42,6 +42,7 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
 
             _view.btn_Previous.Click += Previous_Click;
             _view.btn_Next.Click += Next_Click;
+            _view.btn_Fin.Click += Fin_Click;
         }
 
         private void option1_Checked(object sender, RoutedEventArgs e)
@@ -93,5 +94,9 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index+1, _questions));
         }
 
+        private void Fin_Click(object sender, RoutedEventArgs e)
+        {
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.CategoryMenu.View());
+        }
     }
 }

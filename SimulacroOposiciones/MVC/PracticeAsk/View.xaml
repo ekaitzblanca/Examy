@@ -113,6 +113,44 @@
             </Setter>
         </Style>
 
+        <!-- BOTÓN PRINCIPAL (AZUL) -->
+        <Style x:Key="PrimaryButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="60"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#0F4C81"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="18"
+                                Padding="16">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#13619F"/>
+                            </Trigger>
+
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#0B3A63"/>
+                            </Trigger>
+
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="border" Property="Opacity" Value="0.6"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
     </Page.Resources>
 
     <Grid Margin="30">
@@ -170,36 +208,20 @@
 
                 <!-- RESPUESTAS -->
                 <StackPanel>
-                    <RadioButton x:Name="rb_option1"
-                                 GroupName="Answers"
-                                 Style="{StaticResource OptionRadioStyle}">
-                        <TextBlock x:Name="lbl_r1"
-                                   Text="Respuesta A"
-                                   TextWrapping="Wrap"/>
+                    <RadioButton x:Name="rb_option1" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r1" Text="Respuesta A" TextWrapping="Wrap"/>
                     </RadioButton>
 
-                    <RadioButton x:Name="rb_option2"
-                                 GroupName="Answers"
-                                 Style="{StaticResource OptionRadioStyle}">
-                        <TextBlock x:Name="lbl_r2"
-                                   Text="Respuesta B"
-                                   TextWrapping="Wrap"/>
+                    <RadioButton x:Name="rb_option2" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r2" Text="Respuesta B" TextWrapping="Wrap"/>
                     </RadioButton>
 
-                    <RadioButton x:Name="rb_option3"
-                                 GroupName="Answers"
-                                 Style="{StaticResource OptionRadioStyle}">
-                        <TextBlock x:Name="lbl_r3"
-                                   Text="Respuesta C"
-                                   TextWrapping="Wrap"/>
+                    <RadioButton x:Name="rb_option3" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r3" Text="Respuesta C" TextWrapping="Wrap"/>
                     </RadioButton>
 
-                    <RadioButton x:Name="rb_option4"
-                                 GroupName="Answers"
-                                 Style="{StaticResource OptionRadioStyle}">
-                        <TextBlock x:Name="lbl_r4"
-                                   Text="Respuesta D"
-                                   TextWrapping="Wrap"/>
+                    <RadioButton x:Name="rb_option4" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r4" Text="Respuesta D" TextWrapping="Wrap"/>
                     </RadioButton>
                 </StackPanel>
 
@@ -222,6 +244,12 @@
                             Style="{StaticResource SecondaryButtonStyle}"
                             Margin="8,0,0,0"/>
                 </Grid>
+
+                <!-- BOTÓN FINALIZAR -->
+                <Button x:Name="btn_Fin"
+                        Content="Finalizar test"
+                        Style="{StaticResource PrimaryButtonStyle}"
+                        Margin="0,12,0,0"/>
 
             </StackPanel>
         </ScrollViewer>

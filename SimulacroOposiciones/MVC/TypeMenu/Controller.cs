@@ -29,6 +29,8 @@ namespace SimulacroOposiciones.MVC.TypeMenu
             _view.btn_Comun.Click += Comun_Click;
             _view.btn_Especifico.Click += Especifico_Click;
             _view.btn_Todo.Click += Todo_Click;
+
+            _view.btn_Back.Click += Back_Click;
         }
 
         private void Comun_Click(object sender, RoutedEventArgs e)
@@ -46,6 +48,11 @@ namespace SimulacroOposiciones.MVC.TypeMenu
         private void Todo_Click(object sender, RoutedEventArgs e)
         {
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.StartTest.View(_category, _mode, "todo"));
+        }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.ModeMenu.View(_category));
         }
     }
 }

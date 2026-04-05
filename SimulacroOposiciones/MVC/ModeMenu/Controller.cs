@@ -27,6 +27,8 @@ namespace SimulacroOposiciones.MVC.ModeMenu
             _view.btn_Practica.Click += Practica_Click;
             _view.btn_Errores.Click += Errores_Click;
             _view.btn_Examen.Click += Examen_Click;
+
+            _view.btn_Back.Click += Back_Click;
         }
 
         private void Practica_Click(object sender, RoutedEventArgs e)
@@ -42,6 +44,11 @@ namespace SimulacroOposiciones.MVC.ModeMenu
         private void Examen_Click(object sender, RoutedEventArgs e)
         {            
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.StartTest.View(_category, "examen", ""));
+        }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.CategoryMenu.View());
         }
     }
 }

@@ -34,6 +34,7 @@ namespace SimulacroOposiciones.MVC.StartTest
         public void setListeners()
         {
             _view.btn_StartTest.Click += StartTest_Click;
+            _view.btn_Back.Click += Back_Click;
         }
 
         private void StartTest_Click(object sender, RoutedEventArgs e)
@@ -41,6 +42,11 @@ namespace SimulacroOposiciones.MVC.StartTest
             List<Question> questions = _model.GenerateQuestionary(_category, _mode, _type);
 
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, questions));
+        }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.TypeMenu.View(_category, _mode));
         }
 
     }

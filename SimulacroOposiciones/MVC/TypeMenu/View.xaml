@@ -10,6 +10,8 @@
       Background="#F4F8FB">
 
     <Page.Resources>
+
+        <!-- BOTONES PRINCIPALES -->
         <Style x:Key="TypeButtonStyle" TargetType="Button">
             <Setter Property="Foreground" Value="#1F2937"/>
             <Setter Property="FontSize" Value="22"/>
@@ -101,6 +103,45 @@
                 </Setter.Value>
             </Setter>
         </Style>
+
+        <!-- BOTÓN BACK -->
+        <Style x:Key="BackButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="54"/>
+            <Setter Property="FontSize" Value="17"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="#0F4C81"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#C7D9EA"/>
+            <Setter Property="BorderThickness" Value="1.5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="16"
+                                Padding="14">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F8FBFF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#93C5FD"/>
+                            </Trigger>
+
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#EEF6FF"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
     </Page.Resources>
 
     <Grid Margin="30">
@@ -108,9 +149,10 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- CABECERA COMPACTA -->
+        <!-- CABECERA -->
         <Border Grid.Row="0"
                 Background="#0F4C81"
                 CornerRadius="18"
@@ -136,24 +178,21 @@
 
         <!-- BOTONES -->
         <StackPanel Grid.Row="1">
-            <Button x:Name="btn_Comun"
-                    Tag="comun"
-                    Content="Común"
-                    Style="{StaticResource TypeButtonStyle}"/>
-
-            <Button x:Name="btn_Especifico"
-                    Tag="especifico"
-                    Content="Específico"
-                    Style="{StaticResource TypeButtonStyle}"/>
-
-            <Button x:Name="btn_Todo"
-                    Tag="todo"
-                    Content="Todo"
-                    Style="{StaticResource TypeButtonStyle}"/>
+            <Button x:Name="btn_Comun" Tag="comun" Content="Común" Style="{StaticResource TypeButtonStyle}"/>
+            <Button x:Name="btn_Especifico" Tag="especifico" Content="Específico" Style="{StaticResource TypeButtonStyle}"/>
+            <Button x:Name="btn_Todo" Tag="todo" Content="Todo" Style="{StaticResource TypeButtonStyle}"/>
         </StackPanel>
 
+        <!-- BOTÓN VOLVER -->
+        <Button x:Name="btn_Back"
+                Grid.Row="2"
+                Content="← Volver"
+                Style="{StaticResource BackButtonStyle}"
+                Margin="0,8,0,0"
+                />
+
         <!-- FOOTER -->
-        <TextBlock Grid.Row="2"
+        <TextBlock Grid.Row="3"
                    Text="Desarrollado por Ekaitz Blanca"
                    HorizontalAlignment="Center"
                    Margin="0,20,0,0"

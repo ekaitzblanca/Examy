@@ -10,6 +10,8 @@
       Background="#F4F8FB">
 
     <Page.Resources>
+
+        <!-- INFO CARDS -->
         <Style x:Key="InfoCardStyle" TargetType="Border">
             <Setter Property="Background" Value="White"/>
             <Setter Property="CornerRadius" Value="18"/>
@@ -33,13 +35,13 @@
             <Setter Property="Margin" Value="0,6,0,0"/>
         </Style>
 
+        <!-- BOTÓN INICIAR -->
         <Style x:Key="StartButtonStyle" TargetType="Button">
             <Setter Property="Height" Value="64"/>
             <Setter Property="FontSize" Value="22"/>
             <Setter Property="FontWeight" Value="Bold"/>
             <Setter Property="Foreground" Value="White"/>
             <Setter Property="Background" Value="#0F4C81"/>
-            <Setter Property="BorderBrush" Value="#0F4C81"/>
             <Setter Property="BorderThickness" Value="0"/>
             <Setter Property="Cursor" Value="Hand"/>
             <Setter Property="Template">
@@ -50,14 +52,11 @@
                                 CornerRadius="18"
                                 Padding="16">
                             <StackPanel Orientation="Horizontal"
-                                        HorizontalAlignment="Center"
-                                        VerticalAlignment="Center">
+                                        HorizontalAlignment="Center">
                                 <TextBlock Text="▶"
                                            FontSize="18"
-                                           Margin="0,0,10,0"
-                                           VerticalAlignment="Center"/>
-                                <ContentPresenter HorizontalAlignment="Center"
-                                                  VerticalAlignment="Center"/>
+                                           Margin="0,0,10,0"/>
+                                <ContentPresenter/>
                             </StackPanel>
                         </Border>
 
@@ -73,12 +72,52 @@
                 </Setter.Value>
             </Setter>
         </Style>
+
+        <!-- BOTÓN BACK -->
+        <Style x:Key="BackButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="54"/>
+            <Setter Property="FontSize" Value="17"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="#0F4C81"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#C7D9EA"/>
+            <Setter Property="BorderThickness" Value="1.5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="16"
+                                Padding="14">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F8FBFF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#93C5FD"/>
+                            </Trigger>
+
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#EEF6FF"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
     </Page.Resources>
 
     <Grid Margin="30">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
@@ -119,37 +158,28 @@
             <!-- CATEGORÍA -->
             <Border Grid.Row="0" Style="{StaticResource InfoCardStyle}">
                 <StackPanel>
-                    <TextBlock Text="Categoría"
-                               Style="{StaticResource SectionTitleStyle}"/>
-                    <Label x:Name="lbl_category"
-                           Content="Auxiliar de Enfermería"
-                           Style="{StaticResource SectionValueStyle}"/>
+                    <TextBlock Text="Categoría" Style="{StaticResource SectionTitleStyle}"/>
+                    <Label x:Name="lbl_category" Content="Auxiliar de Enfermería" Style="{StaticResource SectionValueStyle}"/>
                 </StackPanel>
             </Border>
 
             <!-- MODO -->
             <Border Grid.Row="1" Style="{StaticResource InfoCardStyle}">
                 <StackPanel>
-                    <TextBlock Text="Modo de test"
-                               Style="{StaticResource SectionTitleStyle}"/>
-                    <Label x:Name="lbl_mode"
-                           Content="Test de Práctica"
-                           Style="{StaticResource SectionValueStyle}"/>
+                    <TextBlock Text="Modo de test" Style="{StaticResource SectionTitleStyle}"/>
+                    <Label x:Name="lbl_mode" Content="Test de Práctica" Style="{StaticResource SectionValueStyle}"/>
                 </StackPanel>
             </Border>
 
             <!-- TIPO -->
             <Border Grid.Row="2" Style="{StaticResource InfoCardStyle}">
                 <StackPanel>
-                    <TextBlock Text="Tipo de contenido"
-                               Style="{StaticResource SectionTitleStyle}"/>
-                    <Label x:Name="lbl_type"
-                           Content="Común"
-                           Style="{StaticResource SectionValueStyle}"/>
+                    <TextBlock Text="Tipo de contenido" Style="{StaticResource SectionTitleStyle}"/>
+                    <Label x:Name="lbl_type" Content="Común" Style="{StaticResource SectionValueStyle}"/>
                 </StackPanel>
             </Border>
 
-            <!-- TEXTO DE APOYO -->
+            <!-- INFO -->
             <Border Grid.Row="3"
                     Background="#EEF6FF"
                     CornerRadius="18"
@@ -158,27 +188,31 @@
                     BorderBrush="#CFE3F8"
                     BorderThickness="1">
                 <StackPanel Orientation="Horizontal">
-                    <TextBlock Text="🧠"
-                               FontSize="24"
-                               Margin="0,0,12,0"
-                               VerticalAlignment="Center"/>
+                    <TextBlock Text="🧠" FontSize="24" Margin="0,0,12,0"/>
                     <TextBlock Text="Todo listo para empezar. Cuando pulses el botón, comenzará tu simulacro en Examy."
                                FontSize="14"
                                Foreground="#37516B"
-                               VerticalAlignment="Center"
                                TextWrapping="Wrap"/>
                 </StackPanel>
             </Border>
 
-            <!-- BOTÓN -->
+            <!-- BOTÓN INICIAR -->
             <Button Grid.Row="4"
                     x:Name="btn_StartTest"
                     Content="Iniciar test"
                     Style="{StaticResource StartButtonStyle}"/>
         </Grid>
 
+        <!-- BOTÓN BACK -->
+        <Button x:Name="btn_Back"
+                Grid.Row="2"
+                Content="← Volver"
+                Style="{StaticResource BackButtonStyle}"
+                Margin="0,10,0,0"
+                />
+
         <!-- FOOTER -->
-        <TextBlock Grid.Row="2"
+        <TextBlock Grid.Row="3"
                    Text="Desarrollado por Ekaitz Blanca"
                    HorizontalAlignment="Center"
                    Margin="0,20,0,0"
