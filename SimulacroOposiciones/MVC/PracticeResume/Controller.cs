@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulacroOposiciones.MVC.Resume
+namespace SimulacroOposiciones.MVC.PracticeResume
 {
-    class Model
+    class Controller
     {
     }
 }

@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SimulacroOposiciones.MVC.Ask
+namespace SimulacroOposiciones.MVC.PracticeAsk
 {
     /// <summary>
     /// Lógica de interacción para View.xaml
@@ -27,5 +27,7 @@ namespace SimulacroOposiciones.MVC.Ask
 
             Controller controller = new Controller(this, index, questions);
         }
+
+        
     }
 }

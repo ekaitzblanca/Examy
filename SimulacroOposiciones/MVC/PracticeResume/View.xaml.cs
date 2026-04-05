@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SimulacroOposiciones.MVC.Resume
+namespace SimulacroOposiciones.MVC.PracticeResume
 {
     /// <summary>
     /// Lógica de interacción para View.xaml
