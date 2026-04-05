@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulacroOposiciones.MVC.Questionary
+namespace SimulacroOposiciones.MVC.Resume
 {
-    public class Model
+    class Model
     {
     }
 }

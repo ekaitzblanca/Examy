@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimulacroOposiciones.Objects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,16 +14,18 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SimulacroOposiciones.MVC.Questionary
+namespace SimulacroOposiciones.MVC.Ask
 {
     /// <summary>
     /// Lógica de interacción para View.xaml
     /// </summary>
     public partial class View : Page
     {
-        public View()
+        public View(int index, List<Question> questions)
         {
             InitializeComponent();
+
+            Controller controller = new Controller(this, index, questions);
         }
     }
 }

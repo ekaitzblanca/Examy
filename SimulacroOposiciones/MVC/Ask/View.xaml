@@ -1,0 +1,193 @@
+﻿<Page x:Class="SimulacroOposiciones.MVC.Ask.View"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SimulacroOposiciones.MVC.Ask"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1000"
+      Title="Examy"
+      Background="#F4F8FB">
+
+    <Page.Resources>
+        <!-- RESPUESTAS -->
+        <Style x:Key="OptionRadioStyle" TargetType="RadioButton">
+            <Setter Property="Margin" Value="0,0,0,16"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Foreground" Value="#1F2937"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="RadioButton">
+                        <Border x:Name="border"
+                                Background="White"
+                                BorderBrush="#D6E4F0"
+                                BorderThickness="1.5"
+                                CornerRadius="18"
+                                Padding="18">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="36"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Grid Width="22" Height="22" Margin="0,2,0,0">
+                                    <Ellipse Width="22" Height="22"
+                                             Stroke="#9CA3AF"
+                                             StrokeThickness="2"/>
+                                    <Ellipse x:Name="innerCircle"
+                                             Width="10"
+                                             Height="10"
+                                             Fill="#0F4C81"
+                                             Visibility="Collapsed"
+                                             HorizontalAlignment="Center"
+                                             VerticalAlignment="Center"/>
+                                </Grid>
+
+                                <ContentPresenter Grid.Column="1"
+                                                  Margin="12,0,0,0"/>
+                            </Grid>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F9FCFF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#93C5FD"/>
+                            </Trigger>
+
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#EEF6FF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#3B82F6"/>
+                                <Setter TargetName="innerCircle" Property="Visibility" Value="Visible"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- BOTÓN SECUNDARIO -->
+        <Style x:Key="SecondaryButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="60"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="#0F4C81"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#C7D9EA"/>
+            <Setter Property="BorderThickness" Value="1.5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="18"
+                                Padding="16">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#F8FBFF"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#93C5FD"/>
+                            </Trigger>
+
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter TargetName="border" Property="Opacity" Value="0.5"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Page.Resources>
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- CABECERA -->
+        <Border Background="#0F4C81"
+                CornerRadius="18"
+                Padding="20"
+                Margin="0,0,0,20">
+            <StackPanel>
+                <TextBlock Text="Examy"
+                           FontSize="32"
+                           FontWeight="Bold"
+                           Foreground="White"/>
+
+                <TextBlock Text="Pregunta en curso"
+                           FontSize="14"
+                           Foreground="#DCEBFA"
+                           Margin="0,4,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- CONTENIDO -->
+        <ScrollViewer Grid.Row="1">
+            <StackPanel>
+
+                <!-- PREGUNTA -->
+                <Border Background="White"
+                        BorderBrush="#D6E4F0"
+                        BorderThickness="1.5"
+                        CornerRadius="20"
+                        Padding="24"
+                        Margin="0,0,0,20">
+                    <Label x:Name="lbl_question"
+                           Content="Aquí va la pregunta"
+                           FontSize="24"
+                           FontWeight="SemiBold"
+                           Padding="0"/>
+                </Border>
+
+                <!-- RESPUESTAS -->
+                <StackPanel>
+                    <RadioButton x:Name="rb_option1" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r1" Text="Respuesta A"/>
+                    </RadioButton>
+
+                    <RadioButton x:Name="rb_option2" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r2" Text="Respuesta B"/>
+                    </RadioButton>
+
+                    <RadioButton x:Name="rb_option3" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r3" Text="Respuesta C"/>
+                    </RadioButton>
+
+                    <RadioButton x:Name="rb_option4" GroupName="Answers" Style="{StaticResource OptionRadioStyle}">
+                        <TextBlock x:Name="lbl_r4" Text="Respuesta D"/>
+                    </RadioButton>
+                </StackPanel>
+
+                <!-- BOTONES -->
+                <Grid Margin="0,20,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="btn_Previous"
+                            Grid.Column="0"
+                            Content="← Anterior"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Margin="0,0,8,0"/>
+
+                    <Button x:Name="btn_Next"
+                            Grid.Column="1"
+                            Content="Siguiente →"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Margin="8,0,0,0"/>
+                </Grid>
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
