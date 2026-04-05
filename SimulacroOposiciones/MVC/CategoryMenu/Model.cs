@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulacroOposiciones.MVC.StartMenu
+namespace SimulacroOposiciones.MVC.CategoryMenu
 {
     public class Model
     {

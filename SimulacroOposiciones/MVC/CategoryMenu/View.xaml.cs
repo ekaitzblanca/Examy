@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SimulacroOposiciones.MVC.Auxiliar
+namespace SimulacroOposiciones.MVC.CategoryMenu
 {
     /// <summary>
     /// Lógica de interacción para View.xaml

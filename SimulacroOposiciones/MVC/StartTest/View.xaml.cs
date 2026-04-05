@@ -13,18 +13,18 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SimulacroOposiciones.MVC.StartMenu
+namespace SimulacroOposiciones.MVC.StartTest
 {
     /// <summary>
     /// Lógica de interacción para View.xaml
     /// </summary>
     public partial class View : Page
     {
-        public View()
+        public View(string category, string mode, string type)
         {
             InitializeComponent();
 
-            Controller controller = new Controller(this);
+            Controller controller = new Controller(this, category, mode, type);
         }
     }
 }

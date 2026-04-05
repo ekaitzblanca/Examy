@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulacroOposiciones.MVC.Auxiliar
+namespace SimulacroOposiciones.MVC.StartTest
 {
     public class Model
     {

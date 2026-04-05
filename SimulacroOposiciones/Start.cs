@@ -1,5 +1,5 @@
 ﻿using SimulacroOposiciones.Data;
-using SimulacroOposiciones.MVC.StartMenu;
+using SimulacroOposiciones.MVC.CategoryMenu;
 using SimulacroOposiciones.Objects;
 using System.Collections.Generic;
 using System.IO;
@@ -16,9 +16,8 @@ namespace SimulacroOposiciones
         {
             base.OnStartup(e);
 
-            string auxiliar_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\auxiliar_questions.json"));
-
-            Gen.questions_200 = LoadQuestions(auxiliar_path);
+            //string auxiliar_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\auxiliar_questions.json"));
+            //Gen.questions_200 = LoadQuestions(auxiliar_path);
 
             MVC.App app = new MVC.App();
             app.Show();

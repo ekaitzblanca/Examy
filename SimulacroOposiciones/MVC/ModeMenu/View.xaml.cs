@@ -1,5 +1,4 @@
-﻿using SimulacroOposiciones.MVC.CategoryMenu;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,17 +13,18 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SimulacroOposiciones.MVC
+namespace SimulacroOposiciones.MVC.ModeMenu
 {
     /// <summary>
-    /// Lógica de interacción para App.xaml
+    /// Lógica de interacción para View.xaml
     /// </summary>
-    public partial class App : Window
+    public partial class View : Page
     {
-        public App()
+        public View(string category)
         {
             InitializeComponent();
-            Pages.Navigate(new MVC.CategoryMenu.View());
+
+            Controller controller = new Controller(this, category);
         }
     }
 }
