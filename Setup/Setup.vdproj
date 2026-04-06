@@ -15,13 +15,13 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_D05E9982D342458CAC2FC828D02F67EC"
+        "MsmKey" = "8:_19F40C9DDDEF4267BCA3E99C268057FC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F2735457F8A745B7BBB260D777178597"
+        "MsmKey" = "8:_C19517775B20409A8F03BD40DF653E33"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -82,6 +82,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -114,9 +122,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D05E9982D342458CAC2FC828D02F67EC"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C19517775B20409A8F03BD40DF653E33"
             {
-            "SourcePath" = "8:C:\\Users\\AvocAditoX\\Downloads\\Examy.ico"
+            "SourcePath" = "8:..\\Examy\\Data\\Examy.ico"
             "TargetName" = "8:Examy.ico"
             "Tag" = "8:"
             "Folder" = "8:_965AB58DC73D4D61B8608F191DC179BE"
@@ -190,15 +198,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Examy"
-        "ProductCode" = "8:{5FE6F01E-080F-4AAA-A9FB-E5A3681C7B08}"
-        "PackageCode" = "8:{398A905D-1D99-4F6B-80DD-E25269E4A20E}"
+        "ProductCode" = "8:{EDD4DC78-15AB-407C-BC79-2A85A88E1E0A}"
+        "PackageCode" = "8:{B158950E-4ABD-4729-8C55-273E0428E65B}"
         "UpgradeCode" = "8:{A261AB7E-A10C-41D0-9DC5-DC2058F5A8DD}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.1"
         "Manufacturer" = "8:Examy"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -311,7 +319,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_6A3AC4B25C59454CAC8239BD35BAE9C3"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_42E6915156EC410D9C7E1A15DB3EC218"
             {
             "Name" = "8:Examy"
             "Arguments" = "8:"
@@ -319,24 +327,24 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_F2735457F8A745B7BBB260D777178597"
-            "Folder" = "8:_1E5DD3A9B0074245BF13FEE732593B0F"
-            "WorkingFolder" = "8:_965AB58DC73D4D61B8608F191DC179BE"
-            "Icon" = "8:_D05E9982D342458CAC2FC828D02F67EC"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A0DE66953F0C44BE811D5E44A3FAFE13"
-            {
-            "Name" = "8:Examy"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_F2735457F8A745B7BBB260D777178597"
+            "Target" = "8:_19F40C9DDDEF4267BCA3E99C268057FC"
             "Folder" = "8:_7A7819AA27E446349AB9863F3905F8EC"
             "WorkingFolder" = "8:_965AB58DC73D4D61B8608F191DC179BE"
-            "Icon" = "8:"
+            "Icon" = "8:_C19517775B20409A8F03BD40DF653E33"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_AA53C4E5443F4A9BB511308E8FF0B8D8"
+            {
+            "Name" = "8:Examy"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_19F40C9DDDEF4267BCA3E99C268057FC"
+            "Folder" = "8:_1E5DD3A9B0074245BF13FEE732593B0F"
+            "WorkingFolder" = "8:_965AB58DC73D4D61B8608F191DC179BE"
+            "Icon" = "8:_C19517775B20409A8F03BD40DF653E33"
             "Feature" = "8:"
             }
         }
@@ -738,7 +746,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_F2735457F8A745B7BBB260D777178597"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_19F40C9DDDEF4267BCA3E99C268057FC"
             {
             "SourcePath" = "8:..\\Examy\\obj\\Debug\\net10.0-windows\\Examy.dll"
             "TargetName" = "8:"
@@ -758,7 +766,7 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
+            "OutputConfiguration" = "8:Debug|Any CPU"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{3E0026AB-CC94-4DF3-97F6-5C072CCE9B62}"
             "ShowKeyOutput" = "11:TRUE"
