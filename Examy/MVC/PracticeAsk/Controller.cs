@@ -24,7 +24,7 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
             _view = view;
             setListeners();
 
-            _view.lbl_question.Text = _index+1 + ". " + _questions[_index].question;
+            _view.lbl_question.Text = _index+1 + ". (" + _questions[_index].number.Replace(".", "") + ") " + _questions[_index].question;
             _view.lbl_r1.Text = _questions[_index].options[0].letter + ") " + _questions[_index].options[0].option;
             _view.lbl_r2.Text = _questions[_index].options[1].letter + ") " + _questions[_index].options[1].option;
             _view.lbl_r3.Text = _questions[_index].options[2].letter + ") " + _questions[_index].options[2].option;
