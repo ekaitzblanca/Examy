@@ -16,9 +16,9 @@ namespace SimulacroOposiciones
         {
             base.OnStartup(e);
 
-            string auxiliar_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\auxiliar_questions.json"));
-            string laboratorio_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\laboratorio_questions.json"));
-            string celador_path = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\..\Data\celador_questions.json"));
+            string auxiliar_path = Path.Combine(AppContext.BaseDirectory, "Data", "auxiliar_questions.json");
+            string laboratorio_path = Path.Combine(AppContext.BaseDirectory, "Data", "laboratorio_questions.json");
+            string celador_path = Path.Combine(AppContext.BaseDirectory, "Data", "celador_questions.json");
 
             Gen.auxiliar_questions = LoadQuestions(auxiliar_path);
             Gen.laboratorio_questions = LoadQuestions(laboratorio_path);

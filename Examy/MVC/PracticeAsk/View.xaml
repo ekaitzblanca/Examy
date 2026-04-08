@@ -164,17 +164,28 @@
                 CornerRadius="18"
                 Padding="20"
                 Margin="0,0,0,20">
-            <StackPanel>
-                <TextBlock Text="Examy"
-                           FontSize="32"
-                           FontWeight="Bold"
-                           Foreground="White"/>
+            <Grid>
+                <TextBlock 
+                    x:Name="lbl_version"
+                    Text="Versión 1.0.0"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Top"
+                           FontSize="12"
+                           FontWeight="SemiBold"
+                           Foreground="#DCEBFA"/>
 
-                <TextBlock Text="Pregunta en curso"
-                           FontSize="14"
-                           Foreground="#DCEBFA"
-                           Margin="0,4,0,0"/>
-            </StackPanel>
+                <StackPanel>
+                    <TextBlock Text="Examy"
+                               FontSize="32"
+                               FontWeight="Bold"
+                               Foreground="White"/>
+
+                    <TextBlock Text="Pregunta en curso"
+                               FontSize="14"
+                               Foreground="#DCEBFA"
+                               Margin="0,4,0,0"/>
+                </StackPanel>
+            </Grid>
         </Border>
 
         <!-- CONTENIDO -->

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimulacroOposiciones.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,7 @@ namespace SimulacroOposiciones.MVC.StartTest
         {
             InitializeComponent();
 
+            lbl_version.Text = Gen.version;
             Controller controller = new Controller(this, category, mode, type);
         }
     }

@@ -1,4 +1,5 @@
 ﻿using SimulacroOposiciones.MVC.ModeMenu;
+using SimulacroOposiciones.Objects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,7 @@ namespace SimulacroOposiciones.MVC.CategoryMenu
         {
             _model = new Model();
             _view = view;
+
             setListeners();
         }
 
@@ -26,6 +28,7 @@ namespace SimulacroOposiciones.MVC.CategoryMenu
             _view.btn_auxiliar.Click += Auxiliar_Click;
             _view.btn_laboratorio.Click += Laboratorio_Click;
             _view.btn_celador.Click += Celador_Click;
+            _view.btn_historicJson.Click += History_Click;
         }
 
         private void Auxiliar_Click(object sender, RoutedEventArgs e)
@@ -41,6 +44,17 @@ namespace SimulacroOposiciones.MVC.CategoryMenu
         private void Celador_Click(object sender, RoutedEventArgs e)
         {
             _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.ModeMenu.View("celador"));
+        }
+
+        private void History_Click(object sender, RoutedEventArgs e)
+        {
+            List<Question> history_questions = _model.SelectJsonAndLoadList();
+            if (history_questions == null)
+            {
+                return;
+            }
+
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, history_questions, "review"));
         }
     }
 }

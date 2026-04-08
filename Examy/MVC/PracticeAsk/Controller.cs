@@ -15,10 +15,13 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
 
         private int _index;
         private List<Question> _questions;
-        public Controller(View view, int index, List<Question> questions)
+        private string _from_view;
+
+        public Controller(View view, int index, List<Question> questions, string from_view)
         {
             _index = index;
             _questions = questions;
+            _from_view = from_view;
 
             _model = new Model();
             _view = view;
@@ -97,7 +100,7 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
                 return;
             }
 
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index-1, _questions));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index-1, _questions, _from_view));
         }
         private void Next_Click(object sender, RoutedEventArgs e)
         {
@@ -107,12 +110,12 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
                 return;
             }
 
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index+1, _questions));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index+1, _questions, _from_view));
         }
 
         private void Fin_Click(object sender, RoutedEventArgs e)
         {
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeResume.View(_questions));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeResume.View(_questions, _from_view));
         }
     }
 }

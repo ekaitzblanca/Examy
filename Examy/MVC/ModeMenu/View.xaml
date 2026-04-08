@@ -154,22 +154,33 @@
                 CornerRadius="18"
                 Padding="20"
                 Margin="0,0,0,20">
-            <StackPanel>
-                <TextBlock Text="Examy"
-                           FontSize="32"
-                           FontWeight="Bold"
-                           Foreground="White"/>
-
-                <TextBlock Text="Selecciona el modo de test"
-                           FontSize="14"
-                           Foreground="#DCEBFA"
-                           Margin="0,4,0,0"/>
-
-                <TextBlock Text="Elige cómo quieres practicar hoy"
+            <Grid>
+                <TextBlock
+                    x:Name="lbl_version"
+                    Text="Versión 1.0.0"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Top"
                            FontSize="12"
-                           Foreground="#BFD9F5"
-                           Margin="0,6,0,0"/>
-            </StackPanel>
+                           FontWeight="SemiBold"
+                           Foreground="#DCEBFA"/>
+
+                <StackPanel>
+                    <TextBlock Text="Examy"
+                               FontSize="32"
+                               FontWeight="Bold"
+                               Foreground="White"/>
+
+                    <TextBlock Text="Selecciona el modo de test"
+                               FontSize="14"
+                               Foreground="#DCEBFA"
+                               Margin="0,4,0,0"/>
+
+                    <TextBlock Text="Elige cómo quieres practicar hoy"
+                               FontSize="12"
+                               Foreground="#BFD9F5"
+                               Margin="0,6,0,0"/>
+                </StackPanel>
+            </Grid>
         </Border>
 
         <!-- BOTONES -->

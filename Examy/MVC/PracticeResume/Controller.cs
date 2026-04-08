@@ -14,9 +14,12 @@ namespace SimulacroOposiciones.MVC.PracticeResume
         private View _view;
 
         private List<Question> _questions;
-        public Controller(View view, List<Question> questions)
+        private string _from_view;
+
+        public Controller(View view, List<Question> questions, string from_view)
         {
             _questions = questions;
+            _from_view = from_view;
 
             _model = new Model();
             _view = view;  
@@ -30,11 +33,26 @@ namespace SimulacroOposiciones.MVC.PracticeResume
             _view.lbl_percentage.Text = percentage.ToString() + "%";
             _view.progress_score.Value = percentage;
 
+            _view.lbl_resultFeedback.Text = _model.GetFeedBack(percentage);
+            _view.lbl_resultAnalysis.Text = _model.GetAnalysis(percentage);
+
+            if (from_view == "practica")
+            { 
+                _model.SaveHistory(_questions, _from_view);
+            }
         }
 
         public void setListeners()
         {
+            _view.btn_Review.Click += Review_Click;
             _view.btn_Back.Click += Back_Click;
+        }
+
+        
+
+        private void Review_Click(object sender, RoutedEventArgs e)
+        {
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, _questions, "review"));
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)

@@ -94,22 +94,33 @@
                 CornerRadius="18"
                 Padding="20"
                 Margin="0,0,0,20">
-            <StackPanel>
-                <TextBlock Text="Examy"
-                           FontSize="32"
-                           FontWeight="Bold"
-                           Foreground="White"/>
-
-                <TextBlock Text="Resumen del test"
-                           FontSize="14"
-                           Foreground="#DCEBFA"
-                           Margin="0,4,0,0"/>
-
-                <TextBlock Text="Consulta tu resultado final"
+            <Grid>
+                <TextBlock
+                    x:Name="lbl_version"
+                    Text="Versión 1.0.0"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Top"
                            FontSize="12"
-                           Foreground="#BFD9F5"
-                           Margin="0,6,0,0"/>
-            </StackPanel>
+                           FontWeight="SemiBold"
+                           Foreground="#DCEBFA"/>
+
+                <StackPanel>
+                    <TextBlock Text="Examy"
+                               FontSize="32"
+                               FontWeight="Bold"
+                               Foreground="White"/>
+
+                    <TextBlock Text="Resumen del test"
+                               FontSize="14"
+                               Foreground="#DCEBFA"
+                               Margin="0,4,0,0"/>
+
+                    <TextBlock Text="Consulta tu resultado final"
+                               FontSize="12"
+                               Foreground="#BFD9F5"
+                               Margin="0,6,0,0"/>
+                </StackPanel>
+            </Grid>
         </Border>
 
         <!-- CONTENIDO -->
@@ -118,7 +129,7 @@
                       HorizontalScrollBarVisibility="Disabled">
             <StackPanel>
 
-                <!-- MENSAJE PRINCIPAL -->
+                <!-- MENSAJE -->
                 <Border Style="{StaticResource SummaryCardStyle}">
                     <StackPanel>
                         <TextBlock Text="✅ Test completado"
@@ -146,46 +157,29 @@
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
 
-                    <Border Grid.Column="0"
-                            Style="{StaticResource SummaryCardStyle}"
-                            Margin="0,0,12,0">
-                        <StackPanel VerticalAlignment="Center">
-                            <TextBlock Text="Aciertos"
-                                       Style="{StaticResource StatTitleStyle}"/>
-                            <TextBlock x:Name="lbl_correctCount"
-                                       Text="14"
-                                       Style="{StaticResource StatValueStyle}"
-                                       Foreground="#15803D"/>
+                    <Border Grid.Column="0" Style="{StaticResource SummaryCardStyle}" Margin="0,0,12,0">
+                        <StackPanel>
+                            <TextBlock Text="Aciertos" Style="{StaticResource StatTitleStyle}"/>
+                            <TextBlock x:Name="lbl_correctCount" Text="14" Style="{StaticResource StatValueStyle}" Foreground="#15803D"/>
                         </StackPanel>
                     </Border>
 
-                    <Border Grid.Column="1"
-                            Style="{StaticResource SummaryCardStyle}"
-                            Margin="6,0">
-                        <StackPanel VerticalAlignment="Center">
-                            <TextBlock Text="Fallos"
-                                       Style="{StaticResource StatTitleStyle}"/>
-                            <TextBlock x:Name="lbl_wrongCount"
-                                       Text="6"
-                                       Style="{StaticResource StatValueStyle}"
-                                       Foreground="#DC2626"/>
+                    <Border Grid.Column="1" Style="{StaticResource SummaryCardStyle}" Margin="6,0">
+                        <StackPanel>
+                            <TextBlock Text="Fallos" Style="{StaticResource StatTitleStyle}"/>
+                            <TextBlock x:Name="lbl_wrongCount" Text="6" Style="{StaticResource StatValueStyle}" Foreground="#DC2626"/>
                         </StackPanel>
                     </Border>
 
-                    <Border Grid.Column="2"
-                            Style="{StaticResource SummaryCardStyle}"
-                            Margin="12,0,0,0">
-                        <StackPanel VerticalAlignment="Center">
-                            <TextBlock Text="Total"
-                                       Style="{StaticResource StatTitleStyle}"/>
-                            <TextBlock x:Name="lbl_totalCount"
-                                       Text="20"
-                                       Style="{StaticResource StatValueStyle}"/>
+                    <Border Grid.Column="2" Style="{StaticResource SummaryCardStyle}" Margin="12,0,0,0">
+                        <StackPanel>
+                            <TextBlock Text="Total" Style="{StaticResource StatTitleStyle}"/>
+                            <TextBlock x:Name="lbl_totalCount" Text="20" Style="{StaticResource StatValueStyle}"/>
                         </StackPanel>
                     </Border>
                 </Grid>
 
-                <!-- PORCENTAJE -->
+                <!-- PORCENTAJE (SIN TOCAR) -->
                 <Border Style="{StaticResource SummaryCardStyle}">
                     <StackPanel>
                         <TextBlock Text="Porcentaje de acierto"
@@ -213,15 +207,52 @@
                     </StackPanel>
                 </Border>
 
+                <!-- ANÁLISIS -->
+                <Border Style="{StaticResource SummaryCardStyle}">
+                    <StackPanel>
+                        <TextBlock Text="📊 Análisis del resultado"
+                                   FontSize="16"
+                                   FontWeight="Bold"
+                                   HorizontalAlignment="Center"/>
+
+                        <TextBlock x:Name="lbl_resultFeedback"
+                                   Text="Vas bien, pero puedes mejorar."
+                                   FontSize="18"
+                                   FontWeight="SemiBold"
+                                   TextAlignment="Center"
+                                   Margin="0,10,0,5"/>
+
+                        <TextBlock x:Name="lbl_resultAnalysis"
+                                   Text="Revisa tus errores para mejorar el resultado."
+                                   FontSize="13"
+                                   Foreground="#6B7280"
+                                   TextAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+
             </StackPanel>
         </ScrollViewer>
 
-        <!-- BOTÓN VOLVER AL MENÚ -->
-        <Button x:Name="btn_Back"
-                Grid.Row="2"
-                Content="← Volver al menú"
-                Style="{StaticResource BackButtonStyle}"
-                Margin="0,10,0,0"/>
+        <!-- BOTONES FULL WIDTH -->
+        <Grid Grid.Row="2" Margin="0,10,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btn_Review"
+                    Content="🔍 Revisar test"
+                    Style="{StaticResource SecondaryButtonStyle}"
+                    HorizontalAlignment="Stretch"
+                    Margin="0,0,5,0"/>
+
+            <Button x:Name="btn_Back"
+                    Content="← Volver al menú"
+                    Style="{StaticResource BackButtonStyle}"
+                    Grid.Column="1"
+                    HorizontalAlignment="Stretch"
+                    Margin="5,0,0,0"/>
+        </Grid>
 
         <!-- FOOTER -->
         <TextBlock Grid.Row="3"

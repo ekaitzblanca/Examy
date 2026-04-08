@@ -1,4 +1,5 @@
-﻿using SimulacroOposiciones.Objects;
+﻿using SimulacroOposiciones.Data;
+using SimulacroOposiciones.Objects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,11 +22,12 @@ namespace SimulacroOposiciones.MVC.PracticeResume
     /// </summary>
     public partial class View : Page
     {
-        public View(List<Question> questions)
+        public View(List<Question> questions, string from_view)
         {
             InitializeComponent();
 
-            Controller controller = new Controller(this, questions);
+            lbl_version.Text = Gen.version;
+            Controller controller = new Controller(this, questions, from_view);
         }
     }
 }

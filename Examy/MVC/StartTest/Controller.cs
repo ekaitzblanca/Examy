@@ -41,7 +41,7 @@ namespace SimulacroOposiciones.MVC.StartTest
         {
             List<Question> questions = _model.GenerateQuestionary(_category, _mode, _type);
 
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, questions));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, questions, "practica"));
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)
