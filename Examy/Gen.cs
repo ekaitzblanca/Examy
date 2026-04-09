@@ -13,6 +13,6 @@ namespace SimulacroOposiciones.Data
         public static List<Question> laboratorio_questions { get; set; }
         public static List<Question> celador_questions { get; set; }
 
-        public static string version { get; set; } = "Version: 1.0.0";
+        public static string version { get; set; } = "Version: 1.0.1";
     }
 }

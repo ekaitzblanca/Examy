@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace SimulacroOposiciones.MVC.StartTest
@@ -75,13 +76,14 @@ namespace SimulacroOposiciones.MVC.StartTest
             switch (category)
             {
                 case "auxiliar":
-                    temporal = new List<Question>(Gen.auxiliar_questions);
+                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.auxiliar_questions)
+);
                     break;
                 case "laboratorio":
-                    temporal = new List<Question>(Gen.laboratorio_questions);
+                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.laboratorio_questions));
                     break;
                 case "celador":
-                    temporal = new List<Question>(Gen.celador_questions);
+                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.celador_questions));
                     break;
             }
 
