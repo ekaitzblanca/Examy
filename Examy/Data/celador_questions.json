@@ -7198,5 +7198,4805 @@
         "option": "Reducir el número de personal público."
       }
     ]
+  },
+  {
+    "number": "1.",
+    "type": "especifico",
+    "question": "En Osakidetza, para todos los tipos de jornada, excepto la nocturna, el trabajo efectivo anual a realizar en concepto de jornada ordinaria será de:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "1592 horas."
+      },
+      {
+        "letter": "b",
+        "option": "1433 horas."
+      },
+      {
+        "letter": "c",
+        "option": "1447 horas."
+      },
+      {
+        "letter": "d",
+        "option": "1492 horas."
+      }
+    ]
+  },
+  {
+    "number": "2.",
+    "type": "especifico",
+    "question": "Podrá acogerse a la exención de trabajo nocturno el personal mayor de:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "60 años."
+      },
+      {
+        "letter": "b",
+        "option": "55 años."
+      },
+      {
+        "letter": "c",
+        "option": "50 años."
+      },
+      {
+        "letter": "d",
+        "option": "62 años."
+      }
+    ]
+  },
+  {
+    "number": "3.",
+    "type": "especifico",
+    "question": "Al personal mayor de 60 años que preste sus servicios en régimen de turnos rotatorios se le aplicará a la hora nocturna el factor multiplicador que se señala a continuación:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "1,15."
+      },
+      {
+        "letter": "b",
+        "option": "1,25."
+      },
+      {
+        "letter": "c",
+        "option": "1,20."
+      },
+      {
+        "letter": "d",
+        "option": "1,10."
+      }
+    ]
+  },
+  {
+    "number": "4.",
+    "type": "especifico",
+    "question": "Con carácter general, la jornada normalizada diaria será de:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "6 horas."
+      },
+      {
+        "letter": "b",
+        "option": "6 horas y 30 minutos."
+      },
+      {
+        "letter": "c",
+        "option": "7 horas."
+      },
+      {
+        "letter": "d",
+        "option": "7 horas y 30 minutos."
+      }
+    ]
+  },
+  {
+    "number": "5.",
+    "type": "especifico",
+    "question": "En el ámbito de osakidetza, durante el disfrute por el personal de las vacaciones reglamentarias:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "No se podrá hacer uso de las licencias, pero sí de los permisos."
+      },
+      {
+        "letter": "b",
+        "option": "Se podrá hacer uso de las licencias, en los casos establecidos."
+      },
+      {
+        "letter": "c",
+        "option": "No se podrá hacer uso de las licencias o permisos retribuidos."
+      },
+      {
+        "letter": "d",
+        "option": "Se podrá hacer uso de las licencias o permisos, sin retribución."
+      }
+    ]
+  },
+  {
+    "number": "6.",
+    "type": "especifico",
+    "question": "Mantener al paciente en bipedestación está indicado para:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "La realización de una punción lumbar."
+      },
+      {
+        "letter": "b",
+        "option": "La realización de pruebas ginecológica."
+      },
+      {
+        "letter": "c",
+        "option": "La realización de pruebas radiológicas."
+      },
+      {
+        "letter": "d",
+        "option": "Cambios posturales."
+      }
+    ]
+  },
+  {
+    "number": "7.",
+    "type": "especifico",
+    "question": "Describa la posición genupectoral:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "De rodillas e inclinado hacia delante."
+      },
+      {
+        "letter": "b",
+        "option": "Boca abajo."
+      },
+      {
+        "letter": "c",
+        "option": "Tumbado de lado en posición fetal."
+      },
+      {
+        "letter": "d",
+        "option": "Boca arriba con manos en el pecho."
+      }
+    ]
+  },
+  {
+    "number": "8.",
+    "type": "especifico",
+    "question": "Los arneses de uso en pacientes:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Son desechados tras su uso."
+      },
+      {
+        "letter": "b",
+        "option": "Se utilizan para inmovilizar al paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Tras su uso por el paciente se envían a la lavandería."
+      },
+      {
+        "letter": "d",
+        "option": "Son de talla única."
+      }
+    ]
+  },
+  {
+    "number": "9.",
+    "type": "especifico",
+    "question": "El ecógrafo realiza exploraciones utilizando:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Ondas electromagnéticas."
+      },
+      {
+        "letter": "b",
+        "option": "Ultrasonidos."
+      },
+      {
+        "letter": "c",
+        "option": "Rayos X."
+      },
+      {
+        "letter": "d",
+        "option": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ]
+  },
+  {
+    "number": "10.",
+    "type": "especifico",
+    "question": "Defina temperatura de ignición:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Temperatura a la cual una sustancia comienza a desprender vapores en cantidad suficiente para mantener la combustión."
+      },
+      {
+        "letter": "b",
+        "option": "Temperatura a la cual una sustancia puede llegar a arder en determinadas condiciones ambientales."
+      },
+      {
+        "letter": "c",
+        "option": "Temperatura a la cual una sustancia empieza a arder espontáneamente."
+      },
+      {
+        "letter": "d",
+        "option": "Ninguna de las anteriores afirmaciones es correcta."
+      }
+    ]
+  },
+  {
+    "number": "11.",
+    "type": "especifico",
+    "question": "El agua es el agente extintor por excelencia pero uno de sus inconvenientes es:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Provoca daños excesivos en la estructura y mobiliario de los edificios."
+      },
+      {
+        "letter": "b",
+        "option": "Requiere equipos de bombeo."
+      },
+      {
+        "letter": "c",
+        "option": "Es inadecuado para fuegos de materiales sólidos."
+      },
+      {
+        "letter": "d",
+        "option": "Conduce la electricidad."
+      }
+    ]
+  },
+  {
+    "number": "12.",
+    "type": "especifico",
+    "question": "En caso de accidente biológico, ¿cuánto tiempo se recomienda limpiar la herida bajo el agua?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "2 o 3 minutos induciendo el sangrado."
+      },
+      {
+        "letter": "b",
+        "option": "Hasta que deje de sangrar la herida."
+      },
+      {
+        "letter": "c",
+        "option": "2 o tres minutos restregando suavemente la herida."
+      },
+      {
+        "letter": "d",
+        "option": "No está recomendado limpiar con agua."
+      }
+    ]
+  },
+  {
+    "number": "13.",
+    "type": "especifico",
+    "question": "Durante el transcurso de la licencia por enfermedad:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El trabajador podrá realizar actividades lucrativas."
+      },
+      {
+        "letter": "b",
+        "option": "El trabajador percibirá las retribuciones en los porcentajes establecidos legalmente."
+      },
+      {
+        "letter": "c",
+        "option": "El trabajador podrá superar el periodo de contratación estipulado."
+      },
+      {
+        "letter": "d",
+        "option": "El trabajador podrá ser despedido."
+      }
+    ]
+  },
+  {
+    "number": "14.",
+    "type": "especifico",
+    "question": "El prefijo EPI indica la posición:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Encima."
+      },
+      {
+        "letter": "b",
+        "option": "Debajo."
+      },
+      {
+        "letter": "c",
+        "option": "Lateral."
+      },
+      {
+        "letter": "d",
+        "option": "Inferior."
+      }
+    ]
+  },
+  {
+    "number": "15.",
+    "type": "especifico",
+    "question": "Para que una combustión sea posible es necesaria la presencia de:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Humedad relativa baja."
+      },
+      {
+        "letter": "b",
+        "option": "Ozono."
+      },
+      {
+        "letter": "c",
+        "option": "Comburente."
+      },
+      {
+        "letter": "d",
+        "option": "Humedad relativa alta."
+      }
+    ]
+  },
+  {
+    "number": "16.",
+    "type": "especifico",
+    "question": "En caso de sufrir una agresión en el trabajo, ¿qué es lo que NO debe hacer?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Identificar al agresor y retenerlo hasta la llegada de la policía."
+      },
+      {
+        "letter": "b",
+        "option": "Comunicar la agresión a su responsable inmediato."
+      },
+      {
+        "letter": "c",
+        "option": "Si requiere asistencia sanitaria acudir a la Unidad Básica de Prevención."
+      },
+      {
+        "letter": "d",
+        "option": "Cumplimentar el formulario correspondiente."
+      }
+    ]
+  },
+  {
+    "number": "17.",
+    "type": "especifico",
+    "question": "Indique la respuesta correcta sobre la posición de Roser:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Persona tumbada boca arriba."
+      },
+      {
+        "letter": "b",
+        "option": "Paciente tumbado boca abajo, con la cabeza ladeada."
+      },
+      {
+        "letter": "c",
+        "option": "Paciente boca arriba, con la cabeza colgando por la parte superior de la cama."
+      },
+      {
+        "letter": "d",
+        "option": "Paciente tumbado boca arriba, en un plano oblicuo de 45º, con la cabeza más baja que los pies."
+      }
+    ]
+  },
+  {
+    "number": "18.",
+    "type": "especifico",
+    "question": "¿Cuál es la indicación de posición en un paciente con problemas cardiacos y respiratorios?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Tremdelemburg."
+      },
+      {
+        "letter": "b",
+        "option": "Fowler."
+      },
+      {
+        "letter": "c",
+        "option": "Decúbito supino."
+      },
+      {
+        "letter": "d",
+        "option": "Decúbito lateral."
+      }
+    ]
+  },
+  {
+    "number": "19.",
+    "type": "especifico",
+    "question": "¿Cómo se denomina a la posición en la que el paciente se encuentra vertical sobre los pies?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Decúbito supino."
+      },
+      {
+        "letter": "b",
+        "option": "Decúbito frontal."
+      },
+      {
+        "letter": "c",
+        "option": "Tremdelemburg"
+      },
+      {
+        "letter": "d",
+        "option": "Bipedestación."
+      }
+    ]
+  },
+  {
+    "number": "20.",
+    "type": "especifico",
+    "question": "¿En qué posición se colocará a un paciente inconsciente?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Sims."
+      },
+      {
+        "letter": "b",
+        "option": "Genupectoral."
+      },
+      {
+        "letter": "c",
+        "option": "Decúbito supino."
+      },
+      {
+        "letter": "d",
+        "option": "Decúbito lateral."
+      }
+    ]
+  },
+  {
+    "number": "21.",
+    "type": "especifico",
+    "question": "En la posición decúbito lateral, ¿cómo se encontrará el paciente?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Inconsciente."
+      },
+      {
+        "letter": "b",
+        "option": "Tumbado y en posición fetal."
+      },
+      {
+        "letter": "c",
+        "option": "De rodillas e inclinado hacia delante."
+      },
+      {
+        "letter": "d",
+        "option": "Tumbado de lado y con la pierna superior flexionada en ángulo recto."
+      }
+    ]
+  },
+  {
+    "number": "22.",
+    "type": "especifico",
+    "question": "Como norma general, ¿en qué posición encontraremos a un paciente consciente que está recibiendo oxigenoterapia en la cama?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Decúbito supino."
+      },
+      {
+        "letter": "b",
+        "option": "Decúbito prono."
+      },
+      {
+        "letter": "c",
+        "option": "Sentado."
+      },
+      {
+        "letter": "d",
+        "option": "Bipedestación."
+      }
+    ]
+  },
+  {
+    "number": "23.",
+    "type": "especifico",
+    "question": "Indique la respuesta correcta sobre la posición de Morestin:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Paciente en decúbito supino con la cabeza más baja que los pies."
+      },
+      {
+        "letter": "b",
+        "option": "Paciente en decúbito supino con la cabeza más alta que los pies."
+      },
+      {
+        "letter": "c",
+        "option": "Paciente en decúbito prono."
+      },
+      {
+        "letter": "d",
+        "option": "Paciente decúbito supino con las piernas elevadas y flexionadas."
+      }
+    ]
+  },
+  {
+    "number": "24.",
+    "type": "especifico",
+    "question": "Entre los pasos posteriores a la movilización de un paciente:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Dejarlo acomodado, volver a colocar sueros en su lugar y verificar su seguridad."
+      },
+      {
+        "letter": "b",
+        "option": "Adoptar mecánica postural y retirar los objetos que le puedan molestar."
+      },
+      {
+        "letter": "c",
+        "option": "Frenar la cama e informar al paciente."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "25.",
+    "type": "especifico",
+    "question": "En caso de movilizar a una persona con múltiples traumatismos, indique la respuesta correcta:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Dependerá si el paciente puede colaborar."
+      },
+      {
+        "letter": "b",
+        "option": "Se le desplazará agarrándole por las axilas."
+      },
+      {
+        "letter": "c",
+        "option": "Se le desplazará con una transfer entre dos o más personas."
+      },
+      {
+        "letter": "d",
+        "option": "Se le desplazará en bloque."
+      }
+    ]
+  },
+  {
+    "number": "26.",
+    "type": "especifico",
+    "question": "En el movimiento hacia un lateral de la cama, estando la persona inconsciente, en decúbito supino, realizando el movimiento entre dos personas:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Una persona pasará los brazos por debajo de las axilas y la otra persona cogerá al paciente por rodillas y muslos."
+      },
+      {
+        "letter": "b",
+        "option": "Doblaremos la rodilla del paciente contraria al sentido del giro."
+      },
+      {
+        "letter": "c",
+        "option": "Doblaremos la rodilla del paciente del lado del sentido del giro."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "27.",
+    "type": "especifico",
+    "question": "En el movimiento del paciente de plano a plano en el procedimiento con dos personas, indique la respuesta INCORRECTA:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se coloca una persona a cada lado, cada una coge la sábana lo más próximo posible al paciente."
+      },
+      {
+        "letter": "b",
+        "option": "El cabecero de uno de los planos se coloca en el piecero del otro, o viceversa, para quedar los dos en ángulo recto y perpendiculares."
+      },
+      {
+        "letter": "c",
+        "option": "La persona más alejad a del paciente apoyará su rodilla en el plano vacío para ayudarse en la movilización."
+      },
+      {
+        "letter": "d",
+        "option": "Colocar los dos planos a la misma altura, si es posible. Inmovilizar ambos y cubrir el hueco entre ambos."
+      }
+    ]
+  },
+  {
+    "number": "28.",
+    "type": "especifico",
+    "question": "Cuando realizamos el movimiento del paciente hacia la cabecera de la cama sin ayuda del paciente, éste lo deberá realizar, como mínimo:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Una sola persona."
+      },
+      {
+        "letter": "b",
+        "option": "Dos personas."
+      },
+      {
+        "letter": "c",
+        "option": "Tres personas."
+      },
+      {
+        "letter": "d",
+        "option": "Cuatro personas."
+      }
+    ]
+  },
+  {
+    "number": "29.",
+    "type": "especifico",
+    "question": "El movimiento del paciente de la cama al sillón, cuando realizamos el procedimiento entre dos personas, sin colaboración del paciente, entre los pasos a realizar encontramos:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Sujetamos al paciente por los hombros y las rodillas, le giramos hasta sentarlo al borde de la cama."
+      },
+      {
+        "letter": "b",
+        "option": "Flexionamos las rodillas para abrazar ligeramente al paciente por la cintura para ayudarle a incorporarse de pie y a continuación en un cuarto de giro le sentamos en la silla o sillón."
+      },
+      {
+        "letter": "c",
+        "option": "a) y b) son correctas."
+      },
+      {
+        "letter": "d",
+        "option": "Una persona se pondrá al lado de la cabecera de la cama, en un costado. El otro se pone en el costado a la altura de la zona lumbar del paciente. Entre los dos, queda la silla en la que lo vamos a sentar."
+      }
+    ]
+  },
+  {
+    "number": "30.",
+    "type": "especifico",
+    "question": "Entre los dispositivos y materiales para ayudar en la movilización se encuentran, indique la respuesta correcta:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Discos giratorios."
+      },
+      {
+        "letter": "b",
+        "option": "Bastón."
+      },
+      {
+        "letter": "c",
+        "option": "Silla de ruedas."
+      },
+      {
+        "letter": "d",
+        "option": "Cama o camilla."
+      }
+    ]
+  },
+  {
+    "number": "31.",
+    "type": "especifico",
+    "question": "En cuanto a las grúas, ¿qué tipos de grúas podemos encontrar?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Eléctrica, mecánica e hidráulica."
+      },
+      {
+        "letter": "b",
+        "option": "Eléctrica enchufable y eléctrica con batería."
+      },
+      {
+        "letter": "c",
+        "option": "Hidráulica y manual."
+      },
+      {
+        "letter": "d",
+        "option": "Mecánica y manual."
+      }
+    ]
+  },
+  {
+    "number": "32.",
+    "type": "especifico",
+    "question": "Para colocar al paciente el arnés de una grúa desde una posición de decúbito lateral:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Colocar al enfermo en decúbito lateral y pasar el arnés por debajo de la entremetida."
+      },
+      {
+        "letter": "b",
+        "option": "Colocar al enfermo en decúbito supino y pasar el arnés de arriba-abajo por detrás y por debajo de una sábana entremetida."
+      },
+      {
+        "letter": "c",
+        "option": "Colocar al enfermo en decúbito prono y pasar el arnés de abajo-arriba por detrás y por encima de una sábana entremetida."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "33.",
+    "type": "especifico",
+    "question": "¿Cuál es la finalidad principal de un purifica de ambiente?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se utiliza para vaporizar o dispersar un líquido en partículas muy finas para su inhalación."
+      },
+      {
+        "letter": "b",
+        "option": "Dispositivo utilizado para eliminar del aire sustancias contaminantes."
+      },
+      {
+        "letter": "c",
+        "option": "Aparato destinado a calentar las camas de los pacientes antes de su ingreso."
+      },
+      {
+        "letter": "d",
+        "option": "Equipo diseñado exclusivamente para la esterilización por calor seco del material quirúrgico."
+      }
+    ]
+  },
+  {
+    "number": "34.",
+    "type": "especifico",
+    "question": "Respecto a las grúas: (Indique la respuesta INCORRECTA):",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Están equipadas con arnés."
+      },
+      {
+        "letter": "b",
+        "option": "Se emplean para la movilización de pacientes."
+      },
+      {
+        "letter": "c",
+        "option": "Permite al paciente caminar con mayor seguridad."
+      },
+      {
+        "letter": "d",
+        "option": "Algunos modelos incorporan un sistema de camillas de cintas para levantar horizontalmente al paciente."
+      }
+    ]
+  },
+  {
+    "number": "35.",
+    "type": "especifico",
+    "question": "Para colocar adecuadamente el arnés en la grúa, para enganchar las bandas:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se debe enganchar en primer lugar la zona del cuerpo y posteriormente las piernas."
+      },
+      {
+        "letter": "b",
+        "option": "Se debe enganchar en primer lugar las piernas y posteriormente el cuerpo."
+      },
+      {
+        "letter": "c",
+        "option": "Se debe enganchar en primer lugar el lateral no dominante y posteriormente el dominante."
+      },
+      {
+        "letter": "d",
+        "option": "Se debe enganchar en primer lugar el lateral dominante y posteriormente el no dominante."
+      }
+    ]
+  },
+  {
+    "number": "36.",
+    "type": "especifico",
+    "question": "Una vez elevado el paciente con suavidad en la grúa, debemos abrir las patas de la grúa para:.",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Aumentar la estabilidad."
+      },
+      {
+        "letter": "b",
+        "option": "No debemos abrir las patas de la grúa sino cerrarlas para que ocupe menos y sea más fácil manejarla."
+      },
+      {
+        "letter": "c",
+        "option": "Procurar mayor seguridad en el traslado."
+      },
+      {
+        "letter": "d",
+        "option": "a) y c) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "37.",
+    "type": "especifico",
+    "question": "Son normas generales del arnés. (Indique la respuesta la INCORRECTA):",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Revisar antes de cada uso."
+      },
+      {
+        "letter": "b",
+        "option": "No utilizar si está deshilachado."
+      },
+      {
+        "letter": "c",
+        "option": "Tras el alta del paciente enviar a lavandería."
+      },
+      {
+        "letter": "d",
+        "option": "El paciente debe tener contacto directamente con el arnés, aunque veamos que lo puede manchar."
+      }
+    ]
+  },
+  {
+    "number": "38.",
+    "type": "especifico",
+    "question": "La ubicación del arnés es: (Indique la respuesta INCORRECTA):",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Planta de hospitalización."
+      },
+      {
+        "letter": "b",
+        "option": "Uno en cada habitación."
+      },
+      {
+        "letter": "c",
+        "option": "Almacén."
+      },
+      {
+        "letter": "d",
+        "option": "Dependencias que cada Organización determine."
+      }
+    ]
+  },
+  {
+    "number": "39.",
+    "type": "especifico",
+    "question": "Sirve para deslizar de un plano a otro al paciente, suele utilizarse para transportar al paciente desde la cama al tablero quirúrgico o viceversa:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Camilla tijera."
+      },
+      {
+        "letter": "b",
+        "option": "Arnés."
+      },
+      {
+        "letter": "c",
+        "option": "Transfer."
+      },
+      {
+        "letter": "d",
+        "option": "Correa de sujeción."
+      }
+    ]
+  },
+  {
+    "number": "40.",
+    "type": "especifico",
+    "question": "Son tipos de transfer:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Transfer fijo."
+      },
+      {
+        "letter": "b",
+        "option": "Rampa o chapa."
+      },
+      {
+        "letter": "c",
+        "option": "Rolón o rollbord."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son ciertas."
+      }
+    ]
+  },
+  {
+    "number": "41.",
+    "type": "especifico",
+    "question": "¿Cuál es el primer paso en la utilización de transfer para transportar entre dos planos?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se mete el transfer entre la sábana y el paciente."
+      },
+      {
+        "letter": "b",
+        "option": "Se mete el transfer debajo de la sábana y el paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Se centra al paciente en el transfer."
+      },
+      {
+        "letter": "d",
+        "option": "Se pasa al paciente con el transfer."
+      }
+    ]
+  },
+  {
+    "number": "42.",
+    "type": "especifico",
+    "question": "Los transfers fijos, se manejan con:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Pedal."
+      },
+      {
+        "letter": "b",
+        "option": "Manivela."
+      },
+      {
+        "letter": "c",
+        "option": "Mando."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "43.",
+    "type": "especifico",
+    "question": "Es un elemento que consiste en una chapa, recubierta de una tela, que hace las veces de cinta sin fin:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Rolón/Rollbord."
+      },
+      {
+        "letter": "b",
+        "option": "Arnés."
+      },
+      {
+        "letter": "c",
+        "option": "Transfer fijo."
+      },
+      {
+        "letter": "d",
+        "option": "Rampa o chapa."
+      }
+    ]
+  },
+  {
+    "number": "44.",
+    "type": "especifico",
+    "question": "Cuando nos referimos a las partes de la cama, el dispositivo a través del cual el paciente se ayuda para moverse en la cama, se denomina:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Vallas laterales."
+      },
+      {
+        "letter": "b",
+        "option": "Trapecio o potencia."
+      },
+      {
+        "letter": "c",
+        "option": "Vallas escamoteables."
+      },
+      {
+        "letter": "d",
+        "option": "Cabecero."
+      }
+    ]
+  },
+  {
+    "number": "45.",
+    "type": "especifico",
+    "question": "Con respecto a los frenos de la cama:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se pueden encontrar en la parte baja, lateral y media de una cama."
+      },
+      {
+        "letter": "b",
+        "option": "La palanca de frenos no permite fijar la dirección de las ruedas."
+      },
+      {
+        "letter": "c",
+        "option": "Nunca debemos circular con una rueda en sentido contrario, pues la cama se bambolea."
+      },
+      {
+        "letter": "d",
+        "option": "Se puede circular con las ruedas en sentido contrario."
+      }
+    ]
+  },
+  {
+    "number": "46.",
+    "type": "especifico",
+    "question": "¿Qué pieza de la cama se puede retirar si el médico necesita intubar al paciente?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El cabezal escamoteable."
+      },
+      {
+        "letter": "b",
+        "option": "Las vallas escamoteables."
+      },
+      {
+        "letter": "c",
+        "option": "El trapecio."
+      },
+      {
+        "letter": "d",
+        "option": "El portasuero del cabezal."
+      }
+    ]
+  },
+  {
+    "number": "47.",
+    "type": "especifico",
+    "question": "¿Qué función tiene la 5ª rueda de la camilla?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Facilita la movilización del paciente."
+      },
+      {
+        "letter": "b",
+        "option": "Facilita la dirección y el giro."
+      },
+      {
+        "letter": "c",
+        "option": "Nos permite movilizar la cama cuando alargamos su longitud."
+      },
+      {
+        "letter": "d",
+        "option": "Nos permite tener mayor estabilidad."
+      }
+    ]
+  },
+  {
+    "number": "48.",
+    "type": "especifico",
+    "question": "¿En qué caso NO se realizará el traslado del paciente en la cama desde el piecero?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Para entrar en los ascensores."
+      },
+      {
+        "letter": "b",
+        "option": "Con pacientes con oxigenoterapia."
+      },
+      {
+        "letter": "c",
+        "option": "Cuando traslademos al paciente a realizar una ecografía."
+      },
+      {
+        "letter": "d",
+        "option": "Con pacientes monitorizados y el monitor colocado en la parte del piecero."
+      }
+    ]
+  },
+  {
+    "number": "49.",
+    "type": "especifico",
+    "question": "¿Dónde se ubican las camillas en el hospital?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "En la entrada principal exclusivamente."
+      },
+      {
+        "letter": "b",
+        "option": "En las urgencias pediátricas y de adultos exclusivamente."
+      },
+      {
+        "letter": "c",
+        "option": "En los servicios especiales como los quirófanos, urgencias, exploraciones en consultas, etc."
+      },
+      {
+        "letter": "d",
+        "option": "En las consultas exclusivamente."
+      }
+    ]
+  },
+  {
+    "number": "50.",
+    "type": "especifico",
+    "question": "La camilla de exploración tiene un cabecero que es elevable, ¿en cuántas posiciones?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El cabecero es fijo."
+      },
+      {
+        "letter": "b",
+        "option": "En dos posiciones."
+      },
+      {
+        "letter": "c",
+        "option": "En tres posiciones."
+      },
+      {
+        "letter": "d",
+        "option": "En cuatro posiciones."
+      }
+    ]
+  },
+  {
+    "number": "51.",
+    "type": "especifico",
+    "question": "La camilla de traslado tiene una serie de características: Indique la respuesta INCORRECTA:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Pueden incorporar chasis para la realización de radiografías."
+      },
+      {
+        "letter": "b",
+        "option": "No permite instalar portasueros."
+      },
+      {
+        "letter": "c",
+        "option": "Lleva vallas laterales escamoteables."
+      },
+      {
+        "letter": "d",
+        "option": "Lleva portabalas de oxígeno."
+      }
+    ]
+  },
+  {
+    "number": "52.",
+    "type": "especifico",
+    "question": "Cuando utilizamos una camilla tijera tenemos que tener en cuenta que:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se debe colocar entre cuatro personas mínimo, ya que sirve para inmovilizar."
+      },
+      {
+        "letter": "b",
+        "option": "El plano donde se encuentra el paciente tiene que estar horizontal."
+      },
+      {
+        "letter": "c",
+        "option": "El plano donde se encuentra el paciente tiene que estar semi sentado."
+      },
+      {
+        "letter": "d",
+        "option": "Se debe utilizar inseparablemente junto a las correas de sujeción."
+      }
+    ]
+  },
+  {
+    "number": "53.",
+    "type": "especifico",
+    "question": "Cuando utilizamos las correas de sujeción, en una sujeción lateral:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Solo permite fijar el cuerpo del paciente en decúbito supino."
+      },
+      {
+        "letter": "b",
+        "option": "No impide que el cuerpo del paciente ruede de manera lateral."
+      },
+      {
+        "letter": "c",
+        "option": "Permite fijar el cuerpo del paciente en decúbito supino y lateral, pero no permite en decúbito prono."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "54.",
+    "type": "especifico",
+    "question": "Con respecto a la silla de ruedas: Indique la respuesta INCORRECTA:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cubrir al paciente por delante cuando vaya sentado y con camisón."
+      },
+      {
+        "letter": "b",
+        "option": "Poner al paciente en contacto directo con el cuero de la silla, para evitar que se resbale."
+      },
+      {
+        "letter": "c",
+        "option": "Evitar que el paciente se desplace por encima de los reposapiés al incorporarse."
+      },
+      {
+        "letter": "d",
+        "option": "Tener precaución con las sondas ya que se podrían enganchar en las ruedas."
+      }
+    ]
+  },
+  {
+    "number": "55.",
+    "type": "especifico",
+    "question": "Señala la correcta con respecto al manejo de la silla de ruedas en la entrada y la salida del ascensor:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Para entrar se hará de frente al ascensor y para salir saldremos de frente a la puerta."
+      },
+      {
+        "letter": "b",
+        "option": "Para entrar se hará de espaldas al ascensor y para salir saldremos de espaldas a la puerta."
+      },
+      {
+        "letter": "c",
+        "option": "Para entrar se hará de frente al ascensor y para salir lo haremos de espaldas."
+      },
+      {
+        "letter": "d",
+        "option": "Para entrar se hará de espaldas al ascensor y para salir saldremos de frente a la puerta."
+      }
+    ]
+  },
+  {
+    "number": "56.",
+    "type": "especifico",
+    "question": "¿Dónde se sitúan las sillas de ruedas dentro del hospital?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "En la entrada principal exclusivamente."
+      },
+      {
+        "letter": "b",
+        "option": "Se ubicarán en las entradas al hospital y en las unidades de hospitalización."
+      },
+      {
+        "letter": "c",
+        "option": "En las entradas de urgencias pediátricas y de adultos exclusivamente."
+      },
+      {
+        "letter": "d",
+        "option": "En la zona de quirófanos, la UCI y las urgencias exclusivamente."
+      }
+    ]
+  },
+  {
+    "number": "57.",
+    "type": "especifico",
+    "question": "¿Qué elemento NO se encuentra dentro de los accesorios que puede llevar una silla de ruedas?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Tabla que sirve para que los pacientes no puedan doblar el brazo."
+      },
+      {
+        "letter": "b",
+        "option": "Portabalas."
+      },
+      {
+        "letter": "c",
+        "option": "Portasueros."
+      },
+      {
+        "letter": "d",
+        "option": "Bolsa portadocumentos."
+      }
+    ]
+  },
+  {
+    "number": "58.",
+    "type": "especifico",
+    "question": "¿Qué particularidad presenta la mesa de quirófano?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Puede ser articulada y el cabecero es escamoteable para que el médico pueda intubar."
+      },
+      {
+        "letter": "b",
+        "option": "Es desmontable para que se pueda limpiar y desinfectar con tranquilidad."
+      },
+      {
+        "letter": "c",
+        "option": "Permite la movilización total de las extremidades del paciente en función de la intervención de que se trate."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "59.",
+    "type": "especifico",
+    "question": "En una bombona o bala de oxígeno portátil, ¿dónde se conecta el tubo de las gafas nasales?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "En la parte frontal hay una toma de salida de oxígeno."
+      },
+      {
+        "letter": "b",
+        "option": "En la parte posterior hay una toma de salida."
+      },
+      {
+        "letter": "c",
+        "option": "En la conexión de pared, en el humidificador."
+      },
+      {
+        "letter": "d",
+        "option": "En la parte superior, junto al regulador de caudal."
+      }
+    ]
+  },
+  {
+    "number": "60.",
+    "type": "especifico",
+    "question": "¿Para qué sirve un balón de insuflación (AMBU)?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Para la ventilación de personas con problemas respiratorios graves."
+      },
+      {
+        "letter": "b",
+        "option": "Para la ventilación de personas con problemas respiratorios leves."
+      },
+      {
+        "letter": "c",
+        "option": "Para la ventilación manual de paciente que precise reanimación."
+      },
+      {
+        "letter": "d",
+        "option": "Para la ventilación manual de pacientes que se encuentran con un ataque de ansiedad."
+      }
+    ]
+  },
+  {
+    "number": "61.",
+    "type": "especifico",
+    "question": "¿Para qué sirve una bomba de perfusión?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Para introducir alimentos por vía nasogástrica."
+      },
+      {
+        "letter": "b",
+        "option": "Para introducir de forma lenta y continua una sustancia medicamentosa por vía intravenosa."
+      },
+      {
+        "letter": "c",
+        "option": "Para introducir alimentos por vía intravenosa."
+      },
+      {
+        "letter": "d",
+        "option": "Para introducir de forma lenta y continua una sustancia medicamentosa por vía nasogástrica."
+      }
+    ]
+  },
+  {
+    "number": "62.",
+    "type": "especifico",
+    "question": "¿Cómo se denomina al colchón que evita la aparición en el paciente de úlceras por presión?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Colchón para estancias prolongadas."
+      },
+      {
+        "letter": "b",
+        "option": "Colchón de aire."
+      },
+      {
+        "letter": "c",
+        "option": "Colchón anti-presión."
+      },
+      {
+        "letter": "d",
+        "option": "Colchón anti-escaras."
+      }
+    ]
+  },
+  {
+    "number": "63.",
+    "type": "especifico",
+    "question": "A el armazón metálico utilizado en camas traumatológicas se le denomina:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Arco de protección."
+      },
+      {
+        "letter": "b",
+        "option": "Bastidor de Stryker."
+      },
+      {
+        "letter": "c",
+        "option": "Cuadro balcánico."
+      },
+      {
+        "letter": "d",
+        "option": "Arco salvasábanas."
+      }
+    ]
+  },
+  {
+    "number": "64.",
+    "type": "especifico",
+    "question": "¿Qué tipo de férulas se utiliza para realizar, junto con las pesas, tracción en los miembros inferiores?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Férula de Tracción bimodal."
+      },
+      {
+        "letter": "b",
+        "option": "Férula de Matrix."
+      },
+      {
+        "letter": "c",
+        "option": "Férula de Brown."
+      },
+      {
+        "letter": "d",
+        "option": "Férula Rígida."
+      }
+    ]
+  },
+  {
+    "number": "65.",
+    "type": "especifico",
+    "question": "¿Para qué sirve la tabla de paradas?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Es una superficie dura para acostar al paciente sobre una camilla."
+      },
+      {
+        "letter": "b",
+        "option": "Es una superficie dura para acostar al paciente sobre una silla."
+      },
+      {
+        "letter": "c",
+        "option": "Es una superficie dura para personas con múltiples traumatismos."
+      },
+      {
+        "letter": "d",
+        "option": "Es una superficie dura para acostar al paciente sobre el suelo."
+      }
+    ]
+  },
+  {
+    "number": "66.",
+    "type": "especifico",
+    "question": "¿Cómo se denomina el aparato que se utiliza para ver, diagnosticar y tratar problemas en la cavidad pélvico-abdominal?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Aparato de escopia."
+      },
+      {
+        "letter": "b",
+        "option": "Electrocardiógrafo."
+      },
+      {
+        "letter": "c",
+        "option": "Torre de laparoscopia."
+      },
+      {
+        "letter": "d",
+        "option": "Ecógrafo."
+      }
+    ]
+  },
+  {
+    "number": "67.",
+    "type": "especifico",
+    "question": "El término hiperglucemia hace referencia a:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Defecto de la glucosa en sangre."
+      },
+      {
+        "letter": "b",
+        "option": "Exceso de glucosa en sangre."
+      },
+      {
+        "letter": "c",
+        "option": "Nivel normal de glucosa en sangre."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "68.",
+    "type": "especifico",
+    "question": "El término hemiplejia hacer referencia a:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Parálisis de un lado del cuerpo."
+      },
+      {
+        "letter": "b",
+        "option": "Parálisis de todo el cuerpo."
+      },
+      {
+        "letter": "c",
+        "option": "Parálisis de una extremidad superior."
+      },
+      {
+        "letter": "d",
+        "option": "Parálisis de una extremidad inferior."
+      }
+    ]
+  },
+  {
+    "number": "69.",
+    "type": "especifico",
+    "question": "A la definición referente al hígado le corresponde el prefijo:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Bio-."
+      },
+      {
+        "letter": "b",
+        "option": "Bradi-."
+      },
+      {
+        "letter": "c",
+        "option": "Endo–."
+      },
+      {
+        "letter": "d",
+        "option": "Hepat-."
+      }
+    ]
+  },
+  {
+    "number": "70.",
+    "type": "especifico",
+    "question": "A la definición referente a los huesos le corresponde el prefijo:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Intra-."
+      },
+      {
+        "letter": "b",
+        "option": "Necro-."
+      },
+      {
+        "letter": "c",
+        "option": "Osteo-."
+      },
+      {
+        "letter": "d",
+        "option": "Poli-."
+      }
+    ]
+  },
+  {
+    "number": "71.",
+    "type": "especifico",
+    "question": "El sufijo ITIS se corresponde con la definición:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Medicamento."
+      },
+      {
+        "letter": "b",
+        "option": "Inflamación."
+      },
+      {
+        "letter": "c",
+        "option": "Dolor."
+      },
+      {
+        "letter": "d",
+        "option": "Célula."
+      }
+    ]
+  },
+  {
+    "number": "72.",
+    "type": "especifico",
+    "question": "El sufijo que indica que el término es referente a la mama, es:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Grafía."
+      },
+      {
+        "letter": "b",
+        "option": "Mastia."
+      },
+      {
+        "letter": "c",
+        "option": "Algia."
+      },
+      {
+        "letter": "d",
+        "option": "Megalia."
+      }
+    ]
+  },
+  {
+    "number": "73.",
+    "type": "especifico",
+    "question": "¿Qué siglas se corresponden a la prueba de Electrocardiograma?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "A.F.G."
+      },
+      {
+        "letter": "b",
+        "option": "T.A.C."
+      },
+      {
+        "letter": "c",
+        "option": "E.C.G."
+      },
+      {
+        "letter": "d",
+        "option": "E.M.G."
+      }
+    ]
+  },
+  {
+    "number": "74.",
+    "type": "especifico",
+    "question": "¿Qué siglas corresponden a la Unidad de Reanimación Post Anestésica?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "S.R.P.A."
+      },
+      {
+        "letter": "b",
+        "option": "R.P.A."
+      },
+      {
+        "letter": "c",
+        "option": "U.R.P.A."
+      },
+      {
+        "letter": "d",
+        "option": "R.P.A.N."
+      }
+    ]
+  },
+  {
+    "number": "75.",
+    "type": "especifico",
+    "question": "¿Qué siglas corresponden a la Enfermedad Pulmonar Obstructiva Crónica?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "E.P.O.T."
+      },
+      {
+        "letter": "b",
+        "option": "E.P.O.D."
+      },
+      {
+        "letter": "c",
+        "option": "P.O.C.D."
+      },
+      {
+        "letter": "d",
+        "option": "E.P.O.C."
+      }
+    ]
+  },
+  {
+    "number": "76.",
+    "type": "especifico",
+    "question": "La especialidad médica que se ocupa de las afecciones del corazón y aparato circulatorio:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cardiología."
+      },
+      {
+        "letter": "b",
+        "option": "Neurología."
+      },
+      {
+        "letter": "c",
+        "option": "Nefrología."
+      },
+      {
+        "letter": "d",
+        "option": "Endocrinología."
+      }
+    ]
+  },
+  {
+    "number": "77.",
+    "type": "especifico",
+    "question": "La especialidad médica que tiene como función llevar a la normalidad funcional y anatómica la cobertura corporal, es decir la forma del cuerpo:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cirugía plástica."
+      },
+      {
+        "letter": "b",
+        "option": "Cirugía vascular."
+      },
+      {
+        "letter": "c",
+        "option": "Cirugía cardiovascular."
+      },
+      {
+        "letter": "d",
+        "option": "Cirugía general."
+      }
+    ]
+  },
+  {
+    "number": "78.",
+    "type": "especifico",
+    "question": "Hace referencia al estudio y tratamiento de enfermedades de la sangre:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Nefrología."
+      },
+      {
+        "letter": "b",
+        "option": "Dermatología."
+      },
+      {
+        "letter": "c",
+        "option": "Obstetricia."
+      },
+      {
+        "letter": "d",
+        "option": "Hematología."
+      }
+    ]
+  },
+  {
+    "number": "79.",
+    "type": "especifico",
+    "question": "La formación quirúrgica de un ano artificial, o estoma, a través del abdomen con el fin de evacuar el contenido intestinal, se denomina:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Edema"
+      },
+      {
+        "letter": "b",
+        "option": "Úlcera."
+      },
+      {
+        "letter": "c",
+        "option": "Melena."
+      },
+      {
+        "letter": "d",
+        "option": "Colostomía."
+      }
+    ]
+  },
+  {
+    "number": "80.",
+    "type": "especifico",
+    "question": "¿Cómo se denomina al recipiente de borde plano y ancho utilizado por el paciente para excretar en posición de decúbito supino?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cuña."
+      },
+      {
+        "letter": "b",
+        "option": "Batea."
+      },
+      {
+        "letter": "c",
+        "option": "Botella."
+      },
+      {
+        "letter": "d",
+        "option": "Orinal."
+      }
+    ]
+  },
+  {
+    "number": "81.",
+    "type": "especifico",
+    "question": "¿Qué prueba estudia la función respiratoria?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Electrocardiograma."
+      },
+      {
+        "letter": "b",
+        "option": "Espirometría."
+      },
+      {
+        "letter": "c",
+        "option": "Endoscopia."
+      },
+      {
+        "letter": "d",
+        "option": "Ecografía."
+      }
+    ]
+  },
+  {
+    "number": "82.",
+    "type": "especifico",
+    "question": "El término paraplejia, se corresponde con la siguiente definición:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Parálisis de los miembros o extremidades inferiores (de la cintura hacia abajo)."
+      },
+      {
+        "letter": "b",
+        "option": "Parálisis de las cuatro extremidades."
+      },
+      {
+        "letter": "c",
+        "option": "Parálisis del hemicuerpo derecho."
+      },
+      {
+        "letter": "d",
+        "option": "Parálisis del hemicuerpo izquierdo."
+      }
+    ]
+  },
+  {
+    "number": "83.",
+    "type": "especifico",
+    "question": "El tubo que, introducido por el meato, llega hasta la vejiga, se denomina:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Sonda nasogástrica."
+      },
+      {
+        "letter": "b",
+        "option": "Sonda vesical."
+      },
+      {
+        "letter": "c",
+        "option": "a) y b) son incorrectas."
+      },
+      {
+        "letter": "d",
+        "option": "a) y b) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "84.",
+    "type": "especifico",
+    "question": "La lesión secundaria de la piel, con pérdida de sustancia, muy profunda, que ocupa la dermis, epidermis e hipodermis, se denomina:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Herida."
+      },
+      {
+        "letter": "b",
+        "option": "Úlcera."
+      },
+      {
+        "letter": "c",
+        "option": "Mácula."
+      },
+      {
+        "letter": "d",
+        "option": "Pústula."
+      }
+    ]
+  },
+  {
+    "number": "85.",
+    "type": "especifico",
+    "question": "Cualquier suceso no esperado ni deseado que da lugar a la pérdida de la salud o lesiones a los trabajadores, se denomina:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Accidente de trabajo."
+      },
+      {
+        "letter": "b",
+        "option": "Incidente."
+      },
+      {
+        "letter": "c",
+        "option": "a) y b) son correctas."
+      },
+      {
+        "letter": "d",
+        "option": "a) y b) son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "86.",
+    "type": "especifico",
+    "question": "Para colocar al paciente el arnés de una grúa desde la posición sentado en una silla:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Colocar el arnés de abajo-arriba, por detrás y por debajo de una sábana entremetida, hasta la altura de la cintura."
+      },
+      {
+        "letter": "b",
+        "option": "Colocar el arnés de arriba-abajo, por detrás y por debajo de una sábana entremetida, hasta la altura de la cintura."
+      },
+      {
+        "letter": "c",
+        "option": "Colocar el arnés de arriba -abajo, por delante y por encima de una sábana entremetida, hasta la altura de la cintura."
+      },
+      {
+        "letter": "d",
+        "option": "Colocar el arnés de abajo -arriba, por delante y por encima de una sábana entremetida, hasta la altura de la cintura."
+      }
+    ]
+  },
+  {
+    "number": "87.",
+    "type": "especifico",
+    "question": "El término taquicardia hace referencia a:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Aceleración del ritmo cardíaco."
+      },
+      {
+        "letter": "b",
+        "option": "Disminución del ritmo cardíaco."
+      },
+      {
+        "letter": "c",
+        "option": "Aceleración de la frecuencia respiratoria."
+      },
+      {
+        "letter": "d",
+        "option": "Disminución de la frecuencia respiratoria."
+      }
+    ]
+  },
+  {
+    "number": "88.",
+    "type": "especifico",
+    "question": "El término disnea, se corresponde con la siguiente definición:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Dificultad para deglutir."
+      },
+      {
+        "letter": "b",
+        "option": "Dificultad para hablar."
+      },
+      {
+        "letter": "c",
+        "option": "Dificultad para respirar."
+      },
+      {
+        "letter": "d",
+        "option": "Dificultad para articular palabras."
+      }
+    ]
+  },
+  {
+    "number": "89.",
+    "type": "especifico",
+    "question": "¿Cómo se denomina el carro que sirve para el depósito del material sanitario necesario para realizar las curas a los pacientes?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Carro de curas."
+      },
+      {
+        "letter": "b",
+        "option": "Carro de material."
+      },
+      {
+        "letter": "c",
+        "option": "Carro sanitario."
+      },
+      {
+        "letter": "d",
+        "option": "Carro de farmacia."
+      }
+    ]
+  },
+  {
+    "number": "90.",
+    "type": "especifico",
+    "question": "La sujeción abdominal de las correas de sujeción:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se puede instalar antes o después de que el paciente se haya acostado."
+      },
+      {
+        "letter": "b",
+        "option": "Se debe instalar siempre antes de que el paciente se acueste."
+      },
+      {
+        "letter": "c",
+        "option": "Se debe instalar siempre después de que el paciente se acueste."
+      },
+      {
+        "letter": "d",
+        "option": "Se debe instalar con la cama vacía."
+      }
+    ]
+  },
+  {
+    "number": "91.",
+    "type": "especifico",
+    "question": "En cuanto a la utilización de rolón o rollbord:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "En el desplazamiento no deberemos mantener el eje cabeza-pies recto."
+      },
+      {
+        "letter": "b",
+        "option": "En el desplazamiento deberemos mantener el eje cabeza-pies recto."
+      },
+      {
+        "letter": "c",
+        "option": "Se ladea totalmente al paciente para apoyarlo en el centro del rolón."
+      },
+      {
+        "letter": "d",
+        "option": "b) y c) son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "92.",
+    "type": "especifico",
+    "question": "La bombona de oxígeno consta de varias partes, entre las que se encuentran:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Un manómetro, que mide la presión que hay en la botella."
+      },
+      {
+        "letter": "b",
+        "option": "Un tirador de apertura."
+      },
+      {
+        "letter": "c",
+        "option": "En un lateral, hay una leyenda sobre las instrucciones de uso y seguridad."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "93.",
+    "type": "especifico",
+    "question": "Según las normas generales de movilización de pacientes, ¿cuál de las siguientes actuaciones se considera obligatoria?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Priorizar la rapidez del traslado del paciente."
+      },
+      {
+        "letter": "b",
+        "option": "Guardar en todo momento la intimidad del paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Informar al paciente solo si colabora activamente."
+      },
+      {
+        "letter": "d",
+        "option": "Evitar cualquier movilización siempre si el paciente presenta dolor."
+      }
+    ]
+  },
+  {
+    "number": "94.",
+    "type": "especifico",
+    "question": "En cuanto a los pasos previos a la movilización del paciente, ¿qué acción debe realizarse antes de dicha movilización?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Colocar al paciente en posición Fowler siempre que sea posible."
+      },
+      {
+        "letter": "b",
+        "option": "Frenar la cama."
+      },
+      {
+        "letter": "c",
+        "option": "Solicitar autorización médica por escrito."
+      },
+      {
+        "letter": "d",
+        "option": "Comprobar las constantes vitales del paciente."
+      }
+    ]
+  },
+  {
+    "number": "95.",
+    "type": "especifico",
+    "question": "Al realizar el traslado del paciente en silla de ruedas, señale la afirmación INCORRECTA:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Comprobar el correcto funcionamiento de la silla antes de usarla."
+      },
+      {
+        "letter": "b",
+        "option": "Informar al paciente del procedimiento que se va a realizar."
+      },
+      {
+        "letter": "c",
+        "option": "Colocar los reposapiés antes de sentar al paciente."
+      },
+      {
+        "letter": "d",
+        "option": "Asegurar que los frenos estén puestos durante las transferencias."
+      }
+    ]
+  },
+  {
+    "number": "96.",
+    "type": "especifico",
+    "question": "El parte interno de notificación de accidente/incidente es:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El documento opcional para comunicar verbalmente un suceso."
+      },
+      {
+        "letter": "b",
+        "option": "El registro necesario para declarar un accidente de trabajo, un incidente o una agresión, y que sea reconocido legalmente."
+      },
+      {
+        "letter": "c",
+        "option": "Un informe médico emitido por la Mutua."
+      },
+      {
+        "letter": "d",
+        "option": "Un documento exclusivo para accidentes con baja laboral."
+      }
+    ]
+  },
+  {
+    "number": "97.",
+    "type": "especifico",
+    "question": "Según el manual de prevención de incendios, el polvo polivalente es:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El agente extintor más seguro para su uso."
+      },
+      {
+        "letter": "b",
+        "option": "Adecuado únicamente para fuegos de materiales sólidos (A)."
+      },
+      {
+        "letter": "c",
+        "option": "El agente extintor por excelencia por su eficacia y abundancia para fuegos de materiales sólidos (A)."
+      },
+      {
+        "letter": "d",
+        "option": "Ineficaz contra brasas."
+      }
+    ]
+  },
+  {
+    "number": "98.",
+    "type": "especifico",
+    "question": "Ante una situación de emergencia relacionada con un incendio, el trabajador debe:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Abandonar el centro inmediatamente sin avisar."
+      },
+      {
+        "letter": "b",
+        "option": "Confirmar la emergencia, informar a su responsable e intentar sofocar el conato de incendio con ayuda del extintor."
+      },
+      {
+        "letter": "c",
+        "option": "Esperar instrucciones sin intervenir."
+      },
+      {
+        "letter": "d",
+        "option": "Utilizar agua siempre como primera opción."
+      }
+    ]
+  },
+  {
+    "number": "99.",
+    "type": "especifico",
+    "question": "El importe máximo de los adelantos de nómina a conceder será de:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "3.000 euros."
+      },
+      {
+        "letter": "b",
+        "option": "6.000 euros."
+      },
+      {
+        "letter": "c",
+        "option": "3.500 euros."
+      },
+      {
+        "letter": "d",
+        "option": "4.500 euros."
+      }
+    ]
+  },
+  {
+    "number": "100.",
+    "type": "especifico",
+    "question": "Cuando la duración de una jornada exceda de seis horas continuadas existirá un período de descanso de:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Diez minutos."
+      },
+      {
+        "letter": "b",
+        "option": "Treinta minutos."
+      },
+      {
+        "letter": "c",
+        "option": "Quince minutos."
+      },
+      {
+        "letter": "d",
+        "option": "Veinte minutos."
+      }
+    ]
+  },
+  {
+    "number": "101.",
+    "type": "especifico",
+    "question": "El personal liberado para el estudio del euskera podrá percibir:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El 50% de las retribuciones fijas."
+      },
+      {
+        "letter": "b",
+        "option": "El 75% de las retribuciones totales, tanto fijas como variables, que por cartelera tenga asignadas."
+      },
+      {
+        "letter": "c",
+        "option": "El 100% de las retribuciones fijas."
+      },
+      {
+        "letter": "d",
+        "option": "El 100% de las retribuciones, tanto fijas como variables, que por cartelera tenga asignadas."
+      }
+    ]
+  },
+  {
+    "number": "102.",
+    "type": "especifico",
+    "question": "En caso de agresión, el trabajador o trabajadora deberá:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Comunicarlo exclusivamente a la Mutua."
+      },
+      {
+        "letter": "b",
+        "option": "Ponerlo en conocimiento de en el menor plazo de tiempo posible a su responsable inmediato."
+      },
+      {
+        "letter": "c",
+        "option": "Esperar a que la Dirección abra expediente."
+      },
+      {
+        "letter": "d",
+        "option": "Comunicarlo únicamente a los Delegados de Prevención."
+      }
+    ]
+  },
+  {
+    "number": "103.",
+    "type": "especifico",
+    "question": "Los fuegos de clase C son aquellos que se producen en:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Materiales sólidos que dejan brasas."
+      },
+      {
+        "letter": "b",
+        "option": "Líquidos inflamables."
+      },
+      {
+        "letter": "c",
+        "option": "Gases inflamables."
+      },
+      {
+        "letter": "d",
+        "option": "Metales combustibles."
+      }
+    ]
+  },
+  {
+    "number": "104.",
+    "type": "especifico",
+    "question": "Según el Decreto 255/1997 ¿qué es el Ente Público Osakidetza-Servicio Vasco de Salud?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Una sociedad anónima de capital mixto."
+      },
+      {
+        "letter": "b",
+        "option": "Un organismo autónomo estatal."
+      },
+      {
+        "letter": "c",
+        "option": "El Ente Institucional de la Comunidad Autónoma, de naturaleza pública y bajo la calificación de Ente Público de Derecho Privado."
+      },
+      {
+        "letter": "d",
+        "option": "Una fundación sanitaria privada."
+      }
+    ]
+  },
+  {
+    "number": "105.",
+    "type": "especifico",
+    "question": "¿Qué posición se utiliza específicamente para el lavado de pelo y la RCP?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Fowler."
+      },
+      {
+        "letter": "b",
+        "option": "Roser."
+      },
+      {
+        "letter": "c",
+        "option": "Sims."
+      },
+      {
+        "letter": "d",
+        "option": "Antitrendelemburg."
+      }
+    ]
+  },
+  {
+    "number": "106.",
+    "type": "especifico",
+    "question": "En el movimiento de cama a sillón con paciente colaborador, ¿qué debe hacerse antes de sentarlo al borde de la cama?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Colocar la silla a 90º."
+      },
+      {
+        "letter": "b",
+        "option": "Incorporar el cabezal en Fowler."
+      },
+      {
+        "letter": "c",
+        "option": "Retirar la entremetida."
+      },
+      {
+        "letter": "d",
+        "option": "Ajustar el trapecio."
+      }
+    ]
+  },
+  {
+    "number": "107.",
+    "type": "especifico",
+    "question": "Corresponde a cada organización de servicios del Ente Público Osakidetza - Servicio Vasco de Salud:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Únicamente funciones asistenciales clínicas."
+      },
+      {
+        "letter": "b",
+        "option": "El ejercicio de todas las facultades de gestión y administración necesarias para la provisión de servicios sanitarios encomendados."
+      },
+      {
+        "letter": "c",
+        "option": "Aprobar el Plan Estratégico del Ente ."
+      },
+      {
+        "letter": "d",
+        "option": "Elaborar los Presupuestos Generales de la Comunidad Autónoma."
+      }
+    ]
+  },
+  {
+    "number": "108.",
+    "type": "especifico",
+    "question": "¿Qué acción ayuda a prevenir accidentes por orden y limpieza?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Dejar material en zonas de paso."
+      },
+      {
+        "letter": "b",
+        "option": "Mantener objetos cerca para tenerlos a mano."
+      },
+      {
+        "letter": "c",
+        "option": "No dejar objetos en zonas de paso."
+      },
+      {
+        "letter": "d",
+        "option": "Guardar solo el material pesado."
+      }
+    ]
+  },
+  {
+    "number": "109.",
+    "type": "especifico",
+    "question": "¿Qué requisito es imprescindible antes de entrar en áreas con radiación ionizante?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Llevar ropa blanca."
+      },
+      {
+        "letter": "b",
+        "option": "Usar dosímetro personal."
+      },
+      {
+        "letter": "c",
+        "option": "No llevar objetos metálicos."
+      },
+      {
+        "letter": "d",
+        "option": "Haber comido previamente."
+      }
+    ]
+  },
+  {
+    "number": "110.",
+    "type": "especifico",
+    "question": "¿Qué acción debe evitarse al manejar agujas?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Desecharlas en contenedores."
+      },
+      {
+        "letter": "b",
+        "option": "Reencapucharlas para tirarlas con mayor seguridad."
+      },
+      {
+        "letter": "c",
+        "option": "Usar guantes."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "111.",
+    "type": "especifico",
+    "question": "El arnés se utiliza junto con:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Silla convencional."
+      },
+      {
+        "letter": "b",
+        "option": "Bastón."
+      },
+      {
+        "letter": "c",
+        "option": "Grúa."
+      },
+      {
+        "letter": "d",
+        "option": "Camilla simple."
+      }
+    ]
+  },
+  {
+    "number": "112.",
+    "type": "especifico",
+    "question": "Según el Decreto 255/1997, Osakidetza es el Ente Institucional de la Comunidad Autónoma, bajo la calificación de:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Ente privado de Derecho Privado."
+      },
+      {
+        "letter": "b",
+        "option": "Ente privado de Derecho Público."
+      },
+      {
+        "letter": "c",
+        "option": "Ente público de Derecho Público."
+      },
+      {
+        "letter": "d",
+        "option": "Ente público de Derecho Privado."
+      }
+    ]
+  },
+  {
+    "number": "113.",
+    "type": "especifico",
+    "question": "¿Cuál NO es uno de los fines de interés general del Ente Público Osakidetza- Servicio Vasco de Salud?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Ejecutar la provisión del servicio público sanitario mediante las prestaciones de asistencia primaria y especializada que sean objeto de aseguramiento y contratación pública."
+      },
+      {
+        "letter": "b",
+        "option": "Garantizar el trato equitativo de las personas residentes en la Comunidad Autónoma del País Vasco mediante solo la emisión de tarjetas sanitarias."
+      },
+      {
+        "letter": "c",
+        "option": "Proporcionar a las personas que accedan a sus servicios las condiciones necesarias para el pleno ejercicio de sus derechos y deberes de carácter instrumental o complementario."
+      },
+      {
+        "letter": "d",
+        "option": "Promover la docencia en ciencias de la salud."
+      }
+    ]
+  },
+  {
+    "number": "114.",
+    "type": "especifico",
+    "question": "La organización rectora de Osakidetza está comprendida por:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Presidente y Consejo Administración."
+      },
+      {
+        "letter": "b",
+        "option": "Presidente, secretario y Consejo de Administración."
+      },
+      {
+        "letter": "c",
+        "option": "Viceconsejero, gerente y Consejo de Administración."
+      },
+      {
+        "letter": "d",
+        "option": "Director ejecutivo, secretario y Consejo de Administración."
+      }
+    ]
+  },
+  {
+    "number": "115.",
+    "type": "especifico",
+    "question": "Dentro del organigrama de Osakidetza, ¿qué función le corresponde al Consejero de Sanidad?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Gerencia."
+      },
+      {
+        "letter": "b",
+        "option": "Presidencia."
+      },
+      {
+        "letter": "c",
+        "option": "Director ejecutivo."
+      },
+      {
+        "letter": "d",
+        "option": "Secretario."
+      }
+    ]
+  },
+  {
+    "number": "116.",
+    "type": "especifico",
+    "question": "¿Quiénes forman parte del Consejo de Administración de Osakidetza?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El Viceconsejero y tres miembros nombrados por el Consejero de Hacienda."
+      },
+      {
+        "letter": "b",
+        "option": "El gerente y cuatro miembros en representación de la Administración del Estado."
+      },
+      {
+        "letter": "c",
+        "option": "El consejero de Hacienda y tres miembros a propuesta del Consejero de Sanidad."
+      },
+      {
+        "letter": "d",
+        "option": "El presidente y cinco miembros en representación de la administración de la Comunidad Autónoma."
+      }
+    ]
+  },
+  {
+    "number": "117.",
+    "type": "especifico",
+    "question": "Según el Decreto 255/1997, las organizaciones de servicios sanitarios dependientes del Ente Público Osakidetza-Servicio Vasco de Salud realizarán la actividad de provisión de servicios sanitarios, actuando a tal efecto, ¿bajo qué principio?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Principio de equidad."
+      },
+      {
+        "letter": "b",
+        "option": "Principio de reciprocidad."
+      },
+      {
+        "letter": "c",
+        "option": "Principio de autonomía económico-financiera y de gestión."
+      },
+      {
+        "letter": "d",
+        "option": "Principio de igualdad."
+      }
+    ]
+  },
+  {
+    "number": "118.",
+    "type": "especifico",
+    "question": "El Consejo de Administración del Ente Público, al objeto de preservar los criterios de eficacia y eficiencia en la gestión, adoptará las medidas de intervención que considere necesarias sobre las organizaciones de servicios. Estas pueden ser:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Suspender temporalmente, y con carácter total o parcial, las facultades de gestión que tienen atribuidas las organizaciones de servicios del Ente Público."
+      },
+      {
+        "letter": "b",
+        "option": "No podrá suspender en ningún caso las facultades de gestión."
+      },
+      {
+        "letter": "c",
+        "option": "Suspender temporalmente, y de manera exclusivamente parcial, las facultades de gestión que tienen atribuidas las organizaciones de servicios del Ente Público."
+      },
+      {
+        "letter": "d",
+        "option": "Suspender temporalmente, y de manera exclusivamente total, las facultades de gestión que tienen atribuidas las organizaciones de servicios del Ente Público."
+      }
+    ]
+  },
+  {
+    "number": "119.",
+    "type": "especifico",
+    "question": "¿Cuál de las siguientes afirmaciones NO son funciones del Consejo Técnico que va a desarrollar dentro de las previsiones del Plan Estratégico de la Organización?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Propuesta de líneas de actuación en materia de investigación, docencia y formación."
+      },
+      {
+        "letter": "b",
+        "option": "Valoración de nuevas estrategias asistenciales, diagnósticas y terapéuticas."
+      },
+      {
+        "letter": "c",
+        "option": "Formulación de políticas, propuestas y recomendaciones referidas a la calidad asistencial."
+      },
+      {
+        "letter": "d",
+        "option": "Conocer y participar en el plan de salud de la zona."
+      }
+    ]
+  },
+  {
+    "number": "120.",
+    "type": "especifico",
+    "question": "¿Cómo está establecido el periodo de descanso?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "En descanso diario, con un periodo mínimo ininterrumpido de 12 horas y descanso semanal, con periodo mínimo ininterrumpido de 24 horas semanales."
+      },
+      {
+        "letter": "b",
+        "option": "En descanso diario, con un periodo mínimo ininterrumpido de 8 horas y descanso semanal, con periodo mínimo ininterrumpido de 36 horas semanales."
+      },
+      {
+        "letter": "c",
+        "option": "En descanso diario, con un periodo mínimo ininterrumpido de 8 horas y descanso semanal, con periodo mínimo ininterrumpido de 24 horas semanales."
+      },
+      {
+        "letter": "d",
+        "option": "En descanso diario, con un periodo mínimo ininterrumpido de 12 horas y descanso semanal, con periodo mínimo ininterrumpido de 32 horas semanales."
+      }
+    ]
+  },
+  {
+    "number": "121.",
+    "type": "especifico",
+    "question": "Con respecto a las vacaciones, el personal tendrá derecho a disfrutar durante cada año completo de servicio de una vacación retribuida de:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "30 días laborales sin computarse los sábados como laborales."
+      },
+      {
+        "letter": "b",
+        "option": "30 días laborales computándose los sábados como laborales."
+      },
+      {
+        "letter": "c",
+        "option": "28 días laborales sin computarse los sábados como laborales."
+      },
+      {
+        "letter": "d",
+        "option": "28 días laborales computándose los sábados como laborales."
+      }
+    ]
+  },
+  {
+    "number": "122.",
+    "type": "especifico",
+    "question": "En el supuesto de que estando disfrutando las vacaciones el personal iniciara una situación de IT (incapacidad temporal), ¿qué sucede con el periodo vacacional?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El periodo vacacional quedará interrumpido."
+      },
+      {
+        "letter": "b",
+        "option": "Con contratos de sustitución, se pierde el periodo vacacional."
+      },
+      {
+        "letter": "c",
+        "option": "Solo al personal estatutario se le interrumpe el periodo vacacional."
+      },
+      {
+        "letter": "d",
+        "option": "El periodo vacacional no quedará interrumpido."
+      }
+    ]
+  },
+  {
+    "number": "123.",
+    "type": "especifico",
+    "question": "En todas las Organizaciones de servicios se establecerán anualmente, previa negociación, los calendarios de días laborables anuales y los horarios de trabajo. ¿Quiénes realizan dicha negociación?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El personal estatutario y los representantes del personal."
+      },
+      {
+        "letter": "b",
+        "option": "La Dirección y la Viceconsejería de Sanidad."
+      },
+      {
+        "letter": "c",
+        "option": "El personal estatutario y el personal interino."
+      },
+      {
+        "letter": "d",
+        "option": "La Dirección y los representantes del personal."
+      }
+    ]
+  },
+  {
+    "number": "124.",
+    "type": "especifico",
+    "question": "Las carteleras de trabajo específicas negociadas en cada unidad tendrán carácter obligatorio bimestral. ¿En qué casos se pueden modificar?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cuando el jefe del servicio, previa petición de los trabajadores, así lo decida."
+      },
+      {
+        "letter": "b",
+        "option": "Cuando el jefe del servicio lo decida, sin necesidad de petición de los trabajadores de su unidad."
+      },
+      {
+        "letter": "c",
+        "option": "Por necesidades exclusivamente graves, urgentes o imprevisibles."
+      },
+      {
+        "letter": "d",
+        "option": "Tras el aumento de la demanda de trabajo, ya sea por bajas o vacaciones."
+      }
+    ]
+  },
+  {
+    "number": "125.",
+    "type": "especifico",
+    "question": "Si quisieras solicitar una licencia, ¿ante quien se tiene que solicitar?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "correspondiente."
+      },
+      {
+        "letter": "b",
+        "option": "La Dirección de la Organización de Servicios correspondiente."
+      },
+      {
+        "letter": "c",
+        "option": "La secretaria de la Organización."
+      },
+      {
+        "letter": "d",
+        "option": "Primero ante la jefatura del servicio, posteriormente ante la Dirección de la Organización del servicio correspondiente."
+      }
+    ]
+  },
+  {
+    "number": "126.",
+    "type": "especifico",
+    "question": "En caso de realizar un acogimiento simple de un menor, ¿a qué tengo derecho?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "A un permiso por asuntos propios."
+      },
+      {
+        "letter": "b",
+        "option": "A una licencia retribuida."
+      },
+      {
+        "letter": "c",
+        "option": "En caso de acogimiento no se tiene los mismos derechos que si fuera un alumbramiento."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "127.",
+    "type": "especifico",
+    "question": "La especialidad médica que se ocupa del estudio de la estructura y la función renal se denomina:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cardiología."
+      },
+      {
+        "letter": "b",
+        "option": "Neurología."
+      },
+      {
+        "letter": "c",
+        "option": "Nefrología"
+      },
+      {
+        "letter": "d",
+        "option": "Endocrinología."
+      }
+    ]
+  },
+  {
+    "number": "128.",
+    "type": "especifico",
+    "question": "En caso de tener que asistir a exámenes académicos en un centro oficial en horario laboral, tendremos derecho a un permiso. ¿Dicho permiso de cuántos días será?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Un día natural por cada prueba de examen."
+      },
+      {
+        "letter": "b",
+        "option": "Un día laboral por cada prueba de examen."
+      },
+      {
+        "letter": "c",
+        "option": "Un día laboral independientemente de las pruebas de examen que tenga."
+      },
+      {
+        "letter": "d",
+        "option": "No se tiene derecho a ningún día."
+      }
+    ]
+  },
+  {
+    "number": "129.",
+    "type": "especifico",
+    "question": "En caso de tener que acudir a una consulta médica durante la jornada laboral, tendremos derecho a:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Una licencia."
+      },
+      {
+        "letter": "b",
+        "option": "Un permiso no retribuido y con un máximo de 4 horas, que podrá modificarse de manera excepcional."
+      },
+      {
+        "letter": "c",
+        "option": "Un permiso retribuido y con un máximo de 4 horas, que podrá modificarse de manera excepcional."
+      },
+      {
+        "letter": "d",
+        "option": "Un permiso no retribuido y con un máximo de 2 horas, que podrá modificarse de manera excepcional."
+      }
+    ]
+  },
+  {
+    "number": "130.",
+    "type": "especifico",
+    "question": "La descripción “paciente tumbado boca arriba, en un plano oblicuo de 45º, con la cabeza más baja que los pies” hace referencia a la posición:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Sims."
+      },
+      {
+        "letter": "b",
+        "option": "Litotomía."
+      },
+      {
+        "letter": "c",
+        "option": "Anti-trendelemburg."
+      },
+      {
+        "letter": "d",
+        "option": "Trendelemburg."
+      }
+    ]
+  },
+  {
+    "number": "131.",
+    "type": "especifico",
+    "question": "Señala la INCORRECTA. Entre las competencias necesarias para el desempeño del puesto de celador/celadora se encuentran:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Orientación al paciente."
+      },
+      {
+        "letter": "b",
+        "option": "Resolución de problemas."
+      },
+      {
+        "letter": "c",
+        "option": "Competencias necesarias para proporcionar cuidados de calidad."
+      },
+      {
+        "letter": "d",
+        "option": "Adaptación al cambio y contribución a la mejora."
+      }
+    ]
+  },
+  {
+    "number": "132.",
+    "type": "especifico",
+    "question": "¿Cuál es la posición indicada en un parto?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Roser."
+      },
+      {
+        "letter": "b",
+        "option": "Fowler."
+      },
+      {
+        "letter": "c",
+        "option": "Sims o semiprona."
+      },
+      {
+        "letter": "d",
+        "option": "Litotomía."
+      }
+    ]
+  },
+  {
+    "number": "133.",
+    "type": "especifico",
+    "question": "Son normas generales para la movilización de pacientes:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Retirar los objetos que nos molesten."
+      },
+      {
+        "letter": "b",
+        "option": "Dejar acomodado al paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Evitar movimientos bruscos en la movilización del paciente."
+      },
+      {
+        "letter": "d",
+        "option": "b) y c) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "134.",
+    "type": "especifico",
+    "question": "Señala la respuesta INCORRECTA. Son pasos previos a toda movilización:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Verificar la seguridad del paciente."
+      },
+      {
+        "letter": "b",
+        "option": "Colocar la cama en la posición que más nos ayude en la movilización del paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Retirar los objetos que nos molesten."
+      },
+      {
+        "letter": "d",
+        "option": "Adoptar mecánica postural."
+      }
+    ]
+  },
+  {
+    "number": "135.",
+    "type": "especifico",
+    "question": "Señala la respuesta INCORRECTA. Son dispositivos y materiales para ayudar en la movilización:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Escabel."
+      },
+      {
+        "letter": "b",
+        "option": "Rolón."
+      },
+      {
+        "letter": "c",
+        "option": "Potencia."
+      },
+      {
+        "letter": "d",
+        "option": "Férula de Brown."
+      }
+    ]
+  },
+  {
+    "number": "136.",
+    "type": "especifico",
+    "question": "A la hora de movilizar un paciente que no colabora hacia un lateral de la cama y posicionarlo en decúbito lateral izquierdo:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Comprobaremos que el brazo derecho no quede presionado debajo de su cuerpo."
+      },
+      {
+        "letter": "b",
+        "option": "Comprobaremos que el brazo izquierdo no quede presionado debajo de su cuerpo."
+      },
+      {
+        "letter": "c",
+        "option": "Comprobaremos que la pierna derecha no quede presionada debajo de su cuerpo."
+      },
+      {
+        "letter": "d",
+        "option": "Comprobaremos que la pierna izquierda no quede presionada debajo de su cuerpo."
+      }
+    ]
+  },
+  {
+    "number": "137.",
+    "type": "especifico",
+    "question": "Cuando realizamos el movimiento del paciente de plano a plano, en un procedimiento con dos o más personas:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Las personas se sitúan en el lado contrario del plano por donde vamos a hacer el movimiento."
+      },
+      {
+        "letter": "b",
+        "option": "El cabecero de uno de los planos se coloca en el piecero del otro, o viceversa, para quedar los dos en ángulo recto y perpendiculares."
+      },
+      {
+        "letter": "c",
+        "option": "Los cabeceros de ambos planos se colocan paralelamente."
+      },
+      {
+        "letter": "d",
+        "option": "Las respuestas a) y b) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "138.",
+    "type": "especifico",
+    "question": "Señale la respuesta que NO es correcta, en relación a las grúas:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Hay algunos modelos de grúas que incorporan un sistema de camillas de cintas para levantar horizontalmente al paciente y realizar el aseo y/o curas."
+      },
+      {
+        "letter": "b",
+        "option": "Las grúas están equipadas con un arnés que nos ayuda en el movimiento del paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Se emplea en las unidades de hospitalización para la movilización de pacientes impedidos o demasiado pesados, garantizando así mayor seguridad y menor riesgo de lesiones para el paciente y para el personal de enfermería y celador."
+      },
+      {
+        "letter": "d",
+        "option": "Podemos encontrar tres tipos de grúas: hidráulica, eléctrica y electrohidráulica."
+      }
+    ]
+  },
+  {
+    "number": "139.",
+    "type": "especifico",
+    "question": "En la utilización de transfer como puente entre plano y plano:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se introduce por debajo de la sábana del paciente dejando la mitad del transfer debajo de éste y la otra mitad fuera de la camilla."
+      },
+      {
+        "letter": "b",
+        "option": "Se introduce por debajo de la sábana del paciente dejando todo el transfer debajo de la sábana del paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Se introduce por debajo de la sábana del paciente dejando dos te rcios del transfer debajo de éste y el otro tercio fuera de la camilla."
+      },
+      {
+        "letter": "d",
+        "option": "Ninguna de las respuestas anteriores es correcta."
+      }
+    ]
+  },
+  {
+    "number": "140.",
+    "type": "especifico",
+    "question": "¿Qué significa la sigla “TAC”?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Tomografía Axial Computarizada."
+      },
+      {
+        "letter": "b",
+        "option": "Tratamiento Asistido Clínico."
+      },
+      {
+        "letter": "c",
+        "option": "Técnica de Análisis Corporal."
+      },
+      {
+        "letter": "d",
+        "option": "Tomografía Avanzada de Contraste."
+      }
+    ]
+  },
+  {
+    "number": "141.",
+    "type": "especifico",
+    "question": "Señala la respuesta correcta en relación al transfer fijo:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El transfer fijo, es en realidad un rolón eléctrico, con desplazamientos verticales."
+      },
+      {
+        "letter": "b",
+        "option": "El transfer fijo, es en realidad un rolón eléctrico, con desplazamientos horizontales."
+      },
+      {
+        "letter": "c",
+        "option": "a) y b) son correctas."
+      },
+      {
+        "letter": "d",
+        "option": "a) y b) son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "142.",
+    "type": "especifico",
+    "question": "Señale la respuesta que NO es correcta en el manejo de la silla de ruedas:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "En las rampas, para subir lo haremos de frente."
+      },
+      {
+        "letter": "b",
+        "option": "Para salir del ascensor, lo haremos de frente a la puerta."
+      },
+      {
+        "letter": "c",
+        "option": "Para entrar en el ascensor se hará de espaldas al mismo."
+      },
+      {
+        "letter": "d",
+        "option": "En las rampas para bajar lo haremos de frente."
+      }
+    ]
+  },
+  {
+    "number": "143.",
+    "type": "especifico",
+    "question": "Señale la respuesta INCORRECTA respecto al oxígeno:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Es un gas poco reactivo."
+      },
+      {
+        "letter": "b",
+        "option": "Su manipulación precisa de adopción de precauciones."
+      },
+      {
+        "letter": "c",
+        "option": "Es un gas incoloro e insípido."
+      },
+      {
+        "letter": "d",
+        "option": "Es un gas inodoro."
+      }
+    ]
+  },
+  {
+    "number": "144.",
+    "type": "especifico",
+    "question": "Señale la respuesta que NO es correcta en el manejo de un paciente con bala de oxígeno:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Debemos colgar la bala de oxígeno en la cama del paciente."
+      },
+      {
+        "letter": "b",
+        "option": "Si el traslado se realiza con el humidificador no se debe colocar la bala tumbada."
+      },
+      {
+        "letter": "c",
+        "option": "Cerraremos el caudalímetro para prevenir fugas durante el traslado."
+      },
+      {
+        "letter": "d",
+        "option": "a) y b) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "145.",
+    "type": "especifico",
+    "question": "El aparato que regula la nutrición vía sanguínea se denomina:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Bomba de nutrición enteral."
+      },
+      {
+        "letter": "b",
+        "option": "Bomba de nutrición parenteral."
+      },
+      {
+        "letter": "c",
+        "option": "Bomba de perfusión."
+      },
+      {
+        "letter": "d",
+        "option": "Bomba de nutrición contínua."
+      }
+    ]
+  },
+  {
+    "number": "146.",
+    "type": "especifico",
+    "question": "Señale la respuesta que NO es correcta en relación con el microdifusor electrotérmico:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Los tratamientos DVA proporcionan reducciones importantes en los niveles de contaminación microbiológica de todos los puntos, excepto en los más alejados o de difícil acceso."
+      },
+      {
+        "letter": "b",
+        "option": "Es el sistema que permite la desinfección total de superficies a través del aire."
+      },
+      {
+        "letter": "c",
+        "option": "Es un proceso en el que el aire sirve de vector de transmisión del aerosol biocida."
+      },
+      {
+        "letter": "d",
+        "option": "b) y c) son verdaderas."
+      }
+    ]
+  },
+  {
+    "number": "147.",
+    "type": "especifico",
+    "question": "El aparato cuya finalidad es registrar corrientes eléctricas del corazón se denomina:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Electrocardiógrafo."
+      },
+      {
+        "letter": "b",
+        "option": "Ecocardiógrafo."
+      },
+      {
+        "letter": "c",
+        "option": "Ecógrafo."
+      },
+      {
+        "letter": "d",
+        "option": "a) y b) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "148.",
+    "type": "especifico",
+    "question": "Señale la respuesta correcta respecto al Escabel:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Puede utilizarse como ayuda para subir a la cama."
+      },
+      {
+        "letter": "b",
+        "option": "Se utiliza para el descanso de los pies en pacientes que están sentados."
+      },
+      {
+        "letter": "c",
+        "option": "Se utiliza para evitar el roce de las sábanas."
+      },
+      {
+        "letter": "d",
+        "option": "a) y b) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "149.",
+    "type": "especifico",
+    "question": "Señala, de los siguientes sufijos, cuál significa “aumento de volumen”:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "-logía."
+      },
+      {
+        "letter": "b",
+        "option": "-tomía."
+      },
+      {
+        "letter": "c",
+        "option": "-osis."
+      },
+      {
+        "letter": "d",
+        "option": "-megalia."
+      }
+    ]
+  },
+  {
+    "number": "150.",
+    "type": "especifico",
+    "question": "El trapecio o potencia:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Es un armazón metálico utilizado en camas traumatológicas."
+      },
+      {
+        "letter": "b",
+        "option": "Es un dispositivo que permite limitar los movimientos de la cabeza y cuello."
+      },
+      {
+        "letter": "c",
+        "option": "Es un recipiente para transportar muestras, recoger residuos orgánicos y de curas."
+      },
+      {
+        "letter": "d",
+        "option": "Es un dispositivo a través del cual se ayuda el paciente para moverse en la cama."
+      }
+    ]
+  },
+  {
+    "number": "151.",
+    "type": "especifico",
+    "question": "La especialidad que se encarga del cuidado total de los pacientes cuya enfermedad no responde al tratamiento activo con intención curativa es:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cuidados contínuos."
+      },
+      {
+        "letter": "b",
+        "option": "Cuidados paliativos."
+      },
+      {
+        "letter": "c",
+        "option": "Cuidados terminales."
+      },
+      {
+        "letter": "d",
+        "option": "Cuidados intensivos."
+      }
+    ]
+  },
+  {
+    "number": "152.",
+    "type": "especifico",
+    "question": "La técnica mediante la cual se separan los componentes de la sangre siendo seleccionados los necesarios, para su aplicación en medicina, y devueltos al torrente sanguíneo el resto de sus componentes, se denomina:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Frotis."
+      },
+      {
+        "letter": "b",
+        "option": "Amniocentesis."
+      },
+      {
+        "letter": "c",
+        "option": "Aféresis."
+      },
+      {
+        "letter": "d",
+        "option": "Desbridación."
+      }
+    ]
+  },
+  {
+    "number": "153.",
+    "type": "especifico",
+    "question": "La cirugía reparadora de los vasos sanguíneos se denomina:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Angioplastia."
+      },
+      {
+        "letter": "b",
+        "option": "Broncoscopia."
+      },
+      {
+        "letter": "c",
+        "option": "Colangiografía."
+      },
+      {
+        "letter": "d",
+        "option": "Profilaxis."
+      }
+    ]
+  },
+  {
+    "number": "154.",
+    "type": "especifico",
+    "question": "Para colocar el arnés al paciente desde la posición de decúbito lateral:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Debemos pasar el arnés por encima de la entremetida, moverlo hacia decúbito lateral contrario, estirar el arnés y la entremetida."
+      },
+      {
+        "letter": "b",
+        "option": "Debemos pasar el arnés por encima de la entremetida, moverlo hacia decúbito lateral contrario, estirar el arnés y la entremetida para finalizar en decúbito supino."
+      },
+      {
+        "letter": "c",
+        "option": "Debemos pasar el arnés por debajo de la entremetida, moverlo hacia decúbito supino, estirar el arnés y la entremetida para finalizar en decúbito lateral."
+      },
+      {
+        "letter": "d",
+        "option": "Debemos pasar el arnés por debajo de la entremetida, moverlo hacia decúbito lateral contrario, estirar el arnés y la entremetida para finalizar en decúbito supino."
+      }
+    ]
+  },
+  {
+    "number": "155.",
+    "type": "especifico",
+    "question": "La quinta rueda de las camillas sirve para:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Facilitar los giros."
+      },
+      {
+        "letter": "b",
+        "option": "Fijar la dirección de las ruedas delanteras en sentido de la marcha."
+      },
+      {
+        "letter": "c",
+        "option": "Facilitar los desplazamientos laterales."
+      },
+      {
+        "letter": "d",
+        "option": "a) y c) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "156.",
+    "type": "especifico",
+    "question": "La actuación inmediata a realizar ante una agresión será:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Aunque se necesite asistencia médica, lo primero sería la interposición de la correspondiente denuncia ante la autoridad policial."
+      },
+      {
+        "letter": "b",
+        "option": "Si requiere asistencia médica, acuda a la Unidad Básica de Prevención (UBP) correspondiente. Si la asistencia se aporta fuera de la UBP, en el propio centro o en cualquier otro centro de Osakidetza, solicite la emisión de un informe médico donde consten las causas de la asistencia y las lesiones objetivadas."
+      },
+      {
+        "letter": "c",
+        "option": "Aunque se necesite asistencia médica, lo primero es elaborar junto con el responsable inmediato, un informe lo más exhaustivo posible, incluyendo datos de la situación, hechos observados o declaraciones de testigos."
+      },
+      {
+        "letter": "d",
+        "option": "Cumplimente el Registro para la Notificación de Accidente “Formato I” firmado por el responsable inmediato, antes de acudir al servicio de urgencias."
+      }
+    ]
+  },
+  {
+    "number": "157.",
+    "type": "especifico",
+    "question": "El fuego se clasifica en diferentes clases, y no todas se apagan con el mismo agente extintor. Por eso, para cada clase de fuego encontramos diferentes tipos de extintores:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Para fuegos de clase B se puede utilizar agua."
+      },
+      {
+        "letter": "b",
+        "option": "Para fuegos de clase ABC se puede utilizar extintores de Polvo Polivalente."
+      },
+      {
+        "letter": "c",
+        "option": "Para fuegos de clase ABC se puede utilizar agua pulverizada o dióxido de carbono (CO2)."
+      },
+      {
+        "letter": "d",
+        "option": "Para fuegos de clase C se puede utilizar extintores de dióxido de carbono (CO2)."
+      }
+    ]
+  },
+  {
+    "number": "158.",
+    "type": "especifico",
+    "question": "¿Qué precaución se tiene que tener en cuenta cuando se utiliza un extintor de dióxido de carbono?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Solo es adecuado para fuegos de tipo C y el contacto de CO2 con partes del cuerpo al salir al exterior puede producir quemaduras por calor."
+      },
+      {
+        "letter": "b",
+        "option": "Solo es adecuado para fuegos de tipo A y B y el contacto de CO2 con partes del cuerpo al salir al exterior puede producir quemaduras por calor."
+      },
+      {
+        "letter": "c",
+        "option": "Solo es adecuado para fuegos de tipo C y el contacto de CO2 con partes del cuerpo al salir al exterior puede producir quemaduras por frío."
+      },
+      {
+        "letter": "d",
+        "option": "Solo es adecuado para fuegos de tipo A y B y el contacto de CO2 con partes del cuerpo al salir al exterior puede producir quemaduras por frío."
+      }
+    ]
+  },
+  {
+    "number": "159.",
+    "type": "especifico",
+    "question": "Un accidente biológico se produce por la exposición accidental a agentes biológicos, y esto puede ocurrir por:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Contacto con piel no intacta."
+      },
+      {
+        "letter": "b",
+        "option": "Contacto con piel intacta."
+      },
+      {
+        "letter": "c",
+        "option": "Contacto con sangre u otros fluidos biológicos a través de cortes o pinchazos."
+      },
+      {
+        "letter": "d",
+        "option": "a) y c) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "160.",
+    "type": "especifico",
+    "question": "¿Cómo se denomina al suceso no esperado ni deseado que no dando lugar a pérdidas de salud o lesiones a las personas, pueda ocasionar daños en el equipo que estamos manejando?",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Accidente de trabajo."
+      },
+      {
+        "letter": "b",
+        "option": "Accidente sin baja."
+      },
+      {
+        "letter": "c",
+        "option": "Accidente in-itinere."
+      },
+      {
+        "letter": "d",
+        "option": "Incidente."
+      }
+    ]
+  },
+  {
+    "number": "161.",
+    "type": "especifico",
+    "question": "Con respecto a las vacaciones:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Las vacaciones pueden ser compensadas con dinero si así lo solicita mediante un escrito notarial 15 días antes de cada periodo vacacional."
+      },
+      {
+        "letter": "b",
+        "option": "Como norma general, las vacaciones no podrán ser compensadas, ni en todo ni en parte, en metálico."
+      },
+      {
+        "letter": "c",
+        "option": "El trabajador solicita al inicio de su prestación laboral si quiere ser compensado en parte en metálico cuando finalice su periodo de contratación."
+      },
+      {
+        "letter": "d",
+        "option": "En ningún caso se podrá solicitar que se compense las vacaciones."
+      }
+    ]
+  },
+  {
+    "number": "162.",
+    "type": "especifico",
+    "question": "Elige la respuesta correcta en relación al equipo de protección individual:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cualquier máquina , aparato, instrumento o instalación utilizada en el trabajo."
+      },
+      {
+        "letter": "b",
+        "option": "Toda herramienta o dispositivo que el responsable inmediato entrega al trabajador para realizar su tarea de forma rápida."
+      },
+      {
+        "letter": "c",
+        "option": "Un conjunto de medidas colectivas diseñadas para eliminar los riesgos ambientales en el entorno sanitario."
+      },
+      {
+        "letter": "d",
+        "option": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o salud en el trabajo."
+      }
+    ]
+  },
+  {
+    "number": "163.",
+    "type": "especifico",
+    "question": "En una sujeción abdominal, las correas de sujeción:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "La parte inferior se sujeta a la cama y la superior se coloca alrededor de la cintura del paciente."
+      },
+      {
+        "letter": "b",
+        "option": "La parte abdominal se sujeta a la cama y la inferior se coloca alrededor de los miembros inferiores del paciente."
+      },
+      {
+        "letter": "c",
+        "option": "Facilita la inmovilización total del paciente encamado."
+      },
+      {
+        "letter": "d",
+        "option": "a) y c) son correctas."
+      }
+    ]
+  },
+  {
+    "number": "164.",
+    "type": "especifico",
+    "question": "En las correas de peto, el kit número 1, para el corsé abdominal, contaremos con:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "4 botones de cierre magnético."
+      },
+      {
+        "letter": "b",
+        "option": "5 botones de cierre magnético."
+      },
+      {
+        "letter": "c",
+        "option": "3 botones de cierre magnético."
+      },
+      {
+        "letter": "d",
+        "option": "6 botones de cierre magnético."
+      }
+    ]
+  },
+  {
+    "number": "165.",
+    "type": "especifico",
+    "question": "¿Qué se debe comprobar siempre después de movilizar a un paciente?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Que la cama esté en posición Trendelemburg."
+      },
+      {
+        "letter": "b",
+        "option": "Que el paciente tenga el suero lleno."
+      },
+      {
+        "letter": "c",
+        "option": "La seguridad del paciente."
+      },
+      {
+        "letter": "d",
+        "option": "Que el paciente esté en decúbito supino."
+      }
+    ]
+  },
+  {
+    "number": "166.",
+    "type": "especifico",
+    "question": "¿Qué aparato se utiliza para realizar exploraciones mediante ondas de ultrasonido?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Ecocardiógrafo."
+      },
+      {
+        "letter": "b",
+        "option": "Ecógrafo."
+      },
+      {
+        "letter": "c",
+        "option": "Endoscopio."
+      },
+      {
+        "letter": "d",
+        "option": "Monitor."
+      }
+    ]
+  },
+  {
+    "number": "167.",
+    "type": "especifico",
+    "question": "¿Qué material se utiliza para inmovilizar completamente la columna en pacientes politraumatizados?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Tabla para paradas."
+      },
+      {
+        "letter": "b",
+        "option": "Férula de Brown."
+      },
+      {
+        "letter": "c",
+        "option": "Tablero de inmovilización espinal."
+      },
+      {
+        "letter": "d",
+        "option": "Escopia."
+      }
+    ]
+  },
+  {
+    "number": "168.",
+    "type": "especifico",
+    "question": "Según en la Carpeta Roja, ¿Cuál de las siguientes afirmaciones sobre la Hoja de Consulta en Prevención es INCORRECTA?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El trabajador la entrega a su responsable inmediato."
+      },
+      {
+        "letter": "b",
+        "option": "Sirve para sugerencias de mejora."
+      },
+      {
+        "letter": "c",
+        "option": "Solo puede usarse para quejas formales."
+      },
+      {
+        "letter": "d",
+        "option": "Puede emplearse para consultar sobre vigilancia de la salud."
+      }
+    ]
+  },
+  {
+    "number": "169.",
+    "type": "especifico",
+    "question": "¿Cuál de las siguientes afirmaciones sobre riesgos ergonómicos es INCORRECTA?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Mantener la misma postura durante un tiempo ayuda a evitar fatiga."
+      },
+      {
+        "letter": "b",
+        "option": "Acompañar el movimiento del tronco con los pies."
+      },
+      {
+        "letter": "c",
+        "option": "Flexionar las piernas y mantener la espalda recta al movilizar pacientes."
+      },
+      {
+        "letter": "d",
+        "option": "Realizar cambios frecuentes de postura."
+      }
+    ]
+  },
+  {
+    "number": "170.",
+    "type": "especifico",
+    "question": "¿Qué acción forma parte del procedimiento correcto al usar un extintor según el manual?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Apuntar directamente al centro de las llamas."
+      },
+      {
+        "letter": "b",
+        "option": "Realizar movimientos en abanico cubriendo la base del fuego."
+      },
+      {
+        "letter": "c",
+        "option": "Mantener el extintor inclinado para aumentar el alcance."
+      },
+      {
+        "letter": "d",
+        "option": "Probar el extintor apuntando hacia arriba antes de usarlo."
+      }
+    ]
+  },
+  {
+    "number": "171.",
+    "type": "especifico",
+    "question": "Según el manual de Riesgos Generales de Osakidetza, ¿cuál de las siguientes es una norma general en el manejo de productos químicos en un centro sanitario?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Se permite el consumo de bebidas en las áreas de manipulación siempre que los envases estén cerrados."
+      },
+      {
+        "letter": "b",
+        "option": "Se pueden oler los productos químicos para identificarlos en caso de que la etiqueta no sea legible."
+      },
+      {
+        "letter": "c",
+        "option": "En caso de trasvase a otro recipiente, identifique el contenido y etiquete el nuevo envase."
+      },
+      {
+        "letter": "d",
+        "option": "Mantenga abiertos los recipientes con productos químicos, en especial los que contengan productos volátiles (glutaraldehído) para evitar la acumulación de gases."
+      }
+    ]
+  },
+  {
+    "number": "172.",
+    "type": "especifico",
+    "question": "Indica la respuesta INCORRECTA en relación al uso del extintor:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Apunte hacia la base del fuego."
+      },
+      {
+        "letter": "b",
+        "option": "Coloque el extintor en posición vertical."
+      },
+      {
+        "letter": "c",
+        "option": "Coloque el extintor en posición horizontal."
+      },
+      {
+        "letter": "d",
+        "option": "Rompa el precinto y retire el seguro."
+      }
+    ]
+  },
+  {
+    "number": "173.",
+    "type": "especifico",
+    "question": "La temperatura a la cual una sustancia comienza a desprender vapores en cantidad suficiente para mantener la combustión, se denomina:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Proceso de combustión."
+      },
+      {
+        "letter": "b",
+        "option": "Temperatura de autoinflamación."
+      },
+      {
+        "letter": "c",
+        "option": "Punto de inflamación."
+      },
+      {
+        "letter": "d",
+        "option": "Calor."
+      }
+    ]
+  },
+  {
+    "number": "174.",
+    "type": "especifico",
+    "question": "¿Qué medida se establece para asegurar el seguimiento de la jornada en los centros de Osakidetza?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Existirá un sistema de control horario, de obligado cumplimiento en todas las organizaciones de servicios dependiente del Ente público."
+      },
+      {
+        "letter": "b",
+        "option": "Los Jefes de Unidad supervisarán a diario quién entra y quién sale."
+      },
+      {
+        "letter": "c",
+        "option": "Se implementará un registro de firmas manual únicamente en aquellos centros que no dispongan de sistemas informáticos de fichaje."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "175.",
+    "type": "especifico",
+    "question": "A la hemorragia procedente del útero, que no está relacionada con la regla se le denomina:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Metrorragia."
+      },
+      {
+        "letter": "b",
+        "option": "Melena."
+      },
+      {
+        "letter": "c",
+        "option": "Aftas."
+      },
+      {
+        "letter": "d",
+        "option": "Amniocentesis."
+      }
+    ]
+  },
+  {
+    "number": "176.",
+    "type": "especifico",
+    "question": "¿Cómo se denomina el aparato que se utiliza para realizar ecografías cardíacas?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Ecocardiógrafo."
+      },
+      {
+        "letter": "b",
+        "option": "Escopia."
+      },
+      {
+        "letter": "c",
+        "option": "Electrocardiógrafo."
+      },
+      {
+        "letter": "d",
+        "option": "Hemofiltro."
+      }
+    ]
+  },
+  {
+    "number": "177.",
+    "type": "especifico",
+    "question": "El término esplenomegalia hace referencia a:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Estrechamiento de un orificio."
+      },
+      {
+        "letter": "b",
+        "option": "Hinchazón por acúmulo anormal de líquido."
+      },
+      {
+        "letter": "c",
+        "option": "Inflamación del bazo."
+      },
+      {
+        "letter": "d",
+        "option": "Enfermedad de carácter agudo consistente en una inflamación del hígado."
+      }
+    ]
+  },
+  {
+    "number": "178.",
+    "type": "especifico",
+    "question": "A la inflamación de un ganglio linfático se le denomina:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Adenoma."
+      },
+      {
+        "letter": "b",
+        "option": "Aféresis."
+      },
+      {
+        "letter": "c",
+        "option": "Adenitis."
+      },
+      {
+        "letter": "d",
+        "option": "Absceso."
+      }
+    ]
+  },
+  {
+    "number": "179.",
+    "type": "especifico",
+    "question": "A la membrana interna que contiene el líquido amniótico, se le denomina:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Amniocentesis."
+      },
+      {
+        "letter": "b",
+        "option": "Amnios."
+      },
+      {
+        "letter": "c",
+        "option": "Anamnesis."
+      },
+      {
+        "letter": "d",
+        "option": "Anemia."
+      }
+    ]
+  },
+  {
+    "number": "180.",
+    "type": "especifico",
+    "question": "A la definición referente a las vida le corresponde el prefijo:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Bio- ."
+      },
+      {
+        "letter": "b",
+        "option": "Hidro-."
+      },
+      {
+        "letter": "c",
+        "option": "Inter-."
+      },
+      {
+        "letter": "d",
+        "option": "Logía-."
+      }
+    ]
+  },
+  {
+    "number": "181.",
+    "type": "especifico",
+    "question": "En el decreto 255/1998, ¿quién es competente para fijar o trasladar el domicilio del Ente Público Osakidetza-Servicio Vasco de Salud?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El Gobierno Vasco mediante Decreto."
+      },
+      {
+        "letter": "b",
+        "option": "El Departamento de Sanidad de la Comunidad Autónoma."
+      },
+      {
+        "letter": "c",
+        "option": "El Consejo de Administración del Ente Público."
+      },
+      {
+        "letter": "d",
+        "option": "El Director de Régimen Económico y Financiero del Ente Público."
+      }
+    ]
+  },
+  {
+    "number": "182.",
+    "type": "especifico",
+    "question": "De acuerdo con la clasificación de los fuegos, ¿cómo se catalogaría un incendio que involucra exclusivamente a líquidos?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Fuegos clase A."
+      },
+      {
+        "letter": "b",
+        "option": "Fuegos clase B."
+      },
+      {
+        "letter": "c",
+        "option": "Fuegos clase C."
+      },
+      {
+        "letter": "d",
+        "option": "Fuegos clase D."
+      }
+    ]
+  },
+  {
+    "number": "183.",
+    "type": "especifico",
+    "question": "Si se produce un fuego en una zona con brasas, ¿cuál de los siguientes agentes extintores NO debe utilizarse según las propiedades descritas en el manual?",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Polvo polivalente."
+      },
+      {
+        "letter": "b",
+        "option": "Agua."
+      },
+      {
+        "letter": "c",
+        "option": "Dióxido de carbono."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "184.",
+    "type": "especifico",
+    "question": "Indica la respuesta correcta en relación a la radiación ionizante:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El acceso a las áreas en las cuales se utiliza radiación ionizante está restringido a personas autorizadas."
+      },
+      {
+        "letter": "b",
+        "option": "La radiación ionizante pueden ser diversas: infrarroja y láser, Electromagnética…"
+      },
+      {
+        "letter": "c",
+        "option": "Los efectos para la salud evidenciados son escasos (calor local, enrojecimiento de piel)."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "185.",
+    "type": "especifico",
+    "question": "En el uso de pantallas de Visualización de datos (PVD’s), ¿cómo se debe colocar la pantalla respecto a los ojos?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "De manera que los ojos se sitúen a la altura de los bordes superiores de esta."
+      },
+      {
+        "letter": "b",
+        "option": "De manera que los ojos se sitúen a la altura de los bordes inferiores de esta."
+      },
+      {
+        "letter": "c",
+        "option": "Lo más alta posible para estirar el cuello."
+      },
+      {
+        "letter": "d",
+        "option": "Por debajo del nivel de la mesa."
+      }
+    ]
+  },
+  {
+    "number": "186.",
+    "type": "especifico",
+    "question": "En caso de sufrir un accidente laboral que precise asistencia médica inmediata en horario de mañana (8:00 a 15:00), ¿a dónde debe acudir el trabajador prioritariamente?",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "A su médico de cabecera en el centro de salud."
+      },
+      {
+        "letter": "b",
+        "option": "A la Unidad Básica de Prevención (UPB) de su organización."
+      },
+      {
+        "letter": "c",
+        "option": "Directamente a las oficinas de Mutualia."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "187.",
+    "type": "especifico",
+    "question": "Para que un accidente de trabajo sea considerado in itinere, es necesario que:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El medio de locomoción sea el habitual."
+      },
+      {
+        "letter": "b",
+        "option": "El trayecto no se haya modificado o interrumpido voluntariamente."
+      },
+      {
+        "letter": "c",
+        "option": "El margen de tiempo está dentro de los límites normales."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "188.",
+    "type": "especifico",
+    "question": "Indica la respuesta correcta en relación al tubo tubo de Guedel:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Cánula que se utiliza para impedir que la lengua caiga hacia atrás, bloqueando la vía respiratoria"
+      },
+      {
+        "letter": "b",
+        "option": "Tubo flexible, que puede introducirse en un vaso o una cavidad del cuerpo, para introducir o extraer líquidos."
+      },
+      {
+        "letter": "c",
+        "option": "Se le denomina también cánula de Mayo."
+      },
+      {
+        "letter": "d",
+        "option": "Las respuestas a y c son correctas."
+      }
+    ]
+  },
+  {
+    "number": "189.",
+    "type": "especifico",
+    "question": "El término hematuria hace referencia a:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Vómito en sangre procedente de estómago-intestino."
+      },
+      {
+        "letter": "b",
+        "option": "Coloración amarillenta de la piel."
+      },
+      {
+        "letter": "c",
+        "option": "Presencia de sangre en orina."
+      },
+      {
+        "letter": "d",
+        "option": "Expulsión de sangre procedente de vías respiratorias."
+      }
+    ]
+  },
+  {
+    "number": "190.",
+    "type": "especifico",
+    "question": "El término colelitiasis se define como:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Inflamación de la vejiga de la orina causada por infección bacteriana."
+      },
+      {
+        "letter": "b",
+        "option": "Estudio y visualización de las vías biliares, a través de Rx, y la inyección de un preparado radiopaco."
+      },
+      {
+        "letter": "c",
+        "option": "Presencia de piedras en vesícula biliar."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "191.",
+    "type": "especifico",
+    "question": "El término aneurisma hace referencia a:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Dilatación de la pared debilitada de un vaso sanguíneo."
+      },
+      {
+        "letter": "b",
+        "option": "Estudio con técnicas radiológicas de las estructuras vasculares. Se utiliza con fines diagnósticos y terapéuticos."
+      },
+      {
+        "letter": "c",
+        "option": "Coloración azul violeta de la piel y mucosas debida a la falta de oxígeno en la sangre."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "192.",
+    "type": "especifico",
+    "question": "La especialidad médica encargada del estudio de la función normal, la anatomía y los desórdenes producidos por alteraciones de las glándulas endocrinas es:",
+    "answer": "c",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Dermatología."
+      },
+      {
+        "letter": "b",
+        "option": "Hematología."
+      },
+      {
+        "letter": "c",
+        "option": "Endocrinología."
+      },
+      {
+        "letter": "d",
+        "option": "Nefrología."
+      }
+    ]
+  },
+  {
+    "number": "193.",
+    "type": "especifico",
+    "question": "A la definición referente al dolor, le corresponde el sufijo:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "-grafía."
+      },
+      {
+        "letter": "b",
+        "option": "-algia."
+      },
+      {
+        "letter": "c",
+        "option": "-itis."
+      },
+      {
+        "letter": "d",
+        "option": "-citosis."
+      }
+    ]
+  },
+  {
+    "number": "194.",
+    "type": "especifico",
+    "question": "A la definición referente a las venas le corresponde el prefijo:",
+    "answer": "d",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Hemi-."
+      },
+      {
+        "letter": "b",
+        "option": "Endo-."
+      },
+      {
+        "letter": "c",
+        "option": "Hidro-."
+      },
+      {
+        "letter": "d",
+        "option": "Flebo-."
+      }
+    ]
+  },
+  {
+    "number": "195.",
+    "type": "especifico",
+    "question": "El término histerectomía hace referencia a:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Extirpación del útero."
+      },
+      {
+        "letter": "b",
+        "option": "Hemorragia del útero."
+      },
+      {
+        "letter": "c",
+        "option": "Caída del útero."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son correctas."
+      }
+    ]
+  },
+  {
+    "number": "196.",
+    "type": "especifico",
+    "question": "Indica la respuesta correcta en relación a la licencia por traslado o mudanza del domicilio habitual:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Tendrá derecho a una licencia de un día de duración dentro del plazo de un mes natural a contar desde la fecha de empadronamiento en el nuevo domicilio."
+      },
+      {
+        "letter": "b",
+        "option": "Tendrá derecho a una licencia de un día de duración dentro del plazo de un año natural a contar desde la fecha de empadronamiento en el nuevo domicilio."
+      },
+      {
+        "letter": "c",
+        "option": "Tendrá derecho a una licencia de dos días naturales de duración dentro del plazo de un mes natural a contar desde la fecha de empadronamiento en el nuevo domicilio."
+      },
+      {
+        "letter": "d",
+        "option": "Tendrá derecho a una licencia de dos días naturales de duración dentro del plazo de un año natural a contar desde la fecha de empadronamiento en el nuevo domicilio."
+      }
+    ]
+  },
+  {
+    "number": "197.",
+    "type": "especifico",
+    "question": "Indica la respuesta correcta en relación a la licencia para atender el cuidado de un familiar de primer grado por razones de enfermedad muy grave:",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El trabajador tendrá derecho a solicitar una reducción de hasta el cincuenta por ciento de la jornada laboral con carácter retribuido y por el plazo máximo de 2 meses."
+      },
+      {
+        "letter": "b",
+        "option": "El trabajador tendrá derecho a solicitar una reducción de hasta el cincuenta por ciento de la jornada laboral con carácter retribuido y por el plazo máximo de 1 mes."
+      },
+      {
+        "letter": "c",
+        "option": "El trabajador tendrá derecho a solicitar una reducción de hasta el cien por ciento de la jornada laboral con carácter retribuido y por el plazo máximo de 1 mes."
+      },
+      {
+        "letter": "d",
+        "option": "Todas las respuestas son incorrectas."
+      }
+    ]
+  },
+  {
+    "number": "198.",
+    "type": "especifico",
+    "question": "Según el Acuerdo Regulador de Osakidetza, ¿cuál es la duración de la licencia retribuida por matrimonio propio?",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "El personal tiene derecho a una licencia de 20 días naturales de duración que podrá disfrutar con anterioridad o posterioridad a su celebración, incluyendo dicha fecha en ese periodo."
+      },
+      {
+        "letter": "b",
+        "option": "El personal tiene derecho a una licencia de 25 días naturales de duración que podrá disfrutar con anterioridad o posterioridad a su celebración, incluyendo dicha fecha en ese periodo."
+      },
+      {
+        "letter": "c",
+        "option": "El personal tiene derecho a una licencia de 20 días naturales de duración que podrá disfrutar únicamente con posterioridad a su celebración."
+      },
+      {
+        "letter": "d",
+        "option": "El personal tiene derecho a una licencia de 25 días naturales de duración que podrá disfrutar únicamente con posterioridad a su celebración."
+      }
+    ]
+  },
+  {
+    "number": "199.",
+    "type": "especifico",
+    "question": "A el tablero destinado a pacientes que precisen de una inmovilización de urgencia, se le denomina:",
+    "answer": "a",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Tablero de inmovilización espinal."
+      },
+      {
+        "letter": "b",
+        "option": "Tablero de paradas."
+      },
+      {
+        "letter": "c",
+        "option": "Transpaleta eléctrica."
+      },
+      {
+        "letter": "d",
+        "option": "Camilla de exploración."
+      }
+    ]
+  },
+  {
+    "number": "200.",
+    "type": "especifico",
+    "question": "El decreto 255/1997 en su artículo 4 (personalidad jurídica y capacidad de obrar) indica que el Ente Público Osakidetza-Servicio Vasco de Salud:.",
+    "answer": "b",
+    "options": [
+      {
+        "letter": "a",
+        "option": "Actúa con personalidad jurídica privada y capacidad limitada al ámbito sanitario."
+      },
+      {
+        "letter": "b",
+        "option": "Dispone de personalidad jurídica pública diferenciada y plena capacidad de obrar para el cumplimiento de su objeto y fines."
+      },
+      {
+        "letter": "c",
+        "option": "Carece de personalidad jurídica propia y depende orgánicamente del Departamento de Sanidad."
+      },
+      {
+        "letter": "d",
+        "option": "Todas son incorrectas."
+      }
+    ]
   }
 ]
