@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "number": "1.",
     "type": "comun",
     "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria será requisito imprescindible:",
@@ -24,6 +25,7 @@
     ]
   },
   {
+    "id": 2,
     "number": "2.",
     "type": "comun",
     "question": "Según lo establecido en la normativa vigente sobre ordenación de las profesiones sanitarias, para poder ejercer una profesión sanitaria:",
@@ -48,6 +50,7 @@
     ]
   },
   {
+    "id": 3,
     "number": "3.",
     "type": "comun",
     "question": "Según la normativa vigente, el órgano encargado del Registro Estatal de Profesionales Sanitarios podrá (indíquese la que sea correcta):",
@@ -72,6 +75,7 @@
     ]
   },
   {
+    "id": 4,
     "number": "4.",
     "type": "comun",
     "question": "En el marco de la ordenación de las profesiones sanitarias, las personas pacientes:",
@@ -96,6 +100,7 @@
     ]
   },
   {
+    "id": 5,
     "number": "5.",
     "type": "comun",
     "question": "Según la normativa de ordenación de las profesiones sanitarias, el personal profesional y las personas responsables de los centros sanitarios facilitarán a sus pacientes el ejercicio del derecho a conocer:",
@@ -120,6 +125,7 @@
     ]
   },
   {
+    "id": 6,
     "number": "6.",
     "type": "comun",
     "question": "De acuerdo con las normas generales de ordenación de las profesiones sanitarias, el ejercicio del derecho del personal profesional sanitario a la renuncia a la atención a una persona paciente queda condicionado a que (señálese la respuesta incorrecta):",
@@ -144,6 +150,7 @@
     ]
   },
   {
+    "id": 7,
     "number": "7.",
     "type": "comun",
     "question": "Los centros sanitarios revisarán que el personal sanitario de su plantilla cumple los requisitos necesarios para ejercer la profesión conforme a lo previsto en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias y en las demás normas aplicables:",
@@ -168,6 +175,7 @@
     ]
   },
   {
+    "id": 8,
     "number": "8.",
     "type": "comun",
     "question": "Según dispone la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, cuando una actuación sanitaria se realice por un equipo de profesionales (señálese la respuesta incorrecta):",
@@ -192,6 +200,7 @@
     ]
   },
   {
+    "id": 9,
     "number": "9.",
     "type": "comun",
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, diga cuál de los siguientes principios generales de la relación entre las personas que ejercen profesiones sanitarias y las personas atendidas no es tal:",
@@ -216,6 +225,7 @@
     ]
   },
   {
+    "id": 10,
     "number": "10.",
     "type": "comun",
     "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, los centros sanitarios acreditados para desarrollar programas de formación continuada:",
@@ -240,6 +250,7 @@
     ]
   },
   {
+    "id": 11,
     "number": "11.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, sus disposiciones se aplicarán a:",
@@ -264,6 +275,7 @@
     ]
   },
   {
+    "id": 12,
     "number": "12.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la ciudadanía tendrá los siguientes derechos en el conjunto del Sistema Nacional de Salud:",
@@ -288,6 +300,7 @@
     ]
   },
   {
+    "id": 13,
     "number": "13.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común de servicios del Sistema Nacional de Salud se articula en torno a las siguientes modalidades:",
@@ -312,6 +325,7 @@
     ]
   },
   {
+    "id": 14,
     "number": "14.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común básica de servicios asistenciales del Sistema Nacional de Salud comprende:",
@@ -336,6 +350,7 @@
     ]
   },
   {
+    "id": 15,
     "number": "15.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la cartera común suplementaria del Sistema Nacional de Salud incluirá las siguientes prestaciones:",
@@ -360,6 +375,7 @@
     ]
   },
   {
+    "id": 16,
     "number": "16.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la prestación de atención primaria no comprenderá:",
@@ -384,6 +400,7 @@
     ]
   },
   {
+    "id": 17,
     "number": "17.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, para la elaboración del contenido de la cartera común de servicios del Sistema Nacional de Salud:",
@@ -408,6 +425,7 @@
     ]
   },
   {
+    "id": 18,
     "number": "18.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la exclusión de una técnica, tecnología o procedimiento actualmente incluido en la cartera de servicios se llevará a cabo cuando:",
@@ -432,6 +450,7 @@
     ]
   },
   {
+    "id": 19,
     "number": "19.",
     "type": "comun",
     "question": "A los efectos de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la competencia profesional es:",
@@ -456,6 +475,7 @@
     ]
   },
   {
+    "id": 20,
     "number": "20.",
     "type": "comun",
     "question": "Según dispone la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la declaración de actuaciones coordinadas en salud pública y en seguridad alimentaria deberán encuadrarse en alguno de los supuestos siguientes:",
@@ -480,6 +500,7 @@
     ]
   },
   {
+    "id": 21,
     "number": "21.",
     "type": "comun",
     "question": "Según dispone la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la ordenación del régimen personal estatutario de los servicios de salud se rige por una serie de principios y criterios. Señale cuales no están entre los mencionados por esta ley.",
@@ -504,6 +525,7 @@
     ]
   },
   {
+    "id": 22,
     "number": "22.",
     "type": "comun",
     "question": "La condición de personal estatutario fijo se adquiere, tal y como prevé la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, por el cumplimiento de los siguientes requisitos:",
@@ -528,6 +550,7 @@
     ]
   },
   {
+    "id": 23,
     "number": "23.",
     "type": "comun",
     "question": "Según dice la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, en el proceso de la adquisición de la condición de personal estatutario fijo, no podrán recibir nombramiento y quedarán sin efecto las actuaciones de quienes:",
@@ -552,6 +575,7 @@
     ]
   },
   {
+    "id": 24,
     "number": "24.",
     "type": "comun",
     "question": "La pérdida de la condición de personal estatutario regulada en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, se produce:",
@@ -576,6 +600,7 @@
     ]
   },
   {
+    "id": 25,
     "number": "25.",
     "type": "comun",
     "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale cuál de las siguientes afirmaciones no es correcta:",
@@ -600,6 +625,7 @@
     ]
   },
   {
+    "id": 26,
     "number": "26.",
     "type": "comun",
     "question": "Procede la extinción de la condición de personal estatutario fijo de los servicios de salud:",
@@ -624,6 +650,7 @@
     ]
   },
   {
+    "id": 27,
     "number": "27.",
     "type": "comun",
     "question": "En materia de retribuciones, la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, prevé que:",
@@ -648,6 +675,7 @@
     ]
   },
   {
+    "id": 28,
     "number": "28.",
     "type": "comun",
     "question": "De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, señale la respuesta correcta respecto a las retribuciones del personal estatutario de los servicios de salud:",
@@ -672,6 +700,7 @@
     ]
   },
   {
+    "id": 29,
     "number": "29.",
     "type": "comun",
     "question": "La pérdida de la condición de personal estatutario de los servicios de salud se produce cuando la incapacidad permanente sea declarada:",
@@ -696,6 +725,7 @@
     ]
   },
   {
+    "id": 30,
     "number": "30.",
     "type": "comun",
     "question": "En el supuesto del personal estatutario de los servicios de salud:",
@@ -720,6 +750,7 @@
     ]
   },
   {
+    "id": 31,
     "number": "31.",
     "type": "comun",
     "question": "Para el personal estatutario de los servicios de salud, el período nocturno tendrá la siguiente duración:",
@@ -744,6 +775,7 @@
     ]
   },
   {
+    "id": 32,
     "number": "32.",
     "type": "comun",
     "question": "Según establece la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
@@ -768,6 +800,7 @@
     ]
   },
   {
+    "id": 33,
     "number": "33.",
     "type": "comun",
     "question": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud regula el descanso semanal. Señale la respuesta que no es correcta:",
@@ -792,6 +825,7 @@
     ]
   },
   {
+    "id": 34,
     "number": "34.",
     "type": "comun",
     "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
@@ -816,6 +850,7 @@
     ]
   },
   {
+    "id": 35,
     "number": "35.",
     "type": "comun",
     "question": "La excedencia voluntaria solicitada por el personal estatutario de los servicios de salud por interés particular exige haber prestado servicios efectivos en cualquiera de las Administraciones públicas durante:",
@@ -840,6 +875,7 @@
     ]
   },
   {
+    "id": 36,
     "number": "36.",
     "type": "comun",
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece que la Administración sanitaria vasca debe garantizar la tutela general de la salud pública a través de:",
@@ -864,6 +900,7 @@
     ]
   },
   {
+    "id": 37,
     "number": "37.",
     "type": "comun",
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, reconoce la universalidad del derecho a la protección de la salud para:",
@@ -888,6 +925,7 @@
     ]
   },
   {
+    "id": 38,
     "number": "38.",
     "type": "comun",
     "question": "Señale cuál de los siguientes principios no se enuncian entre los principios informadores del sistema sanitario de Euskadi en la Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi:",
@@ -912,6 +950,7 @@
     ]
   },
   {
+    "id": 39,
     "number": "39.",
     "type": "comun",
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi, establece respecto a las áreas de salud que:",
@@ -936,6 +975,7 @@
     ]
   },
   {
+    "id": 40,
     "number": "40.",
     "type": "comun",
     "question": "La Ley 8/1997, de 26 de junio, de ordenación Sanitaria de Euskadi prevé la creación de sistemas de información necesarios para facilitar el ejercicio adecuado de los distintos niveles de responsabilidad en el sistema. A tal fin, los datos de carácter personal relativos a la salud podrán ser recabados y tratados siempre que se cumplan los siguientes requisitos:",
@@ -960,6 +1000,7 @@
     ]
   },
   {
+    "id": 41,
     "number": "41.",
     "type": "comun",
     "question": "La Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi al contemplar los derechos y deberes ciudadanos, alude a:",
@@ -984,6 +1025,7 @@
     ]
   },
   {
+    "id": 42,
     "number": "42.",
     "type": "comun",
     "question": "El contrato-programa, tal y como establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
@@ -1008,6 +1050,7 @@
     ]
   },
   {
+    "id": 43,
     "number": "43.",
     "type": "comun",
     "question": "El consejo de administración de Osakidetza -Servicio Vasco de Salud está integrado por:",
@@ -1032,6 +1075,7 @@
     ]
   },
   {
+    "id": 44,
     "number": "44.",
     "type": "comun",
     "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
@@ -1056,6 +1100,7 @@
     ]
   },
   {
+    "id": 45,
     "number": "45.",
     "type": "comun",
     "question": "A los efectos de la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las plantillas de personal del ente público Osakidetza-Servicio Vasco de Salud:",
@@ -1080,6 +1125,7 @@
     ]
   },
   {
+    "id": 46,
     "number": "46.",
     "type": "comun",
     "question": "En el ámbito territorial de la Comunidad Autónoma de Euskadi, las inspecciones necesarias para asegurar el cumplimiento de lo previsto en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi y en el resto de la legislación sanitaria corresponde:",
@@ -1104,6 +1150,7 @@
     ]
   },
   {
+    "id": 47,
     "number": "47.",
     "type": "comun",
     "question": "Señale cuál de los siguientes criterios no está contemplado en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi para la clasificación de las infracciones en leves, graves o muy graves:",
@@ -1128,6 +1175,7 @@
     ]
   },
   {
+    "id": 48,
     "number": "48.",
     "type": "comun",
     "question": "Según establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, en materia de sanciones señale la respuesta correcta:",
@@ -1152,6 +1200,7 @@
     ]
   },
   {
+    "id": 49,
     "number": "49.",
     "type": "comun",
     "question": "Según la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, las organizaciones a través de las que se procede a la provisión de servicios sanitarios con medios adscritos al ente público Osakidetza -Servicio Vasco de Salud:",
@@ -1176,6 +1225,7 @@
     ]
   },
   {
+    "id": 50,
     "number": "50.",
     "type": "comun",
     "question": "Respecto al personal sujeto al régimen estatutario que establece la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi, señale la respuesta correcta:",
@@ -1200,6 +1250,7 @@
     ]
   },
   {
+    "id": 51,
     "number": "51.",
     "type": "comun",
     "question": "Corresponderá la presidencia del ente p úblico Osakidetza-Servicio Vasco de Salud a:",
@@ -1224,6 +1275,7 @@
     ]
   },
   {
+    "id": 52,
     "number": "52.",
     "type": "comun",
     "question": "La función de nombrar y separar a quienes ocupen las Direcciones de División de la organización central del ente público corresponde a:",
@@ -1248,6 +1300,7 @@
     ]
   },
   {
+    "id": 53,
     "number": "53.",
     "type": "comun",
     "question": "La composición del Consejo del ente público Osakidetza -Servicio Vasco de Salud contará, además de la persona que ejerza la Presidencia:",
@@ -1272,6 +1325,7 @@
     ]
   },
   {
+    "id": 54,
     "number": "54.",
     "type": "comun",
     "question": "La propuesta de Plan Estratégico del ente p úblico Osakidetza-Servicio Vasco de Salud:",
@@ -1296,6 +1350,7 @@
     ]
   },
   {
+    "id": 55,
     "number": "55.",
     "type": "comun",
     "question": "La función de convocar, presidir, suspender y levantar las sesiones, arbitrar las deliberaciones del Consejo de Administración del ente público Osakidetza- Servicio vasco de salud y decidir los empates con su voto de calidad corresponderá a:",
@@ -1320,6 +1375,7 @@
     ]
   },
   {
+    "id": 56,
     "number": "56.",
     "type": "comun",
     "question": "La persona titul ar de la Dirección General del ente público Osakidetza- Servicio Vasco de Salud:",
@@ -1344,6 +1400,7 @@
     ]
   },
   {
+    "id": 57,
     "number": "57.",
     "type": "comun",
     "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud , en materia de gestión asistencial (señálese la respuesta incorrecta):",
@@ -1368,6 +1425,7 @@
     ]
   },
   {
+    "id": 58,
     "number": "58.",
     "type": "comun",
     "question": "Corresponde a la organización central de administración y gestión corporativa del ente público Osakidetza-Servicio Vasco de Salud, en materia de gestión de recursos humanos (señálese la respuesta incorrecta):",
@@ -1392,6 +1450,7 @@
     ]
   },
   {
+    "id": 59,
     "number": "59.",
     "type": "comun",
     "question": "Corresponde a cada organizaci ón de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Sa lud el ejercicio de todas las facultades de gestión y administración que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tengan encomendada, quedando excluidas únicamente:",
@@ -1416,6 +1475,7 @@
     ]
   },
   {
+    "id": 60,
     "number": "60.",
     "type": "comun",
     "question": "El número de integrantes del equipo directivo de las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud:",
@@ -1440,6 +1500,7 @@
     ]
   },
   {
+    "id": 61,
     "number": "61.",
     "type": "comun",
     "question": "La función de Representar al ente público Osakidetza-Servicio Vasco de Salud en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo del Personal corresponde a:",
@@ -1464,6 +1525,7 @@
     ]
   },
   {
+    "id": 62,
     "number": "62.",
     "type": "comun",
     "question": "Para el desarrollo de funciones de propuesta y asesoramiento, así como de participación en las organizaciones de servicios sanitarios, existirá un Consejo de Dirección en cada una de ellas, integrado por:",
@@ -1488,6 +1550,7 @@
     ]
   },
   {
+    "id": 63,
     "number": "63.",
     "type": "comun",
     "question": "Las organizaciones de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud podrán:",
@@ -1512,6 +1575,7 @@
     ]
   },
   {
+    "id": 64,
     "number": "64.",
     "type": "comun",
     "question": "En materia específica de inversiones, la competencia para ejecutar las compras de suministros que se consideren centralizadas, así como definir y/o ejecutar, en su caso, las consideradas integradas corresponde a:",
@@ -1536,6 +1600,7 @@
     ]
   },
   {
+    "id": 65,
     "number": "65.",
     "type": "comun",
     "question": "En el ámbito de una organizaci ón de servicios sanitarios del ente público Osakidetza-Servicio Vasco de Salud , presidir los Consejos Técnicos de participación profesional y promover su eficaz funcionamiento es una tarea que corresponde a:",
@@ -1560,6 +1625,7 @@
     ]
   },
   {
+    "id": 66,
     "number": "66.",
     "type": "comun",
     "question": "Según el Artículo 1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿qué dos niveles asistenciales se integran en las Organizaciones Sanitarias Integradas (OSI) de Osakidetza?",
@@ -1584,6 +1650,7 @@
     ]
   },
   {
+    "id": 67,
     "number": "67.",
     "type": "comun",
     "question": "Según el Artículo 2.1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué objetivo último persigue la configuración de las OSI?",
@@ -1608,6 +1675,7 @@
     ]
   },
   {
+    "id": 68,
     "number": "68.",
     "type": "comun",
     "question": "Según el Artículo 1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿bajo qué principio fundamental actuarán las Organizaciones Sanitarias Integradas (OSI) del ente público Osakidetza-Servicio Vasco de Salud ?",
@@ -1632,6 +1700,7 @@
     ]
   },
   {
+    "id": 69,
     "number": "69.",
     "type": "comun",
     "question": "De acuerdo con el Artículo 3 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cómo se define una OSI de clase \"monográfica\"?",
@@ -1656,6 +1725,7 @@
     ]
   },
   {
+    "id": 70,
     "number": "70.",
     "type": "comun",
     "question": "Según el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, las OSI de Tipo I se caracterizan, entre otros aspectos, por tener hospitales de carácter universitario y, además, por disponer de:",
@@ -1680,6 +1750,7 @@
     ]
   },
   {
+    "id": 71,
     "number": "71.",
     "type": "comun",
     "question": "Según el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, para que una OSI sea clasificada como de Tipo III debe integrar, junto con servicios de atención primaria, un hospital de carácter general y tener una base poblacional atendida inferior a:",
@@ -1704,6 +1775,7 @@
     ]
   },
   {
+    "id": 72,
     "number": "72.",
     "type": "comun",
     "question": "Según el Artículo 5 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cuáles son los tres órganos de participación que conforman la estructura organizativa de las OSI?",
@@ -1728,6 +1800,7 @@
     ]
   },
   {
+    "id": 73,
     "number": "73.",
     "type": "comun",
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿qué órganos componen el equipo directivo de una OSI, según la estructura general del artículo 5.2?",
@@ -1752,6 +1825,7 @@
     ]
   },
   {
+    "id": 74,
     "number": "74.",
     "type": "comun",
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, en las OSI de Tipo IV, la Dirección Gerencia asume, con el apoyo de puestos funcionales asistenciales, las funciones que corresponden a:",
@@ -1776,6 +1850,7 @@
     ]
   },
   {
+    "id": 75,
     "number": "75.",
     "type": "comun",
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cuál de los siguientes NO es un órgano de dirección encargado del gobierno y gestión de las OSI de Tipo I y II?",
@@ -1800,6 +1875,7 @@
     ]
   },
   {
+    "id": 76,
     "number": "76.",
     "type": "comun",
     "question": "Según el Artículo 7.3 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿quién tiene la competencia para el nombramiento y cese de la persona titular de la Dirección Gerencia?",
@@ -1824,6 +1900,7 @@
     ]
   },
   {
+    "id": 77,
     "number": "77.",
     "type": "comun",
     "question": "Según los Artículos 7 y 9 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿cuál es un requisito obligatorio para el nombramiento de los cargos de dirección de una OSI?",
@@ -1848,6 +1925,7 @@
     ]
   },
   {
+    "id": 78,
     "number": "78.",
     "type": "comun",
     "question": "Según el Artículo 8.m del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿a qué dirección corresponde \"orientar la gestión desde una visión integradora empoderando la atención primaria\"?",
@@ -1872,6 +1950,7 @@
     ]
   },
   {
+    "id": 79,
     "number": "79.",
     "type": "comun",
     "question": "De acuerdo con el Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza -Servicio Vasco de Salud, ¿con qué ámbito(s) adicional(es) debe coordinar su actividad la Dirección de Atención Integrada, además de con la atención primaria y hospitalaria?",
@@ -1896,6 +1975,7 @@
     ]
   },
   {
+    "id": 80,
     "number": "80.",
     "type": "comun",
     "question": "Según el Artículo 19.1 del Decreto 100/2018 de las organizaciones sanitarias integradas del ente público Osakidetza-Servicio Vasco de Salud, ¿quién ejerce la presidencia del Consejo Clínico Asistencial?",
@@ -1920,6 +2000,7 @@
     ]
   },
   {
+    "id": 81,
     "number": "81.",
     "type": "comun",
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son titulares de los derechos y deberes recogidos en esta Declaración:",
@@ -1944,6 +2025,7 @@
     ]
   },
   {
+    "id": 82,
     "number": "82.",
     "type": "comun",
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, todos los derechos y obligaciones establecidos son exigibles:",
@@ -1968,6 +2050,7 @@
     ]
   },
   {
+    "id": 83,
     "number": "83.",
     "type": "comun",
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los principios que informan e inspiran el conjunto de acciones de carácter sanitario que se desarrollen en el sistema sanitario de Euskadi son:",
@@ -1992,6 +2075,7 @@
     ]
   },
   {
+    "id": 84,
     "number": "84.",
     "type": "comun",
     "question": "A los efectos de la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi recogida en el Decreto 147/2015, de 21 de julio, se configuran las siguientes fases de la vida en las que se concretan necesidades específicas:",
@@ -2016,6 +2100,7 @@
     ]
   },
   {
+    "id": 85,
     "number": "85.",
     "type": "comun",
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:",
@@ -2040,6 +2125,7 @@
     ]
   },
   {
+    "id": 86,
     "number": "86.",
     "type": "comun",
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria:",
@@ -2064,6 +2150,7 @@
     ]
   },
   {
+    "id": 87,
     "number": "87.",
     "type": "comun",
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los Servicios de Atención a Pacientes y personas Usuarias:",
@@ -2088,6 +2175,7 @@
     ]
   },
   {
+    "id": 88,
     "number": "88.",
     "type": "comun",
     "question": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las reclamaciones contra actuaciones del personal:",
@@ -2112,6 +2200,7 @@
     ]
   },
   {
+    "id": 89,
     "number": "89.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la documentación clínica es:",
@@ -2136,6 +2225,7 @@
     ]
   },
   {
+    "id": 90,
     "number": "90.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial:",
@@ -2160,6 +2250,7 @@
     ]
   },
   {
+    "id": 91,
     "number": "91.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la información asistencial contiene, como mínimo:",
@@ -2184,6 +2275,7 @@
     ]
   },
   {
+    "id": 92,
     "number": "92.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, garantiza el cumplimiento del derecho a la información asistencial:",
@@ -2208,6 +2300,7 @@
     ]
   },
   {
+    "id": 93,
     "number": "93.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la persona titular del derecho a la información asistencial es:",
@@ -2232,6 +2325,7 @@
     ]
   },
   {
+    "id": 94,
     "number": "94.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuando existe riesgo inmediato grave para la integridad física o psíquica de la persona enferma y no es posible conseguir su autorización:",
@@ -2256,6 +2350,7 @@
     ]
   },
   {
+    "id": 95,
     "number": "95.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el personal facultativo proporcionará a la persona paciente, antes de recabar s u consentimiento escrito, la información básica siguiente:",
@@ -2280,6 +2375,7 @@
     ]
   },
   {
+    "id": 96,
     "number": "96.",
     "type": "comun",
     "question": "Según dispone la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, en caso de que la persona paciente no acepte el alta:",
@@ -2304,6 +2400,7 @@
     ]
   },
   {
+    "id": 97,
     "number": "97.",
     "type": "comun",
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la expresión de los objetivos vitales y valores personales tiene como fin:",
@@ -2328,6 +2425,7 @@
     ]
   },
   {
+    "id": 98,
     "number": "98.",
     "type": "comun",
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas:",
@@ -2352,6 +2450,7 @@
     ]
   },
   {
+    "id": 99,
     "number": "99.",
     "type": "comun",
     "question": "Según la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, si el nombramiento de representante en el documento de instrucciones previas ha recaído en favor de la persona cónyuge o pareja de hecho de la persona otorgante:",
@@ -2376,6 +2475,7 @@
     ]
   },
   {
+    "id": 100,
     "number": "100.",
     "type": "comun",
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, las instrucciones sobre el tratamiento pueden referirse:",
@@ -2400,6 +2500,7 @@
     ]
   },
   {
+    "id": 101,
     "number": "101.",
     "type": "comun",
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas:",
@@ -2424,6 +2525,7 @@
     ]
   },
   {
+    "id": 102,
     "number": "102.",
     "type": "comun",
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, el documento de voluntades anticipadas puede ser modificado, sustituido por otro o revocado en cualquier momento por la persona otorgante:",
@@ -2448,6 +2550,7 @@
     ]
   },
   {
+    "id": 103,
     "number": "103.",
     "type": "comun",
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, la voluntad de la persona prevalece sobre las instrucciones contenidas en el documento de voluntades anticipadas ante cualquier intervención clínica siempre que:",
@@ -2472,6 +2575,7 @@
     ]
   },
   {
+    "id": 104,
     "number": "104.",
     "type": "comun",
     "question": "Según dispone la Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad, en el documento de voluntades anticipadas se tendrán por no puestas:",
@@ -2496,6 +2600,7 @@
     ]
   },
   {
+    "id": 105,
     "number": "105.",
     "type": "comun",
     "question": "Según dispone la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, podrán tener acceso a los datos personales de las personas fallecidas:",
@@ -2520,6 +2625,7 @@
     ]
   },
   {
+    "id": 106,
     "number": "106.",
     "type": "comun",
     "question": "Señale la respuesta que no es correcta. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales a efectos del tratamiento de los datos, el consentimiento de la persona afectada tiene que ser una manifestación de voluntad que cumpla las siguientes características:",
@@ -2544,6 +2650,7 @@
     ]
   },
   {
+    "id": 107,
     "number": "107.",
     "type": "comun",
     "question": "Con relación al tratamiento de los datos personales de una persona menor de edad, señale la respuesta correcta:",
@@ -2568,6 +2675,7 @@
     ]
   },
   {
+    "id": 108,
     "number": "108.",
     "type": "comun",
     "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en su artículo 9 considera categorías especiales de datos aquellos que permitan, respecto a la persona afectada, identificar:",
@@ -2592,6 +2700,7 @@
     ]
   },
   {
+    "id": 109,
     "number": "109.",
     "type": "comun",
     "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales establece que el tratamiento de datos de naturaleza penal podrá llevarse a cabo:",
@@ -2616,6 +2725,7 @@
     ]
   },
   {
+    "id": 110,
     "number": "110.",
     "type": "comun",
     "question": "Respecto al derecho de rectificación que regula la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, señale la respuesta correcta:",
@@ -2640,6 +2750,7 @@
     ]
   },
   {
+    "id": 111,
     "number": "111.",
     "type": "comun",
     "question": "Con relación al tratamiento de datos con fines de videovigilancia, señale la respuesta correcta:",
@@ -2664,6 +2775,7 @@
     ]
   },
   {
+    "id": 112,
     "number": "112.",
     "type": "comun",
     "question": "Respecto a los sistemas de información de denuncias internas que contempla la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, es correcta la siguiente afirmación:",
@@ -2688,6 +2800,7 @@
     ]
   },
   {
+    "id": 113,
     "number": "113.",
     "type": "comun",
     "question": "El artículo 1 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, añade un concepto específico al objeto de la ley que refuerza el fin último de la norma, ¿cuál es?",
@@ -2712,6 +2825,7 @@
     ]
   },
   {
+    "id": 114,
     "number": "114.",
     "type": "comun",
     "question": "Según el artículo 2 del Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿a qué entidades privadas les es exigible el cumplimiento de los principios generales de esta ley durante su relación con la administración?",
@@ -2736,6 +2850,7 @@
     ]
   },
   {
+    "id": 115,
     "number": "115.",
     "type": "comun",
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿cuál de estos es un principio general de actuación de lo s poderes públicos vascos incorporado en la nueva redacción del artículo 3?",
@@ -2760,6 +2875,7 @@
     ]
   },
   {
+    "id": 116,
     "number": "116.",
     "type": "comun",
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, respecto al principio de representación equilibrada, ¿en qué caso se permite excepcionalmente una presencia de mujeres superior al 60%?",
@@ -2784,6 +2900,7 @@
     ]
   },
   {
+    "id": 117,
     "number": "117.",
     "type": "comun",
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué planes específicos deben someterse ahora, obligatori amente, a una evaluación previa de impacto en función del género?",
@@ -2808,6 +2925,7 @@
     ]
   },
   {
+    "id": 118,
     "number": "118.",
     "type": "comun",
     "question": "Según el Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, ¿qué requisito nuevo deben cumplir las empresas de más de 50 personas trabajadoras para poder recibir subvenciones públicas?",
@@ -2832,6 +2950,7 @@
     ]
   },
   {
+    "id": 119,
     "number": "119.",
     "type": "comun",
     "question": "De acuerdo con lo establecido en el artículo 54 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿cómo se define la \"violencia machista contra las mujeres\"?",
@@ -2856,6 +2975,7 @@
     ]
   },
   {
+    "id": 120,
     "number": "120.",
     "type": "comun",
     "question": "De acuerdo con lo establecido en el artículo 54.3 del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, aprobado por el Decreto Legislativo 1/2023, de 16 de marzo, ¿qué formas de violen cia se incorporan como casos constitutivos de violencia machista por estar específicamente recogidos en dicho apartado?",
@@ -2880,6 +3000,7 @@
     ]
   },
   {
+    "id": 121,
     "number": "121.",
     "type": "comun",
     "question": "¿Cuántos Objetivos Generales, clasificados como finalistas e instrumentales, se definen en la estructura del Plan de Salud Euskadi 2030?",
@@ -2904,6 +3025,7 @@
     ]
   },
   {
+    "id": 122,
     "number": "122.",
     "type": "comun",
     "question": "Según el Plan de Salud Euskadi 2030, la VISIÓN que se aspira a lograr como país es:",
@@ -2928,6 +3050,7 @@
     ]
   },
   {
+    "id": 123,
     "number": "123.",
     "type": "comun",
     "question": "¿Cuál de los siguientes NO es un principio rector en los que se apoya el Plan de Salud Euskadi 2030?",
@@ -2952,6 +3075,7 @@
     ]
   },
   {
+    "id": 124,
     "number": "124.",
     "type": "comun",
     "question": "El Objetivo General 1 (OG1) del Plan de Salud Euskadi 2030 se enfoca en:",
@@ -2976,6 +3100,7 @@
     ]
   },
   {
+    "id": 125,
     "number": "125.",
     "type": "comun",
     "question": "El Objetivo General 4 (OG4) del Plan de Salud Euskadi 2030 se define como “lograr la sostenibilidad y excelencia en los sistemas asistenciales sanitarios y sociosanitarios de Euskadi”, ¿en términos de qué tres conceptos clave?",
@@ -3000,6 +3125,7 @@
     ]
   },
   {
+    "id": 126,
     "number": "126.",
     "type": "comun",
     "question": "¿A qué hace referencia el acrónimo AVAD en el Plan de Salud Euskadi 2030?",
@@ -3024,6 +3150,7 @@
     ]
   },
   {
+    "id": 127,
     "number": "127.",
     "type": "comun",
     "question": "¿Cuál es uno de los objetivos clave del Plan de Salud Euskadi 2030, reiterado en varias secciones, respecto a la equidad y la gestión de la enfermedad?",
@@ -3048,6 +3175,7 @@
     ]
   },
   {
+    "id": 128,
     "number": "128.",
     "type": "comun",
     "question": "¿Qué enfoque de investigación prioriza el Plan de Salud Euskadi 2030 para asegurar que los avances científicos lleguen de forma efectiva a la práctica clínica y la salud de la población?",
@@ -3072,6 +3200,7 @@
     ]
   },
   {
+    "id": 129,
     "number": "129.",
     "type": "comun",
     "question": "Según el modelo de evaluación del Plan de Salud Euskadi 2030, ¿cuáles son los cuatro criterios fundamentales para determinar el éxito de las intervenciones?",
@@ -3096,6 +3225,7 @@
     ]
   },
   {
+    "id": 130,
     "number": "130.",
     "type": "comun",
     "question": "En la lucha contra las desigualdades, ¿qué tipo de soluciones habitacionales promueve el Plan de Salud Euskadi 2030 para las diferentes etapas de la vida?",
@@ -3120,6 +3250,7 @@
     ]
   },
   {
+    "id": 131,
     "number": "131.",
     "type": "comun",
     "question": "Según la comparativa de la Memoria Económica del Plan de Salud Euskadi 2030, ¿cuál es el programa presupuestario (fuera del gasto general de Osakidetza) con mayor dotación?",
@@ -3144,6 +3275,7 @@
     ]
   },
   {
+    "id": 132,
     "number": "132.",
     "type": "comun",
     "question": "El Plan de Salud Euskadi 2030 busca lograr \"comunidades amigables\" para las personas mayores. ¿Cuál es la finalidad última de esta estrategia?",
@@ -3168,6 +3300,7 @@
     ]
   },
   {
+    "id": 133,
     "number": "133.",
     "type": "comun",
     "question": "En el ámbito de la salud digital, ¿qué concepto destaca el Plan de Salud Euskadi 2030 para transformar la atención personalizada?",
@@ -3192,6 +3325,7 @@
     ]
   },
   {
+    "id": 134,
     "number": "134.",
     "type": "comun",
     "question": "¿Cómo define el Plan de Salud Euskadi 2030 el concepto de \"Intersectorialidad\" en la gestión de la salud?",
@@ -3216,6 +3350,7 @@
     ]
   },
   {
+    "id": 135,
     "number": "135.",
     "type": "comun",
     "question": "¿Cuál es la visión del Plan de Salud Euskadi 2030 sobre el uso de la evidencia científica en la toma de decisiones políticas?",
@@ -3240,6 +3375,7 @@
     ]
   },
   {
+    "id": 136,
     "number": "136.",
     "type": "comun",
     "question": "Según el análisis del contexto social del documento de Diagnóstico del Pacto Vasco de Salud de Euskadi, ¿qué factor se identifica como un motor clave para que la ciudadanía del siglo XXI demande un papel más activo en su salud?",
@@ -3264,6 +3400,7 @@
     ]
   },
   {
+    "id": 137,
     "number": "137.",
     "type": "comun",
     "question": "El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi señala que los flujos migratorios actuales en Euskadi:",
@@ -3288,6 +3425,7 @@
     ]
   },
   {
+    "id": 138,
     "number": "138.",
     "type": "comun",
     "question": "¿Cuál es uno de los principales desafíos identificados en el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi respecto a la formación y relevo del personal sanitario?",
@@ -3312,6 +3450,7 @@
     ]
   },
   {
+    "id": 139,
     "number": "139.",
     "type": "comun",
     "question": "Sobre el impacto del cambio global y climático, el documento de Diagnóstico del Pacto Vasco de Salud de Euskadi advierte de la aparición de:",
@@ -3336,6 +3475,7 @@
     ]
   },
   {
+    "id": 140,
     "number": "140.",
     "type": "comun",
     "question": "El documento de Diagnóstico del Pacto Vasco de Salud de Euskadi propone que los indicadores sanitarios para evaluar el sistema deben:",
@@ -3360,6 +3500,7 @@
     ]
   },
   {
+    "id": 141,
     "number": "141.",
     "type": "comun",
     "question": "¿Cuál es la finalidad principal de los Valores Fundamentales del Pacto Vasco de Salud, según el Libro de Valores y principios?",
@@ -3384,6 +3525,7 @@
     ]
   },
   {
+    "id": 142,
     "number": "142.",
     "type": "comun",
     "question": "¿Cuál de los siguientes es un Valor Fundamental explícito del Pacto Vasco de Salud, además de la Universalidad y la Equidad?",
@@ -3408,6 +3550,7 @@
     ]
   },
   {
+    "id": 143,
     "number": "143.",
     "type": "comun",
     "question": "El principio de Innovación en el Pacto Vasco de Salud se aplica a:",
@@ -3432,6 +3575,7 @@
     ]
   },
   {
+    "id": 144,
     "number": "144.",
     "type": "comun",
     "question": "En el marco del Pacto Vasco de Salud, dentro de los principios rectores, la \"Orientación al Valor\" significa que el sistema debe priorizar:",
@@ -3456,6 +3600,7 @@
     ]
   },
   {
+    "id": 145,
     "number": "145.",
     "type": "comun",
     "question": "¿En qué grandes ámbitos se estructuran las Líneas Estratégicas del Pacto Vasco de Salud?",
@@ -3480,6 +3625,7 @@
     ]
   },
   {
+    "id": 146,
     "number": "146.",
     "type": "comun",
     "question": "¿Cuál es el papel de la Atención Primaria y Comunitaria dentro de las Líneas Estratégicas del Pacto Vasco de Salud?",
@@ -3504,6 +3650,7 @@
     ]
   },
   {
+    "id": 147,
     "number": "147.",
     "type": "comun",
     "question": "En relación con la Línea Estratégica 06 sobre \"Cronicidad\" del Pacto Vasco de Salud, ¿qué objetivo se persigue primordialmente?",
@@ -3528,6 +3675,7 @@
     ]
   },
   {
+    "id": 148,
     "number": "148.",
     "type": "comun",
     "question": "La Línea Estratégica 07 sobre \"Atención Sociosanitaria\" del Pacto Vasco de Salud subraya la necesidad de:",
@@ -3552,6 +3700,7 @@
     ]
   },
   {
+    "id": 149,
     "number": "149.",
     "type": "comun",
     "question": "Respecto a la \"Salud Mental\" (Línea 11), el Pacto Vasco de Salud pone el foco en:",
@@ -3576,6 +3725,7 @@
     ]
   },
   {
+    "id": 150,
     "number": "150.",
     "type": "comun",
     "question": "La Línea Estratégica 18 sobre \"Digitalización en Salud\" del Pacto Vasco de Salud busca la transformación digital para:",
@@ -3600,6 +3750,7 @@
     ]
   },
   {
+    "id": 151,
     "number": "151.",
     "type": "comun",
     "question": "¿Cuál es el Objetivo General establecido para la “Estrategia de Seguridad del Paciente 20-30”?",
@@ -3624,6 +3775,7 @@
     ]
   },
   {
+    "id": 152,
     "number": "152.",
     "type": "comun",
     "question": "El principio hipocrático al que se hace referencia en la “Estrategia de Seguridad del Paciente 20-30”, y que la ciudadanía asume que se verifica en el transcurso de la actividad asistencial, es:",
@@ -3648,6 +3800,7 @@
     ]
   },
   {
+    "id": 153,
     "number": "153.",
     "type": "comun",
     "question": "¿Cuáles son las dos nuevas Líneas de Acción incorporadas en la “Estrategia de Seguridad del Paciente 20 -30” que responden a una necesidad percibida por las personas expertas?",
@@ -3672,6 +3825,7 @@
     ]
   },
   {
+    "id": 154,
     "number": "154.",
     "type": "comun",
     "question": "De acuerdo con la “Estrategia de Seguridad del Paciente 20 -30”, ¿cómo se denomina al incidente de seguridad que, a diferencia del incidente sin daño, sí ocasiona algún tipo de daño a las personas atendidas?",
@@ -3696,6 +3850,7 @@
     ]
   },
   {
+    "id": 155,
     "number": "155.",
     "type": "comun",
     "question": "¿Cuál es el enfoque principal de la Línea de Acción Corporativa L2 de la “Estrategia de Seguridad del Paciente 20-30”?",
@@ -3720,6 +3875,7 @@
     ]
   },
   {
+    "id": 156,
     "number": "156.",
     "type": "comun",
     "question": "¿Cuál de los siguientes es el Objetivo Específico número 1 de la “Estrategia de Seguridad del Paciente 20-30”, enfocado en el cambio interno?",
@@ -3744,6 +3900,7 @@
     ]
   },
   {
+    "id": 157,
     "number": "157.",
     "type": "comun",
     "question": "La Línea de Acción Corporativa L8 de la “Estrategia de Seguridad del Paciente 20-30” está dedicada a:",
@@ -3768,6 +3925,7 @@
     ]
   },
   {
+    "id": 158,
     "number": "158.",
     "type": "comun",
     "question": "¿Qué documento se menciona en la “Estrategia de Seguridad del Paciente 20 - 30” como el que determinó que las personas atendidas por un sistema medicalizado (tipo 061/112) presentan un mayor porcentaje de incidentes de seguridad en el entorno de Emergencias?",
@@ -3792,6 +3950,7 @@
     ]
   },
   {
+    "id": 159,
     "number": "159.",
     "type": "comun",
     "question": "El capítulo de Formación de la “Estrategia de Seguridad del Paciente 20 -30” señala que, además de impulsar el desarrollo de prácticas seguras, las organizaciones comprometidas orientan sus esfuerzos a aumentar la formación en los llamados:",
@@ -3816,6 +3975,7 @@
     ]
   },
   {
+    "id": 160,
     "number": "160.",
     "type": "comun",
     "question": "¿Cuál de las siguientes Líneas de Acción de la “Estrategia de Seguridad del Paciente 20 -30” NO está relacionada con el sistema de utilización del medicamento?",
@@ -3840,6 +4000,7 @@
     ]
   },
   {
+    "id": 161,
     "number": "161.",
     "type": "comun",
     "question": "Según el diagnóstico del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza, ¿qué porcentaje de mujeres y hombres, respectivamente, componía la plantilla total de Osakidetza en enero de 2025?",
@@ -3864,6 +4025,7 @@
     ]
   },
   {
+    "id": 162,
     "number": "162.",
     "type": "comun",
     "question": "Una de las metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza es la “CAPACITACIÓN EN IGUALDAD”. ¿Cuál es su objetivo principal?",
@@ -3888,6 +4050,7 @@
     ]
   },
   {
+    "id": 163,
     "number": "163.",
     "type": "comun",
     "question": "¿Qué institución aprueba el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
@@ -3912,6 +4075,7 @@
     ]
   },
   {
+    "id": 164,
     "number": "164.",
     "type": "comun",
     "question": "De acuerdo con el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025 -2028), ¿qué concepto define, dentro del diagnóstico de la organización, la dificultad invisible que encuentran las mujeres para acceder a puestos de mayor responsabilidad y toma de decisiones?",
@@ -3936,6 +4100,7 @@
     ]
   },
   {
+    "id": 165,
     "number": "165.",
     "type": "comun",
     "question": "Una de las Metas del II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028) es “CORRESPONSABILIDAD”. ¿Cuál es el objetivo específico asociado a esta meta?",
@@ -3960,6 +4125,7 @@
     ]
   },
   {
+    "id": 166,
     "number": "166.",
     "type": "comun",
     "question": "¿Cuál fue el objetivo del I Plan de Igualdad, teniendo en cuenta su condición de primer plan estratégico de Osakidetza en esta materia?",
@@ -3984,6 +4150,7 @@
     ]
   },
   {
+    "id": 167,
     "number": "167.",
     "type": "comun",
     "question": "¿Cuál es la Meta 5 establecida en el II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025-2028)?",
@@ -4008,6 +4175,7 @@
     ]
   },
   {
+    "id": 168,
     "number": "168.",
     "type": "comun",
     "question": "En relación con la violencia machista contra las mujeres, el Plan II Plan para la Igualdad de Mujeres y Hombres en Osakidetza (2025 -2028) establece como línea de actuación prioritaria:",
@@ -4032,6 +4200,7 @@
     ]
   },
   {
+    "id": 169,
     "number": "169.",
     "type": "comun",
     "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028 establece respecto a los mensajes audiovisuales que:",
@@ -4056,6 +4225,7 @@
     ]
   },
   {
+    "id": 170,
     "number": "170.",
     "type": "comun",
     "question": "De acuerdo con el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:",
@@ -4080,6 +4250,7 @@
     ]
   },
   {
+    "id": 171,
     "number": "171.",
     "type": "comun",
     "question": "En atención al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:",
@@ -4104,6 +4275,7 @@
     ]
   },
   {
+    "id": 172,
     "number": "172.",
     "type": "comun",
     "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028 contempla que tanto en los servicios de recepción y admisión, como en las unidades asistenciales y administrativas a toda la ciudadanía vascohablante debe garantizarse:",
@@ -4128,6 +4300,7 @@
     ]
   },
   {
+    "id": 173,
     "number": "173.",
     "type": "comun",
     "question": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028 establece que, en los escritos individualizados de respuesta a solicitudes y reclamaciones de pacientes o personas usuarias de Osakidetza se utilizará:",
@@ -4152,6 +4325,7 @@
     ]
   },
   {
+    "id": 174,
     "number": "174.",
     "type": "comun",
     "question": "Siguiendo lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta que no es correcta:",
@@ -4176,6 +4350,7 @@
     ]
   },
   {
+    "id": 175,
     "number": "175.",
     "type": "comun",
     "question": "En atención a lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022 -2028, en todos los centros de atención primaria ha de ponerse en marcha un procedimiento para que, en la medida de las posibilidades, se propongan servicios en euskera a las personas pacientes que hayan registrado esta lengua como preferente y que aún reciban los citados servicios en castellano. Señale a qué servicios se refiere el citado Plan:",
@@ -4200,6 +4375,7 @@
     ]
   },
   {
+    "id": 176,
     "number": "176.",
     "type": "comun",
     "question": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028:",
@@ -4224,6 +4400,7 @@
     ]
   },
   {
+    "id": 177,
     "number": "177.",
     "type": "comun",
     "question": "Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿de qué porcentaje de los fallecimientos en Euskadi fue responsable el cáncer en el año 2023?",
@@ -4248,6 +4425,7 @@
     ]
   },
   {
+    "id": 178,
     "number": "178.",
     "type": "comun",
     "question": "Según el Resumen Ejecutivo del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿cuáles fueron las dos localizaciones de cáncer más frecuentes en Euskadi en el periodo 2015-2019, consideradas separadamente por sexo?",
@@ -4272,6 +4450,7 @@
     ]
   },
   {
+    "id": 179,
     "number": "179.",
     "type": "comun",
     "question": "¿Cuál de las siguientes es una de las aspiraciones definidas en la VISIÓN del Plan Oncológico Integral de Euskadi (POIE) 2025-2030?",
@@ -4296,6 +4475,7 @@
     ]
   },
   {
+    "id": 180,
     "number": "180.",
     "type": "comun",
     "question": "La Misión del Plan Oncológico Integral de Euskadi (POIE) 2025 -2030 busca generar valor a la ciudadanía vasca en términos de:",
@@ -4320,6 +4500,7 @@
     ]
   },
   {
+    "id": 181,
     "number": "181.",
     "type": "comun",
     "question": "En el Plan Oncológico Integral de Euskadi (POIE) 2025-2030, la “Centralidad de la persona y humanización” como Principio Rector incluye la incorporación de la perspectiva de género y la atención a:",
@@ -4344,6 +4525,7 @@
     ]
   },
   {
+    "id": 182,
     "number": "182.",
     "type": "comun",
     "question": "Teniendo en cuenta la introducción y el contexto del Plan Oncológico Integral de Euskadi 2025 -2030. ¿Cuál fue una de las principales áreas de mejora identificadas en la evaluación del Plan Oncológico de Euskadi (POE) 2018 - 2023?",
@@ -4368,6 +4550,7 @@
     ]
   },
   {
+    "id": 183,
     "number": "183.",
     "type": "comun",
     "question": "Según el listado de acrónimos del Plan Oncológico Integral de Euskadi (POIE) 2025-2030, ¿a qué hacen referencia las siglas PROMs?",
@@ -4392,6 +4575,7 @@
     ]
   },
   {
+    "id": 184,
     "number": "184.",
     "type": "comun",
     "question": "El Plan Oncológico Integral de Euskadi (POIE) 2025-2030 se alinea con el Plan de Salud de Euskadi 2030. ¿Cuál de las siguientes es una de las prioridades estratégicas de dicho Plan de Salud mencionadas en el documento?",
@@ -4416,6 +4600,7 @@
     ]
   },
   {
+    "id": 185,
     "number": "185.",
     "type": "comun",
     "question": "¿Cuál es el objeto fundamental de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, según su Artículo 1?",
@@ -4440,6 +4625,7 @@
     ]
   },
   {
+    "id": 186,
     "number": "186.",
     "type": "comun",
     "question": "Conforme al Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué requisito de nacionalidad se exige para poder recibir la prestación de ayuda para morir?",
@@ -4464,6 +4650,7 @@
     ]
   },
   {
+    "id": 187,
     "number": "187.",
     "type": "comun",
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué concepto define la ley como la \"administración directa a la persona paciente de una sustancia por parte del personal sanitario competente\"?",
@@ -4488,6 +4675,7 @@
     ]
   },
   {
+    "id": 188,
     "number": "188.",
     "type": "comun",
     "question": "Según el Artículo 5 de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es la condición que debe padecer la persona paciente para solicitar la prestación de ayuda para morir?",
@@ -4512,6 +4700,7 @@
     ]
   },
   {
+    "id": 189,
     "number": "189.",
     "type": "comun",
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál debe ser la periodicidad mínima con la que el personal facultativo responsable debe consultar a la persona paciente, una vez presentada la solicitud, para confirmar si mantiene su deseo?",
@@ -4536,6 +4725,7 @@
     ]
   },
   {
+    "id": 190,
     "number": "190.",
     "type": "comun",
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el derecho que asiste al personal sanitario directamente implicado en la prestación de ayuda para morir?",
@@ -4560,6 +4750,7 @@
     ]
   },
   {
+    "id": 191,
     "number": "191.",
     "type": "comun",
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué define como \"padecimiento grave, crónico e imposibilitante\"?",
@@ -4584,6 +4775,7 @@
     ]
   },
   {
+    "id": 192,
     "number": "192.",
     "type": "comun",
     "question": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el plazo que tiene la persona facultativa responsable para comunicar la resolución favorable a la Comisión de Garantía y Evaluación para su posterior verificación?",
@@ -4608,6 +4800,7 @@
     ]
   },
   {
+    "id": 193,
     "number": "193.",
     "type": "comun",
     "question": "¿Cuál es el principio general que establece la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas?",
@@ -4632,6 +4825,7 @@
     ]
   },
   {
+    "id": 194,
     "number": "194.",
     "type": "comun",
     "question": "Con carácter general, el personal comprendido en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, podrá desempeñar:",
@@ -4656,6 +4850,7 @@
     ]
   },
   {
+    "id": 195,
     "number": "195.",
     "type": "comun",
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué requisito es imprescindible para autorizar la compatibilidad con una actividad privada?",
@@ -4680,6 +4875,7 @@
     ]
   },
   {
+    "id": 196,
     "number": "196.",
     "type": "comun",
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿puede percibirse más de una remuneración con cargo a los presupuestos públicos?",
@@ -4704,6 +4900,7 @@
     ]
   },
   {
+    "id": 197,
     "number": "197.",
     "type": "comun",
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué ocurre si se desempeña una actividad incompatible sin autorización?",
@@ -4728,6 +4925,7 @@
     ]
   },
   {
+    "id": 198,
     "number": "198.",
     "type": "comun",
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, ¿qué actividades están exceptuadas del régimen general de incompatibilidades?",
@@ -4752,6 +4950,7 @@
     ]
   },
   {
+    "id": 199,
     "number": "199.",
     "type": "comun",
     "question": "Según la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, para que se autorice la compatibilidad para un segundo puesto público es necesario que:",
@@ -4776,6 +4975,7 @@
     ]
   },
   {
+    "id": 200,
     "number": "200.",
     "type": "comun",
     "question": "La finalidad principal de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, es:",
@@ -4800,6 +5000,7 @@
     ]
   },
   {
+    "id": 201,
     "number": "1.",
     "type": "especifico",
     "question": "Respecto al transporte de muestras clínicas, la opción correcta es:",
@@ -4824,6 +5025,7 @@
     ]
   },
   {
+    "id": 202,
     "number": "2.",
     "type": "especifico",
     "question": "Antes de la centrifugación de la sangre para la obtención de suero, se debe permitir la coagulación completa para:",
@@ -4848,6 +5050,7 @@
     ]
   },
   {
+    "id": 203,
     "number": "3.",
     "type": "especifico",
     "question": "Entre las causas de hemólisis de muestras de suero, están todas las siguientes, EXCEPTO:",
@@ -4872,6 +5075,7 @@
     ]
   },
   {
+    "id": 204,
     "number": "4.",
     "type": "especifico",
     "question": "Para el análisis de orina de micción aislada, generalmente se recomienda obtener la muestra de primera hora de la mañana por los siguientes motivos, EXCEPTO:",
@@ -4896,6 +5100,7 @@
     ]
   },
   {
+    "id": 205,
     "number": "5.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes afirmaciones es correcta respecto a las recomendaciones de recogida de muestras de semen?",
@@ -4920,6 +5125,7 @@
     ]
   },
   {
+    "id": 206,
     "number": "6.",
     "type": "especifico",
     "question": "¿Qué factor influye especialmente para la determinación de ciertos parámetros, como porfirinas y vitamina D?",
@@ -4944,6 +5150,7 @@
     ]
   },
   {
+    "id": 207,
     "number": "7.",
     "type": "especifico",
     "question": "En relación con los criterios de obtención de muestras, todas las afirmaciones son ciertas, EXCEPTO:",
@@ -4968,6 +5175,7 @@
     ]
   },
   {
+    "id": 208,
     "number": "8.",
     "type": "especifico",
     "question": "El olor de las heces proviene fundamentalmente de:",
@@ -4992,6 +5200,7 @@
     ]
   },
   {
+    "id": 209,
     "number": "9.",
     "type": "especifico",
     "question": "En caso de que una muestra de LCR, para estudio bacteriológico, no se pueda procesar inmediatamente se debe conservar:",
@@ -5016,6 +5225,7 @@
     ]
   },
   {
+    "id": 210,
     "number": "10.",
     "type": "especifico",
     "question": "Entre las causas más frecuentes de rechazo de muestras se encuentra:",
@@ -5040,6 +5250,7 @@
     ]
   },
   {
+    "id": 211,
     "number": "11.",
     "type": "especifico",
     "question": "En cuanto a la recogida de muestras de orina para análisis microbiológico se ha de tener en cuenta:",
@@ -5064,6 +5275,7 @@
     ]
   },
   {
+    "id": 212,
     "number": "12.",
     "type": "especifico",
     "question": "El proceso en el que el material del laboratorio queda libre de microorganismos, incluso de las esporas, se denomina:",
@@ -5088,6 +5300,7 @@
     ]
   },
   {
+    "id": 213,
     "number": "13.",
     "type": "especifico",
     "question": "Los desinfectantes son:",
@@ -5112,6 +5325,7 @@
     ]
   },
   {
+    "id": 214,
     "number": "14.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes métodos de esterilización utilizaría un sistema de calor húmedo?",
@@ -5136,6 +5350,7 @@
     ]
   },
   {
+    "id": 215,
     "number": "15.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes residuos pertenece al grupo II de residuos sanitarios?",
@@ -5160,6 +5375,7 @@
     ]
   },
   {
+    "id": 216,
     "number": "16.",
     "type": "especifico",
     "question": "Según el Decreto 21/2015, de 3 de marzo, sobre gestión de residuos sanitarios en la Comunidad Autónoma de Euskadi, un conjunto de vacunas con agentes vivos atenuados pertenece al grupo de residuos:",
@@ -5184,6 +5400,7 @@
     ]
   },
   {
+    "id": 217,
     "number": "17.",
     "type": "especifico",
     "question": "¿Qué proceso técnico es indispensable para establecer la relación entre la señal física detectada por un sistema de medida y el valor real de la magnitud biológica que se desea cuantificar?",
@@ -5208,6 +5425,7 @@
     ]
   },
   {
+    "id": 218,
     "number": "18.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes normas UNE-EN ISO es específica para los laboratorios clínicos?",
@@ -5232,6 +5450,7 @@
     ]
   },
   {
+    "id": 219,
     "number": "19.",
     "type": "especifico",
     "question": "Las reglas de Westgard sirven para:",
@@ -5256,6 +5475,7 @@
     ]
   },
   {
+    "id": 220,
     "number": "20.",
     "type": "especifico",
     "question": "Uno de los conceptos básicos del control de calidad en el laboratorio es el error total. Este concepto se calcula con:",
@@ -5280,6 +5500,7 @@
     ]
   },
   {
+    "id": 221,
     "number": "21.",
     "type": "especifico",
     "question": "La relación entre los resultados obtenidos y los recursos y costes empleados se denomina:",
@@ -5304,6 +5525,7 @@
     ]
   },
   {
+    "id": 222,
     "number": "22.",
     "type": "especifico",
     "question": "Los controles internos y externos se encuentran dentro de:",
@@ -5328,6 +5550,7 @@
     ]
   },
   {
+    "id": 223,
     "number": "23.",
     "type": "especifico",
     "question": "En la capacidad de una prueba analítica, para no dar positividad, cuando se aplica al estudio de las muestras que no contienen el analito, estamos hablando de:",
@@ -5352,6 +5575,7 @@
     ]
   },
   {
+    "id": 224,
     "number": "24.",
     "type": "especifico",
     "question": "Respecto a los múltiplos y submúltiplos de las unidades básicas, el prefijo “Pico” con abreviatura “p” corresponde a la equivalencia:",
@@ -5376,6 +5600,7 @@
     ]
   },
   {
+    "id": 225,
     "number": "25.",
     "type": "especifico",
     "question": "¿Qué variables se deben controlar durante el transporte y conservación de muestras biológicas?",
@@ -5400,6 +5625,7 @@
     ]
   },
   {
+    "id": 226,
     "number": "26.",
     "type": "especifico",
     "question": "El grado en el que la medida obtenida se aproxima al valor real se denomina:.",
@@ -5424,6 +5650,7 @@
     ]
   },
   {
+    "id": 227,
     "number": "27.",
     "type": "especifico",
     "question": "¿Cuál es la finalidad principal de un programa de control de calidad interno según la Norma UNE-EN ISO 15189?",
@@ -5448,6 +5675,7 @@
     ]
   },
   {
+    "id": 228,
     "number": "28.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes iones contribuye de manera más importante a la osmolalidad?",
@@ -5472,6 +5700,7 @@
     ]
   },
   {
+    "id": 229,
     "number": "29.",
     "type": "especifico",
     "question": "Respecto a la espectrometría, ¿qué afirmación de las siguientes NO es correcta?",
@@ -5496,6 +5725,7 @@
     ]
   },
   {
+    "id": 230,
     "number": "30.",
     "type": "especifico",
     "question": "Respecto a la turbidimetría, señale la respuesta INCORRECTA:",
@@ -5520,6 +5750,7 @@
     ]
   },
   {
+    "id": 231,
     "number": "31.",
     "type": "especifico",
     "question": "En la nefelometría, la dispersión de la radiación está influida por:",
@@ -5544,6 +5775,7 @@
     ]
   },
   {
+    "id": 232,
     "number": "32.",
     "type": "especifico",
     "question": "Si disponemos de una centrífuga que alcanza una velocidad entre 90.000 y 100.000 rpm, de qué tipo de centrífuga hablamos:",
@@ -5568,6 +5800,7 @@
     ]
   },
   {
+    "id": 233,
     "number": "33.",
     "type": "especifico",
     "question": "La apolipoproteína A (ApoA) es el principal componente de:",
@@ -5592,6 +5825,7 @@
     ]
   },
   {
+    "id": 234,
     "number": "34.",
     "type": "especifico",
     "question": "Señale la respuesta FALSA sobre la hemoglobina glucosilada (HbA1c).",
@@ -5616,6 +5850,7 @@
     ]
   },
   {
+    "id": 235,
     "number": "35.",
     "type": "especifico",
     "question": "Señale, de los productos finales del metabolismo, cuál NO pertenece a los compuestos nitrogenados no proteicos.",
@@ -5640,6 +5875,7 @@
     ]
   },
   {
+    "id": 236,
     "number": "36.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes técnicas estudia la radiación dispersada por una muestra en ángulos diferentes a los de incidencia de la radiación?",
@@ -5664,6 +5900,7 @@
     ]
   },
   {
+    "id": 237,
     "number": "37.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes elementos NO pertenece a un espectrómetro de absorción molecular UV-Visible?",
@@ -5688,6 +5925,7 @@
     ]
   },
   {
+    "id": 238,
     "number": "38.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes determinaciones bioquímicas NO se basa en una técnica inmunoquímica?",
@@ -5712,6 +5950,7 @@
     ]
   },
   {
+    "id": 239,
     "number": "39.",
     "type": "especifico",
     "question": "La Ley de Lambert-Beer es una relación matemática que indica:",
@@ -5736,6 +5975,7 @@
     ]
   },
   {
+    "id": 240,
     "number": "40.",
     "type": "especifico",
     "question": "¿Cuál de estas opciones es correcta, en una alcalosis metabólica?",
@@ -5760,6 +6000,7 @@
     ]
   },
   {
+    "id": 241,
     "number": "41.",
     "type": "especifico",
     "question": "El anión gap es útil para el diagnóstico diferencial de:",
@@ -5784,6 +6025,7 @@
     ]
   },
   {
+    "id": 242,
     "number": "42.",
     "type": "especifico",
     "question": "Señale la afirmación correcta, respecto a los niveles de calcio plasmático:",
@@ -5808,6 +6050,7 @@
     ]
   },
   {
+    "id": 243,
     "number": "43.",
     "type": "especifico",
     "question": "La presión osmótica depende principalmente de la concentración de:",
@@ -5832,6 +6075,7 @@
     ]
   },
   {
+    "id": 244,
     "number": "44.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes opciones puede causar alcalosis respiratoria?",
@@ -5856,6 +6100,7 @@
     ]
   },
   {
+    "id": 245,
     "number": "45.",
     "type": "especifico",
     "question": "La fuerza de un ácido o una base vendrá definida por su constante de disociación. Señale la respuesta correcta:",
@@ -5880,6 +6125,7 @@
     ]
   },
   {
+    "id": 246,
     "number": "46.",
     "type": "especifico",
     "question": "En la determinación de gases sanguíneos, la pCO2 informa acerca del:",
@@ -5904,6 +6150,7 @@
     ]
   },
   {
+    "id": 247,
     "number": "47.",
     "type": "especifico",
     "question": "¿Con qué equipo o instrumental se mide indirectamente en el agua el contenido en sales?",
@@ -5928,6 +6175,7 @@
     ]
   },
   {
+    "id": 248,
     "number": "48.",
     "type": "especifico",
     "question": "Principal catión intracelular:",
@@ -5952,6 +6200,7 @@
     ]
   },
   {
+    "id": 249,
     "number": "49.",
     "type": "especifico",
     "question": "¿Cuáles son los valores normales en sangre arterial de pO2 en un adulto?",
@@ -5976,6 +6225,7 @@
     ]
   },
   {
+    "id": 250,
     "number": "50.",
     "type": "especifico",
     "question": "Hay hiperkalemia en:",
@@ -6000,6 +6250,7 @@
     ]
   },
   {
+    "id": 251,
     "number": "51.",
     "type": "especifico",
     "question": "Respecto a la electroforesis capilar, una de estas afirmaciones es FALSA:",
@@ -6024,6 +6275,7 @@
     ]
   },
   {
+    "id": 252,
     "number": "52.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes proteínas se utiliza como marcador del estado nutricional?",
@@ -6048,6 +6300,7 @@
     ]
   },
   {
+    "id": 253,
     "number": "53.",
     "type": "especifico",
     "question": "Señale cuál, de estas proteínas, migra en la región alfa 2 del proteinograma:",
@@ -6072,6 +6325,7 @@
     ]
   },
   {
+    "id": 254,
     "number": "54.",
     "type": "especifico",
     "question": "En función de su localización, las proteínas pueden clasificarse en:",
@@ -6096,6 +6350,7 @@
     ]
   },
   {
+    "id": 255,
     "number": "55.",
     "type": "especifico",
     "question": "Señale la respuesta INCORRECTA respecto a las proteínas totales en sangre:",
@@ -6120,6 +6375,7 @@
     ]
   },
   {
+    "id": 256,
     "number": "56.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes métodos bioquímicos es utilizado para la determinación de proteínas totales en orina?",
@@ -6144,6 +6400,7 @@
     ]
   },
   {
+    "id": 257,
     "number": "57.",
     "type": "especifico",
     "question": "¿Qué tipo de alteración de las proteínas plasmáticas se podría esperar en un paciente con deficiencias en el sistema inmunitario?",
@@ -6168,6 +6425,7 @@
     ]
   },
   {
+    "id": 258,
     "number": "58.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes funciones NO la desarrollan las proteínas plasmáticas?",
@@ -6192,6 +6450,7 @@
     ]
   },
   {
+    "id": 259,
     "number": "59.",
     "type": "especifico",
     "question": "¿Cómo se denomina a una alteración en la distribución de las fracciones obtenidas tras una electroforesis de plasma?",
@@ -6216,6 +6475,7 @@
     ]
   },
   {
+    "id": 260,
     "number": "60.",
     "type": "especifico",
     "question": "¿En cuál de los siguientes órganos se encuentra más elevada la concentración de alfa amilasa?",
@@ -6240,6 +6500,7 @@
     ]
   },
   {
+    "id": 261,
     "number": "61.",
     "type": "especifico",
     "question": "De las funciones que se muestran a continuación, ¿cuál define a la Alfa 1 Antitripsina?",
@@ -6264,6 +6525,7 @@
     ]
   },
   {
+    "id": 262,
     "number": "62.",
     "type": "especifico",
     "question": "Indicar cuál, de estos parámetros, es indicativo de colestasis hepática:",
@@ -6288,6 +6550,7 @@
     ]
   },
   {
+    "id": 263,
     "number": "63.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes afirmaciones NO es correcta respecto a la GGT?",
@@ -6312,6 +6575,7 @@
     ]
   },
   {
+    "id": 264,
     "number": "64.",
     "type": "especifico",
     "question": "¿Cuál es la enzima que cataliza la conversión de peróxido de hidrógeno en agua más oxígeno?",
@@ -6336,6 +6600,7 @@
     ]
   },
   {
+    "id": 265,
     "number": "65.",
     "type": "especifico",
     "question": "La fosfatasa alcalina (ALP) y la lipasa son enzimas que pertenecen a la clase o grupo:",
@@ -6360,6 +6625,7 @@
     ]
   },
   {
+    "id": 266,
     "number": "66.",
     "type": "especifico",
     "question": "¿La determinación de cuál de las siguientes enzimas podría ser de interés para el diagnóstico de enfermedades del páncreas?",
@@ -6384,6 +6650,7 @@
     ]
   },
   {
+    "id": 267,
     "number": "67.",
     "type": "especifico",
     "question": "¿Qué es una apoenzima?",
@@ -6408,6 +6675,7 @@
     ]
   },
   {
+    "id": 268,
     "number": "68.",
     "type": "especifico",
     "question": "En la enfermedad de Addison hay una disminución de secreción de:",
@@ -6432,6 +6700,7 @@
     ]
   },
   {
+    "id": 269,
     "number": "69.",
     "type": "especifico",
     "question": "Ante un hallazgo de TSH alterada, el siguiente parámetro a realizar es:",
@@ -6456,6 +6725,7 @@
     ]
   },
   {
+    "id": 270,
     "number": "70.",
     "type": "especifico",
     "question": "Todas las siguientes hormonas se producen en la corteza suprarrenal, EXCEPTO:",
@@ -6480,6 +6750,7 @@
     ]
   },
   {
+    "id": 271,
     "number": "71.",
     "type": "especifico",
     "question": "El principal producto final del metabolismo de la adrenalina y la noradrenalina es el:",
@@ -6504,6 +6775,7 @@
     ]
   },
   {
+    "id": 272,
     "number": "72.",
     "type": "especifico",
     "question": "Las hormonas corticales son esteroides derivados del colesterol con las siguientes funciones:",
@@ -6528,6 +6800,7 @@
     ]
   },
   {
+    "id": 273,
     "number": "73.",
     "type": "especifico",
     "question": "De las siguientes hormonas, señale la hormona NO segregada por la hipófisis:",
@@ -6552,6 +6825,7 @@
     ]
   },
   {
+    "id": 274,
     "number": "74.",
     "type": "especifico",
     "question": "En función de su estructura química, las hormonas pueden agruparse en las siguientes familias, EXCEPTO:",
@@ -6576,6 +6850,7 @@
     ]
   },
   {
+    "id": 275,
     "number": "75.",
     "type": "especifico",
     "question": "¿Qué hormona promueve la contracción del útero?",
@@ -6600,6 +6875,7 @@
     ]
   },
   {
+    "id": 276,
     "number": "76.",
     "type": "especifico",
     "question": "¿Cuál de estos parámetros NO refleja daño hepatocelular?",
@@ -6624,6 +6900,7 @@
     ]
   },
   {
+    "id": 277,
     "number": "77.",
     "type": "especifico",
     "question": "¿Cuál de los virus de la hepatitis NO desarrolla cronicidad?",
@@ -6648,6 +6925,7 @@
     ]
   },
   {
+    "id": 278,
     "number": "78.",
     "type": "especifico",
     "question": "¿Cuál de estas afirmaciones NO es correcta respecto a la bilirrubina?",
@@ -6672,6 +6950,7 @@
     ]
   },
   {
+    "id": 279,
     "number": "79.",
     "type": "especifico",
     "question": "¿Qué hepatitis se transmite por vía fecal-oral?",
@@ -6696,6 +6975,7 @@
     ]
   },
   {
+    "id": 280,
     "number": "80.",
     "type": "especifico",
     "question": "La enfermedad de Wilson consiste en:",
@@ -6720,6 +7000,7 @@
     ]
   },
   {
+    "id": 281,
     "number": "81.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes parámetros bioquímicos NO es útil para diagnosticar una Colestasis?",
@@ -6744,6 +7025,7 @@
     ]
   },
   {
+    "id": 282,
     "number": "82.",
     "type": "especifico",
     "question": "La coloración de la piel y mucosas por acumulación de bilirrubina en los tejidos se denomina:",
@@ -6768,6 +7050,7 @@
     ]
   },
   {
+    "id": 283,
     "number": "83.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes actuaciones sobre los principios inmediatos NO es hepática?",
@@ -6792,6 +7075,7 @@
     ]
   },
   {
+    "id": 284,
     "number": "84.",
     "type": "especifico",
     "question": "¿Qué marcador tumoral se utiliza actualmente de forma complementaria al CA125 en el diagnóstico de neoplasias ováricas?",
@@ -6816,6 +7100,7 @@
     ]
   },
   {
+    "id": 285,
     "number": "85.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes marcadores tumorales se utiliza en la monitorización de carcinomas de ovario y mama?",
@@ -6840,6 +7125,7 @@
     ]
   },
   {
+    "id": 286,
     "number": "86.",
     "type": "especifico",
     "question": "El marcador tumoral S100 se utiliza para el diagnóstico, monitorización y pronóstico de:",
@@ -6864,6 +7150,7 @@
     ]
   },
   {
+    "id": 287,
     "number": "87.",
     "type": "especifico",
     "question": "El PSA se puede encontrar aumentado, en todos los siguientes procesos, EXCEPTO:",
@@ -6888,6 +7175,7 @@
     ]
   },
   {
+    "id": 288,
     "number": "88.",
     "type": "especifico",
     "question": "Ante una sospecha de carcinoma hepatocelular, el marcador tumoral es:",
@@ -6912,6 +7200,7 @@
     ]
   },
   {
+    "id": 289,
     "number": "89.",
     "type": "especifico",
     "question": "De los siguientes marcadores tumorales, ¿cuál se utiliza en el diagnóstico y seguimiento de pacientes con cáncer medular de tiroides?",
@@ -6936,6 +7225,7 @@
     ]
   },
   {
+    "id": 290,
     "number": "90.",
     "type": "especifico",
     "question": "Un valor elevado del marcador tumoral PSA se utiliza para monitorizar el cáncer de próstata. Este valor también puede verse alterado por:",
@@ -6960,6 +7250,7 @@
     ]
   },
   {
+    "id": 291,
     "number": "91.",
     "type": "especifico",
     "question": "Los genes que han sufrido variaciones en la secuencia de nucleótidos por mutación, amplificación o reordenamiento cromosómico se llaman:",
@@ -6984,6 +7275,7 @@
     ]
   },
   {
+    "id": 292,
     "number": "92.",
     "type": "especifico",
     "question": "El aparato o sistema óseo se define como:",
@@ -7008,6 +7300,7 @@
     ]
   },
   {
+    "id": 293,
     "number": "93.",
     "type": "especifico",
     "question": "Hormona que interviene en la regulación del metabolismo de calcio:",
@@ -7032,6 +7325,7 @@
     ]
   },
   {
+    "id": 294,
     "number": "94.",
     "type": "especifico",
     "question": "Se define oliguria como:",
@@ -7056,6 +7350,7 @@
     ]
   },
   {
+    "id": 295,
     "number": "95.",
     "type": "especifico",
     "question": "Ante la presencia en el sedimento urinario, de hematíes dismórficos, se debe sospechar una hematuria de origen:",
@@ -7080,6 +7375,7 @@
     ]
   },
   {
+    "id": 296,
     "number": "96.",
     "type": "especifico",
     "question": "¿Cuál de estas afirmaciones NO es correcta, respecto a las ecuaciones para la estimación del filtrado glomerular?",
@@ -7104,6 +7400,7 @@
     ]
   },
   {
+    "id": 297,
     "number": "97.",
     "type": "especifico",
     "question": "¿Qué tipo de cristales esperaría encontrar en el examen microscópico de una orina con pH alcalino?",
@@ -7128,6 +7425,7 @@
     ]
   },
   {
+    "id": 298,
     "number": "98.",
     "type": "especifico",
     "question": "La anuria corresponde a:",
@@ -7152,6 +7450,7 @@
     ]
   },
   {
+    "id": 299,
     "number": "99.",
     "type": "especifico",
     "question": "¿Cuál de estas patologías NO corresponde a orinas blanquecinas o lechosas?",
@@ -7176,6 +7475,7 @@
     ]
   },
   {
+    "id": 300,
     "number": "100.",
     "type": "especifico",
     "question": "La reacción de Ehrlich ¿Para qué parámetro bioquímico de medición con la tira reactiva de orina se utiliza?",
@@ -7200,6 +7500,7 @@
     ]
   },
   {
+    "id": 301,
     "number": "101.",
     "type": "especifico",
     "question": "¿Cuál de estos cristales es predominante en orinas ácidas?",
@@ -7224,6 +7525,7 @@
     ]
   },
   {
+    "id": 302,
     "number": "102.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes fórmulas se utiliza habitualmente en adultos para estimar la tasa de filtración glomerular?",
@@ -7248,6 +7550,7 @@
     ]
   },
   {
+    "id": 303,
     "number": "103.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes partes NO pertenece a la nefrona?",
@@ -7272,6 +7575,7 @@
     ]
   },
   {
+    "id": 304,
     "number": "104.",
     "type": "especifico",
     "question": "La cetonuria es:",
@@ -7296,6 +7600,7 @@
     ]
   },
   {
+    "id": 305,
     "number": "105.",
     "type": "especifico",
     "question": "Las diferentes estructuras que pueden ser observadas en el sedimento urinario incluyen:",
@@ -7320,6 +7625,7 @@
     ]
   },
   {
+    "id": 306,
     "number": "106.",
     "type": "especifico",
     "question": "¿Cuál es la muestra biológica más habitual utilizada para el análisis de drogas de abuso?",
@@ -7344,6 +7650,7 @@
     ]
   },
   {
+    "id": 307,
     "number": "107.",
     "type": "especifico",
     "question": "¿Cuál de estas afirmaciones es correcta respecto a la monitorización de aminoglicósidos?",
@@ -7368,6 +7675,7 @@
     ]
   },
   {
+    "id": 308,
     "number": "108.",
     "type": "especifico",
     "question": "En un paciente con trastorno bipolar, ¿cuál de estas determinaciones de fármacos se solicitarán?",
@@ -7392,6 +7700,7 @@
     ]
   },
   {
+    "id": 309,
     "number": "109.",
     "type": "especifico",
     "question": "Los metabolitos de los opiáceos se pueden detectar en orina durante:",
@@ -7416,6 +7725,7 @@
     ]
   },
   {
+    "id": 310,
     "number": "110.",
     "type": "especifico",
     "question": "¿Cuál es el rango terapéutico de la difenilhidantoína?",
@@ -7440,6 +7750,7 @@
     ]
   },
   {
+    "id": 311,
     "number": "111.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes métodos NO es habitualmente utilizado para la confirmación de la detección de drogas de abuso?",
@@ -7464,6 +7775,7 @@
     ]
   },
   {
+    "id": 312,
     "number": "112.",
     "type": "especifico",
     "question": "En el 90% de los pacientes, con cirrosis biliar primaria, se hallan aumentados los siguientes anticuerpos:",
@@ -7488,6 +7800,7 @@
     ]
   },
   {
+    "id": 313,
     "number": "113.",
     "type": "especifico",
     "question": "¿Cuál, de las siguientes enfermedades, está asociada a los alelos del antígeno leucocitario humano (HLA) DR3 y DR7?",
@@ -7512,6 +7825,7 @@
     ]
   },
   {
+    "id": 314,
     "number": "114.",
     "type": "especifico",
     "question": "Ante una reacción alérgica grave, se debe realizar la determinación de triptasa en suero. Los niveles máximos se alcanzarán:",
@@ -7536,6 +7850,7 @@
     ]
   },
   {
+    "id": 315,
     "number": "115.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes es un anticuerpo anti-ENA?",
@@ -7560,6 +7875,7 @@
     ]
   },
   {
+    "id": 316,
     "number": "116.",
     "type": "especifico",
     "question": "¿Cuál NO es una vía de activación del complemento?",
@@ -7584,6 +7900,7 @@
     ]
   },
   {
+    "id": 317,
     "number": "117.",
     "type": "especifico",
     "question": "¿Cuál de estas inmunoglobulinas se encuentra en mayor cantidad que las demás en el plasma?",
@@ -7608,6 +7925,7 @@
     ]
   },
   {
+    "id": 318,
     "number": "118.",
     "type": "especifico",
     "question": "¿Cuál de estas técnicas es la que más se emplea para el análisis de confirmación del diagnóstico del síndrome de inmunodeficiencia adquirida?",
@@ -7632,6 +7950,7 @@
     ]
   },
   {
+    "id": 319,
     "number": "119.",
     "type": "especifico",
     "question": "De las reacciones de hipersensibilidad, ¿cuál está mediada por la IgE?",
@@ -7656,6 +7975,7 @@
     ]
   },
   {
+    "id": 320,
     "number": "120.",
     "type": "especifico",
     "question": "En una reacción antígeno-anticuerpo, indicar la respuesta correcta:",
@@ -7680,6 +8000,7 @@
     ]
   },
   {
+    "id": 321,
     "number": "121.",
     "type": "especifico",
     "question": "Sobre el complejo mayor de histocompatibilidad (MHC) NO es cierto que:",
@@ -7704,6 +8025,7 @@
     ]
   },
   {
+    "id": 322,
     "number": "122.",
     "type": "especifico",
     "question": "Señale la afirmación FALSA con respecto a la respuesta inmunitaria humoral secundaria:",
@@ -7728,6 +8050,7 @@
     ]
   },
   {
+    "id": 323,
     "number": "123.",
     "type": "especifico",
     "question": "La inmunoglobulina característica de las reacciones alérgicas es:",
@@ -7752,6 +8075,7 @@
     ]
   },
   {
+    "id": 324,
     "number": "124.",
     "type": "especifico",
     "question": "Un paciente que presenta Anticuerpos Antipéptidos Citrulinados Cíclicos (anti- CCP) es susceptible de padecer:",
@@ -7776,6 +8100,7 @@
     ]
   },
   {
+    "id": 325,
     "number": "125.",
     "type": "especifico",
     "question": "El proceso de formación de eritrocitos se denomina:",
@@ -7800,6 +8125,7 @@
     ]
   },
   {
+    "id": 326,
     "number": "126.",
     "type": "especifico",
     "question": "Señale cuál de los siguientes elementos formes de la sangre NO es una célula:",
@@ -7824,6 +8150,7 @@
     ]
   },
   {
+    "id": 327,
     "number": "127.",
     "type": "especifico",
     "question": "¿Qué factor/es influyen fundamentalmente en la viscosidad de la sangre?",
@@ -7848,6 +8175,7 @@
     ]
   },
   {
+    "id": 328,
     "number": "128.",
     "type": "especifico",
     "question": "Entre otras funciones que realiza la sangre, señale la respuesta correcta:",
@@ -7872,6 +8200,7 @@
     ]
   },
   {
+    "id": 329,
     "number": "129.",
     "type": "especifico",
     "question": "En una extensión sanguínea, señale la respuesta correcta.",
@@ -7896,6 +8225,7 @@
     ]
   },
   {
+    "id": 330,
     "number": "130.",
     "type": "especifico",
     "question": "La viscosidad sanguínea:",
@@ -7920,6 +8250,7 @@
     ]
   },
   {
+    "id": 331,
     "number": "131.",
     "type": "especifico",
     "question": "¿Cuál es la primera célula de la estirpe granulocítica, que deriva de la CFU-G, que es reconocible morfológicamente?",
@@ -7944,6 +8275,7 @@
     ]
   },
   {
+    "id": 332,
     "number": "132.",
     "type": "especifico",
     "question": "Los eosinófilos:",
@@ -7968,6 +8300,7 @@
     ]
   },
   {
+    "id": 333,
     "number": "133.",
     "type": "especifico",
     "question": "¿Cuál es la secuencia normal en el proceso de trombopoyesis?",
@@ -7992,6 +8325,7 @@
     ]
   },
   {
+    "id": 334,
     "number": "134.",
     "type": "especifico",
     "question": "Ante un paciente con sospecha de hemocromatosis, NO estará indicado solicitar:",
@@ -8016,6 +8350,7 @@
     ]
   },
   {
+    "id": 335,
     "number": "135.",
     "type": "especifico",
     "question": "¿En cuál de los siguientes procesos patológicos esperaría encontrar una eosinofilia?",
@@ -8040,6 +8375,7 @@
     ]
   },
   {
+    "id": 336,
     "number": "136.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes índices eritrocitarios se calcula a partir de parámetros hematimétricos?",
@@ -8064,6 +8400,7 @@
     ]
   },
   {
+    "id": 337,
     "number": "137.",
     "type": "especifico",
     "question": "Todas las afirmaciones son ciertas respecto a los hematíes, EXCEPTO:",
@@ -8088,6 +8425,7 @@
     ]
   },
   {
+    "id": 338,
     "number": "138.",
     "type": "especifico",
     "question": "Cuando coexisten hematíes de diferente coloración, se denomina:",
@@ -8112,6 +8450,7 @@
     ]
   },
   {
+    "id": 339,
     "number": "139.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes datos es sugestivo de anemia hemolítica?",
@@ -8136,6 +8475,7 @@
     ]
   },
   {
+    "id": 340,
     "number": "140.",
     "type": "especifico",
     "question": "Ante un cuadro de anemia, con un resultado disminuido de vitamina B12 o de ácido fólico, se sospechará:",
@@ -8160,6 +8500,7 @@
     ]
   },
   {
+    "id": 341,
     "number": "141.",
     "type": "especifico",
     "question": "Respecto a las estructuras celulares coloreadas en una tinción hematológica, señale la respuesta correcta:",
@@ -8184,6 +8525,7 @@
     ]
   },
   {
+    "id": 342,
     "number": "142.",
     "type": "especifico",
     "question": "Todas las siguientes afirmaciones sobre las alteraciones de la forma de los hematíes son ciertas, EXCEPTO:",
@@ -8208,6 +8550,7 @@
     ]
   },
   {
+    "id": 343,
     "number": "143.",
     "type": "especifico",
     "question": "Respecto a las anemias, señale la respuesta INCORRECTA:",
@@ -8232,6 +8575,7 @@
     ]
   },
   {
+    "id": 344,
     "number": "144.",
     "type": "especifico",
     "question": "Las inclusiones intraeritrocitarias que consisten en acúmulos de hemosiderina unida a proteínas se denominan:",
@@ -8256,6 +8600,7 @@
     ]
   },
   {
+    "id": 345,
     "number": "145.",
     "type": "especifico",
     "question": "Los excentrocitos son:",
@@ -8280,6 +8625,7 @@
     ]
   },
   {
+    "id": 346,
     "number": "146.",
     "type": "especifico",
     "question": "La hemocromatosis:",
@@ -8304,6 +8650,7 @@
     ]
   },
   {
+    "id": 347,
     "number": "147.",
     "type": "especifico",
     "question": "CTFH (Capacidad total de fijación del hierro):",
@@ -8328,6 +8675,7 @@
     ]
   },
   {
+    "id": 348,
     "number": "148.",
     "type": "especifico",
     "question": "Indica a qué tipo de anemia corresponde la siguiente definición: “Anemia que se produce por defectos genéticos que originan una dificultad en la síntesis de algunas cadenas de globina. Esto suele conducir a una alteración en las proporciones en las que se encuentran, habitualmente, los tres tipos de hemoglobinas normales”:",
@@ -8352,6 +8700,7 @@
     ]
   },
   {
+    "id": 349,
     "number": "149.",
     "type": "especifico",
     "question": "Las inclusiones citoplasmáticas, en forma de varillas, formadas por la fusión de la granulación azurófila en los blastos se denominan:",
@@ -8376,6 +8725,7 @@
     ]
   },
   {
+    "id": 350,
     "number": "150.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes afirmaciones es FALSA respecto a los linfocitos activados?",
@@ -8400,6 +8750,7 @@
     ]
   },
   {
+    "id": 351,
     "number": "151.",
     "type": "especifico",
     "question": "¿Cuál, de las siguientes patologías se puede considerar una neoplasia de células T?",
@@ -8424,6 +8775,7 @@
     ]
   },
   {
+    "id": 352,
     "number": "152.",
     "type": "especifico",
     "question": "Atendiendo a la clasificación de los leucocitos, señale la respuesta correcta:",
@@ -8448,6 +8800,7 @@
     ]
   },
   {
+    "id": 353,
     "number": "153.",
     "type": "especifico",
     "question": "¿Cuál es la secuencia completa y correcta en la formación de los leucocitos mieloides?",
@@ -8472,6 +8825,7 @@
     ]
   },
   {
+    "id": 354,
     "number": "154.",
     "type": "especifico",
     "question": "Señale la respuesta correcta. Se habla de leucocitosis si la cifra de leucocitos es:",
@@ -8496,6 +8850,7 @@
     ]
   },
   {
+    "id": 355,
     "number": "155.",
     "type": "especifico",
     "question": "Según la clasificación de las leucemias, señale la que cursa con una concentración de leucocitos en sangre periférica que puede ser alta, normal o baja:",
@@ -8520,6 +8875,7 @@
     ]
   },
   {
+    "id": 356,
     "number": "156.",
     "type": "especifico",
     "question": "¿Cuáles son los leucocitos MENOS abundantes en la sangre periférica?",
@@ -8544,6 +8900,7 @@
     ]
   },
   {
+    "id": 357,
     "number": "157.",
     "type": "especifico",
     "question": "Linfocitos T:",
@@ -8568,6 +8925,7 @@
     ]
   },
   {
+    "id": 358,
     "number": "158.",
     "type": "especifico",
     "question": "El hiato leucémico es característico de:",
@@ -8592,6 +8950,7 @@
     ]
   },
   {
+    "id": 359,
     "number": "159.",
     "type": "especifico",
     "question": "La célula de Sternberg-Reed:",
@@ -8616,6 +8975,7 @@
     ]
   },
   {
+    "id": 360,
     "number": "160.",
     "type": "especifico",
     "question": "En la estructura interna de las plaquetas, en lo referente a la zona de organelas, encontramos… Indicar la respuesta ERRÓNEA:",
@@ -8640,6 +9000,7 @@
     ]
   },
   {
+    "id": 361,
     "number": "161.",
     "type": "especifico",
     "question": "A la formación de un entramado constituido por la agregación de las plaquetas entre sí se le denomina:",
@@ -8664,6 +9025,7 @@
     ]
   },
   {
+    "id": 362,
     "number": "162.",
     "type": "especifico",
     "question": "Respecto a las alteraciones del número de plaquetas, se dice que una trombocitopenia, trombopenia o plaquetopenia puede deberse a la siguiente causa:",
@@ -8688,6 +9050,7 @@
     ]
   },
   {
+    "id": 363,
     "number": "163.",
     "type": "especifico",
     "question": "¿Qué es la anisocitosis plaquetaria?",
@@ -8712,6 +9075,7 @@
     ]
   },
   {
+    "id": 364,
     "number": "164.",
     "type": "especifico",
     "question": "¿En qué estructura de las plaquetas se encuentra la reserva principal de calcio empleado en la contracción de algunos componentes de las plaquetas?",
@@ -8736,6 +9100,7 @@
     ]
   },
   {
+    "id": 365,
     "number": "165.",
     "type": "especifico",
     "question": "El Factor de von Willebrand:",
@@ -8760,6 +9125,7 @@
     ]
   },
   {
+    "id": 366,
     "number": "166.",
     "type": "especifico",
     "question": "La plasmina:",
@@ -8784,6 +9150,7 @@
     ]
   },
   {
+    "id": 367,
     "number": "167.",
     "type": "especifico",
     "question": "Una de las siguientes pruebas NO se utiliza en el estudio de una trombofilia: ¿cuál?",
@@ -8808,6 +9175,7 @@
     ]
   },
   {
+    "id": 368,
     "number": "168.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes afirmaciones es FALSA respecto a la hemofilia A?",
@@ -8832,6 +9200,7 @@
     ]
   },
   {
+    "id": 369,
     "number": "169.",
     "type": "especifico",
     "question": "El INR (International Normalized Ratio) se calcula en función de la:",
@@ -8856,6 +9225,7 @@
     ]
   },
   {
+    "id": 370,
     "number": "170.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes factores de la coagulación es vitamina K dependiente?",
@@ -8880,6 +9250,7 @@
     ]
   },
   {
+    "id": 371,
     "number": "171.",
     "type": "especifico",
     "question": "Se considera trombocitosis cuando la cifra de plaquetas es:",
@@ -8904,6 +9275,7 @@
     ]
   },
   {
+    "id": 372,
     "number": "172.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes opciones puede ser causa de trombocitopenia ficticia?",
@@ -8928,6 +9300,7 @@
     ]
   },
   {
+    "id": 373,
     "number": "173.",
     "type": "especifico",
     "question": "Entre las trombopatías congénitas se encuentran:",
@@ -8952,6 +9325,7 @@
     ]
   },
   {
+    "id": 374,
     "number": "174.",
     "type": "especifico",
     "question": "Señale la respuesta correcta:",
@@ -8976,6 +9350,7 @@
     ]
   },
   {
+    "id": 375,
     "number": "175.",
     "type": "especifico",
     "question": "Señale la respuesta correcta respecto a las pruebas que estudian las vías de la coagulación:",
@@ -9000,6 +9375,7 @@
     ]
   },
   {
+    "id": 376,
     "number": "176.",
     "type": "especifico",
     "question": "Señale la respuesta correcta entre las pruebas parciales que estudian la fibrinolisis.",
@@ -9024,6 +9400,7 @@
     ]
   },
   {
+    "id": 377,
     "number": "177.",
     "type": "especifico",
     "question": "¿Por qué se añade cloruro cálcico en muchas de las determinaciones cronométricas de la coagulación?",
@@ -9048,6 +9425,7 @@
     ]
   },
   {
+    "id": 378,
     "number": "178.",
     "type": "especifico",
     "question": "¿A qué tipo de alteración se debe la Hemofilia A?",
@@ -9072,6 +9450,7 @@
     ]
   },
   {
+    "id": 379,
     "number": "179.",
     "type": "especifico",
     "question": "Respecto al fibrinógeno:",
@@ -9096,6 +9475,7 @@
     ]
   },
   {
+    "id": 380,
     "number": "180.",
     "type": "especifico",
     "question": "En las determinaciones cronométricas para el estudio de la coagulación es FALSO que:",
@@ -9120,6 +9500,7 @@
     ]
   },
   {
+    "id": 381,
     "number": "181.",
     "type": "especifico",
     "question": "En el control de pacientes anticoagulados con antagonistas de la vitamina K (Sintrom, warfarina…), el código ISI (International Sensitivity Index) de la tromboplastina se utiliza para:",
@@ -9144,6 +9525,7 @@
     ]
   },
   {
+    "id": 382,
     "number": "182.",
     "type": "especifico",
     "question": "Para que un individuo sea secretor, su genotipo tiene que ser:",
@@ -9168,6 +9550,7 @@
     ]
   },
   {
+    "id": 383,
     "number": "183.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes afirmaciones es FALSA respecto a la reacción transfusional hemolítica aguda?",
@@ -9192,6 +9575,7 @@
     ]
   },
   {
+    "id": 384,
     "number": "184.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes antígenos sanguíneos son receptores del Plasmodium vivax?",
@@ -9216,6 +9600,7 @@
     ]
   },
   {
+    "id": 385,
     "number": "185.",
     "type": "especifico",
     "question": "Un paciente del grupo sanguíneo AB- necesita una transfusión de concentrado de hematíes. Señale la opción correcta para la elección del grupo del hemoderivado:",
@@ -9240,6 +9625,7 @@
     ]
   },
   {
+    "id": 386,
     "number": "186.",
     "type": "especifico",
     "question": "Si el grupo hemático de un paciente es: anti A (+), anti B (-), anti AB (+) anti D (-) y el grupo sérico es: hem.A1 (-) y hem.B (+), su grupo sanguíneo es:",
@@ -9264,6 +9650,7 @@
     ]
   },
   {
+    "id": 387,
     "number": "187.",
     "type": "especifico",
     "question": "Señale la respuesta correcta respecto al sistema AB0 y al sistema Rh:",
@@ -9288,6 +9675,7 @@
     ]
   },
   {
+    "id": 388,
     "number": "188.",
     "type": "especifico",
     "question": "Dentro de las reacciones transfusionales, señale la reacción que NO se considera inmunológica:",
@@ -9312,6 +9700,7 @@
     ]
   },
   {
+    "id": 389,
     "number": "189.",
     "type": "especifico",
     "question": "La prueba que detecta los anticuerpos adheridos a la membrana de los hematíes del paciente es:",
@@ -9336,6 +9725,7 @@
     ]
   },
   {
+    "id": 390,
     "number": "190.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes genotipos corresponde a un individuo Rh negativo?",
@@ -9360,6 +9750,7 @@
     ]
   },
   {
+    "id": 391,
     "number": "191.",
     "type": "especifico",
     "question": "En la prueba cruzada mayor se enfrentan:",
@@ -9384,6 +9775,7 @@
     ]
   },
   {
+    "id": 392,
     "number": "192.",
     "type": "especifico",
     "question": "En un laboratorio de urgencias, ¿cuál de los siguientes resultados analíticos se clasificaría como un valor crítico, cuya notificación al clínico debe ser inmediata debido al riesgo vital que representa?",
@@ -9408,6 +9800,7 @@
     ]
   },
   {
+    "id": 393,
     "number": "193.",
     "type": "especifico",
     "question": "Todas las siguientes son características de los sistemas POCT (Point Of Care Testing), EXCEPTO una. Señálese:",
@@ -9432,6 +9825,7 @@
     ]
   },
   {
+    "id": 394,
     "number": "194.",
     "type": "especifico",
     "question": "¿Qué parámetro NO se determina mediante dispositivos POCT (Point of Care Testing)?",
@@ -9456,6 +9850,7 @@
     ]
   },
   {
+    "id": 395,
     "number": "195.",
     "type": "especifico",
     "question": "¿Cuál de estas afirmaciones es FALSA respecto a la hormona antimulleriana?",
@@ -9480,6 +9875,7 @@
     ]
   },
   {
+    "id": 396,
     "number": "196.",
     "type": "especifico",
     "question": "Los caracteres físicos de la muestra que se estudian en un análisis rutinario de semen son:",
@@ -9504,6 +9900,7 @@
     ]
   },
   {
+    "id": 397,
     "number": "197.",
     "type": "especifico",
     "question": "El test de O´Sullivan se realiza de la siguiente manera:",
@@ -9528,6 +9925,7 @@
     ]
   },
   {
+    "id": 398,
     "number": "198.",
     "type": "especifico",
     "question": "¿Cómo esperaría encontrar los niveles de gonadotropina coriónica humana en un embarazo ectópico?",
@@ -9552,6 +9950,7 @@
     ]
   },
   {
+    "id": 399,
     "number": "199.",
     "type": "especifico",
     "question": "Para la evaluación de la función placentaria se utilizan la determinación de estrógenos fundamentalmente:",
@@ -9576,6 +9975,7 @@
     ]
   },
   {
+    "id": 400,
     "number": "200.",
     "type": "especifico",
     "question": "En el seminograma, el límite inferior de referencia para la motilidad total es de:",
@@ -9600,6 +10000,7 @@
     ]
   },
   {
+    "id": 401,
     "number": "201.",
     "type": "especifico",
     "question": "En la técnica de Swim-up, para la recuperación de espermatozoides móviles (REM), ¿en qué casos NO ES NECESARIO el uso de antibióticos?",
@@ -9624,6 +10025,7 @@
     ]
   },
   {
+    "id": 402,
     "number": "202.",
     "type": "especifico",
     "question": "La ausencia de espermatozoides maduros en el líquido seminal se denomina:",
@@ -9648,6 +10050,7 @@
     ]
   },
   {
+    "id": 403,
     "number": "203.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes es una causa de infertilidad femenina?",
@@ -9672,6 +10075,7 @@
     ]
   },
   {
+    "id": 404,
     "number": "204.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes afirmaciones es FALSA respecto a los factores carcinogénicos?",
@@ -9696,6 +10100,7 @@
     ]
   },
   {
+    "id": 405,
     "number": "205.",
     "type": "especifico",
     "question": "¿Cuál, de los siguientes marcadores bioquímicos NO se incluye entre las pruebas del cribado prenatal?",
@@ -9720,6 +10125,7 @@
     ]
   },
   {
+    "id": 406,
     "number": "206.",
     "type": "especifico",
     "question": "La fenilalanina se utiliza como marcador bioquímico en el cribado neonatal, para la detección de:",
@@ -9744,6 +10150,7 @@
     ]
   },
   {
+    "id": 407,
     "number": "207.",
     "type": "especifico",
     "question": "La tripsina inmunorreactiva (TIR) se utiliza como marcador biológico en el cribado neonatal para la detección de:",
@@ -9768,6 +10175,7 @@
     ]
   },
   {
+    "id": 408,
     "number": "208.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes determinaciones ha demostrado mayor utilidad en el cribado del cáncer colorrectal?",
@@ -9792,6 +10200,7 @@
     ]
   },
   {
+    "id": 409,
     "number": "209.",
     "type": "especifico",
     "question": "La colonoscopia es la prueba diagnóstica más utilizada para el diagnóstico del cáncer colorrectal, esta prueba se realiza:",
@@ -9816,6 +10225,7 @@
     ]
   },
   {
+    "id": 410,
     "number": "210.",
     "type": "especifico",
     "question": "El elemento intracelular bacteriano, formado por moléculas circulares de ADN extracromosómico bicatenario, se denomina:",
@@ -9840,6 +10250,7 @@
     ]
   },
   {
+    "id": 411,
     "number": "211.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes características NO corresponde a las bacterias?",
@@ -9864,6 +10275,7 @@
     ]
   },
   {
+    "id": 412,
     "number": "212.",
     "type": "especifico",
     "question": "Los bacilos pueden agruparse en:",
@@ -9888,6 +10300,7 @@
     ]
   },
   {
+    "id": 413,
     "number": "213.",
     "type": "especifico",
     "question": "Son microorganismos unicelulares que se caracterizan porque están rodeados por una pared celular, tienen ribosomas del tipo 70S y carecen de verdadero núcleo:",
@@ -9912,6 +10325,7 @@
     ]
   },
   {
+    "id": 414,
     "number": "214.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes NO es una función de la pared celular bacteriana?",
@@ -9936,6 +10350,7 @@
     ]
   },
   {
+    "id": 415,
     "number": "215.",
     "type": "especifico",
     "question": "¿Qué característica corresponde a los virus?",
@@ -9960,6 +10375,7 @@
     ]
   },
   {
+    "id": 416,
     "number": "216.",
     "type": "especifico",
     "question": "Organismos unicelulares o pluricelulares, algunos de ellos de vida libre, que de manera temporal o permanente viven a expensas de otro organismo denominado huésped:",
@@ -9984,6 +10400,7 @@
     ]
   },
   {
+    "id": 417,
     "number": "217.",
     "type": "especifico",
     "question": "La tinción de Giemsa utiliza los siguientes colorantes:",
@@ -10008,6 +10425,7 @@
     ]
   },
   {
+    "id": 418,
     "number": "218.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes factores pueden dar un resultado falso positivo en un urocultivo?",
@@ -10032,6 +10450,7 @@
     ]
   },
   {
+    "id": 419,
     "number": "219.",
     "type": "especifico",
     "question": "A la hora de interpretar un resultado positivo de un urocultivo de orina obtenida por punción suprapúbica, es significativo un recuento de:",
@@ -10056,6 +10475,7 @@
     ]
   },
   {
+    "id": 420,
     "number": "220.",
     "type": "especifico",
     "question": "Marque la respuesta verdadera, en relación al estudio microbiológico del líquido cefalorraquídeo (LCR):",
@@ -10080,6 +10500,7 @@
     ]
   },
   {
+    "id": 421,
     "number": "221.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes es considerado un medio de cultivo selectivo?",
@@ -10104,6 +10525,7 @@
     ]
   },
   {
+    "id": 422,
     "number": "222.",
     "type": "especifico",
     "question": "Respecto a la tinción de Gram, la respuesta correcta es:",
@@ -10128,6 +10550,7 @@
     ]
   },
   {
+    "id": 423,
     "number": "223.",
     "type": "especifico",
     "question": "El aislamiento de Campylobacter spp. en coprocultivos requiere una temperatura de incubación de:",
@@ -10152,6 +10575,7 @@
     ]
   },
   {
+    "id": 424,
     "number": "224.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes medios selectivos se utiliza para el aislamiento de Staphylococcus?",
@@ -10176,6 +10600,7 @@
     ]
   },
   {
+    "id": 425,
     "number": "225.",
     "type": "especifico",
     "question": "El agua de peptona alcalina, pH 9, es un medio idóneo para el aislamiento de:",
@@ -10200,6 +10625,7 @@
     ]
   },
   {
+    "id": 426,
     "number": "226.",
     "type": "especifico",
     "question": "La tinción de Ziehl-Neelsen utiliza como colorante principal:",
@@ -10224,6 +10650,7 @@
     ]
   },
   {
+    "id": 427,
     "number": "227.",
     "type": "especifico",
     "question": "La tinción de Wirtz o verde de malaquita es:",
@@ -10248,6 +10675,7 @@
     ]
   },
   {
+    "id": 428,
     "number": "228.",
     "type": "especifico",
     "question": "Para la prueba de Voges-Proskauer el medio de cultivo utilizado es:",
@@ -10272,6 +10700,7 @@
     ]
   },
   {
+    "id": 429,
     "number": "229.",
     "type": "especifico",
     "question": "Como fuentes de energía en un medio de cultivo tenemos:",
@@ -10296,6 +10725,7 @@
     ]
   },
   {
+    "id": 430,
     "number": "230.",
     "type": "especifico",
     "question": "De los siguientes medios, ¿cuál es el más utilizado para la investigación de microorganismos hemolíticos?",
@@ -10320,6 +10750,7 @@
     ]
   },
   {
+    "id": 431,
     "number": "231.",
     "type": "especifico",
     "question": "¿Cuál es la secuencia correcta para realizar una tinción Gram?",
@@ -10344,6 +10775,7 @@
     ]
   },
   {
+    "id": 432,
     "number": "232.",
     "type": "especifico",
     "question": "En la siembra de muestra líquida en placa con asa de Digralsky:",
@@ -10368,6 +10800,7 @@
     ]
   },
   {
+    "id": 433,
     "number": "233.",
     "type": "especifico",
     "question": "En la incubación en atmósfera de anaerobiosis mediante jarra hermética:",
@@ -10392,6 +10825,7 @@
     ]
   },
   {
+    "id": 434,
     "number": "234.",
     "type": "especifico",
     "question": "¿Cuál es la forma característica de la zona de inhibición observada en el método del Epsilon-test (E-test) tras la incubación?",
@@ -10416,6 +10850,7 @@
     ]
   },
   {
+    "id": 435,
     "number": "235.",
     "type": "especifico",
     "question": "Señale cuál, de los siguientes antibióticos, NO es inhibidor de beta- lactamasas:",
@@ -10440,6 +10875,7 @@
     ]
   },
   {
+    "id": 436,
     "number": "236.",
     "type": "especifico",
     "question": "El concepto de concentración mínima inhibitoria (CMI) hace referencia a:",
@@ -10464,6 +10900,7 @@
     ]
   },
   {
+    "id": 437,
     "number": "237.",
     "type": "especifico",
     "question": "¿Cuál de estos fármacos es un antibiótico que tiene actividad inmunosupresora?",
@@ -10488,6 +10925,7 @@
     ]
   },
   {
+    "id": 438,
     "number": "238.",
     "type": "especifico",
     "question": "¿A qué grupo de antibióticos pertenece la eritromicina?",
@@ -10512,6 +10950,7 @@
     ]
   },
   {
+    "id": 439,
     "number": "239.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes antibióticos se encuentra dentro del grupo de los aminoglucósidos?",
@@ -10536,6 +10975,7 @@
     ]
   },
   {
+    "id": 440,
     "number": "240.",
     "type": "especifico",
     "question": "Respecto al método Kirby-Bauer (antibiograma disco-placa) es FALSO que:",
@@ -10560,6 +11000,7 @@
     ]
   },
   {
+    "id": 441,
     "number": "241.",
     "type": "especifico",
     "question": "El método del antibiograma disco-placa (Kirby-Bauer) corresponde a:",
@@ -10584,6 +11025,7 @@
     ]
   },
   {
+    "id": 442,
     "number": "242.",
     "type": "especifico",
     "question": "Todas las siguientes afirmaciones respecto al estudio microbiológico de las micobacterias son ciertas, EXCEPTO:",
@@ -10608,6 +11050,7 @@
     ]
   },
   {
+    "id": 443,
     "number": "243.",
     "type": "especifico",
     "question": "Para el estudio de Mycobacterium tuberculosis, además de la tinción de Ziehl- Neelsen, se utiliza la tinción de:",
@@ -10632,6 +11075,7 @@
     ]
   },
   {
+    "id": 444,
     "number": "244.",
     "type": "especifico",
     "question": "Indique cuál de los siguientes microorganismos es un bacilo gram negativo:",
@@ -10656,6 +11100,7 @@
     ]
   },
   {
+    "id": 445,
     "number": "245.",
     "type": "especifico",
     "question": "Para el cultivo de Mycobacterium tuberculosis se utiliza el medio:",
@@ -10680,6 +11125,7 @@
     ]
   },
   {
+    "id": 446,
     "number": "246.",
     "type": "especifico",
     "question": "Si nos referimos a las micobacterias, diremos que son:",
@@ -10704,6 +11150,7 @@
     ]
   },
   {
+    "id": 447,
     "number": "247.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes características NO corresponde a la familia Mycobacteriaceae?",
@@ -10728,6 +11175,7 @@
     ]
   },
   {
+    "id": 448,
     "number": "248.",
     "type": "especifico",
     "question": "Sobre Mycobacterium leprae:",
@@ -10752,6 +11200,7 @@
     ]
   },
   {
+    "id": 449,
     "number": "249.",
     "type": "especifico",
     "question": "¿Qué prueba realizaría para el diagnóstico de aspergilosis invasiva?",
@@ -10776,6 +11225,7 @@
     ]
   },
   {
+    "id": 450,
     "number": "250.",
     "type": "especifico",
     "question": "Los hongos son organismos:",
@@ -10800,6 +11250,7 @@
     ]
   },
   {
+    "id": 451,
     "number": "251.",
     "type": "especifico",
     "question": "Un auxonograma de levaduras consiste en:",
@@ -10824,6 +11275,7 @@
     ]
   },
   {
+    "id": 452,
     "number": "252.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes características corresponde a Candida albicans?",
@@ -10848,6 +11300,7 @@
     ]
   },
   {
+    "id": 453,
     "number": "253.",
     "type": "especifico",
     "question": "Indique cuál de los siguientes microorganismos es un protozoo intestinal:",
@@ -10872,6 +11325,7 @@
     ]
   },
   {
+    "id": 454,
     "number": "254.",
     "type": "especifico",
     "question": "El agente causal de la enfermedad de chagas es:",
@@ -10896,6 +11350,7 @@
     ]
   },
   {
+    "id": 455,
     "number": "255.",
     "type": "especifico",
     "question": "El agente causal de la neumonía plasmocelular intersticial es:",
@@ -10920,6 +11375,7 @@
     ]
   },
   {
+    "id": 456,
     "number": "256.",
     "type": "especifico",
     "question": "Para el estudio y diagnóstico de Trichomonas vaginalis, utilizaremos diferentes métodos como pueden ser:",
@@ -10944,6 +11400,7 @@
     ]
   },
   {
+    "id": 457,
     "number": "257.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes grupos pertenece a la clasificación elemental de los parásitos diagnosticados en laboratorio?",
@@ -10968,6 +11425,7 @@
     ]
   },
   {
+    "id": 458,
     "number": "258.",
     "type": "especifico",
     "question": "En el examen de sangre para análisis parasitológico:",
@@ -10992,6 +11450,7 @@
     ]
   },
   {
+    "id": 459,
     "number": "259.",
     "type": "especifico",
     "question": "Los medios de transporte de muestras para estudio de virus deben tener todas las siguientes características, EXCEPTO:",
@@ -11016,6 +11475,7 @@
     ]
   },
   {
+    "id": 460,
     "number": "260.",
     "type": "especifico",
     "question": "Indique cuál, de los siguientes, NO se utiliza como método de estudio de los virus:",
@@ -11040,6 +11500,7 @@
     ]
   },
   {
+    "id": 461,
     "number": "261.",
     "type": "especifico",
     "question": "El virus de la hepatitis D (delta) solo puede infectar los hepatocitos cuando está presente:",
@@ -11064,6 +11525,7 @@
     ]
   },
   {
+    "id": 462,
     "number": "262.",
     "type": "especifico",
     "question": "La mayoría de los casos de mononucleosis infecciosa está producida por:",
@@ -11088,6 +11550,7 @@
     ]
   },
   {
+    "id": 463,
     "number": "263.",
     "type": "especifico",
     "question": "Según su genoma, los virus se pueden clasificar en:",
@@ -11112,6 +11575,7 @@
     ]
   },
   {
+    "id": 464,
     "number": "264.",
     "type": "especifico",
     "question": "Los virus:",
@@ -11136,6 +11600,7 @@
     ]
   },
   {
+    "id": 465,
     "number": "265.",
     "type": "especifico",
     "question": "Si buscamos una técnica de cultivo y aislamiento de virus, ¿cuál de las siguientes utilizaríamos?",
@@ -11160,6 +11625,7 @@
     ]
   },
   {
+    "id": 466,
     "number": "266.",
     "type": "especifico",
     "question": "Los virus del género Enterovirus y Rhinovirus pertenecen a la familia:",
@@ -11184,6 +11650,7 @@
     ]
   },
   {
+    "id": 467,
     "number": "267.",
     "type": "especifico",
     "question": "En la identificación de microorganismos, ¿cuál es la principal ventaja de los métodos genotípicos frente a los fenotípicos?",
@@ -11208,6 +11675,7 @@
     ]
   },
   {
+    "id": 468,
     "number": "268.",
     "type": "especifico",
     "question": "La tecnología MALDI-TOF para la identificación de microorganismos es:",
@@ -11232,6 +11700,7 @@
     ]
   },
   {
+    "id": 469,
     "number": "269.",
     "type": "especifico",
     "question": "Señale cuál, de estas técnicas de identificación genotípica de microorganismos, consiste en la detección de ácidos nucleicos con amplificación de la diana:",
@@ -11256,6 +11725,7 @@
     ]
   },
   {
+    "id": 470,
     "number": "270.",
     "type": "especifico",
     "question": "Para la detección de antígenos parasitarios de Leishmania en orina, ¿qué técnica inmunológica utilizaremos?",
@@ -11280,6 +11750,7 @@
     ]
   },
   {
+    "id": 471,
     "number": "271.",
     "type": "especifico",
     "question": "La amplificación del genoma vírico mediante PCR:",
@@ -11304,6 +11775,7 @@
     ]
   },
   {
+    "id": 472,
     "number": "272.",
     "type": "especifico",
     "question": "Indique cuál de las siguientes afirmaciones es FALSA, respecto a los cocos gram positivos:",
@@ -11328,6 +11800,7 @@
     ]
   },
   {
+    "id": 473,
     "number": "273.",
     "type": "especifico",
     "question": "La causa más frecuente de endocarditis es:",
@@ -11352,6 +11825,7 @@
     ]
   },
   {
+    "id": 474,
     "number": "274.",
     "type": "especifico",
     "question": "Respecto a la neumonía atípica, una de estas afirmaciones NO es correcta:",
@@ -11376,6 +11850,7 @@
     ]
   },
   {
+    "id": 475,
     "number": "275.",
     "type": "especifico",
     "question": "Las infecciones que se adquieren en el hospital, sobre todo en las unidades de vigilancia intensiva, se denominan:",
@@ -11400,6 +11875,7 @@
     ]
   },
   {
+    "id": 476,
     "number": "276.",
     "type": "especifico",
     "question": "Ante un coco Gram positivo, beta-hemolítico, perteneciente al grupo A de Lancefield y que no presenta crecimiento en bilis-esculina, diremos que es:",
@@ -11424,6 +11900,7 @@
     ]
   },
   {
+    "id": 477,
     "number": "277.",
     "type": "especifico",
     "question": "Las enterobacterias se caracterizan por:",
@@ -11448,6 +11925,7 @@
     ]
   },
   {
+    "id": 478,
     "number": "278.",
     "type": "especifico",
     "question": "Los microorganismos del género Corynebacterium son:",
@@ -11472,6 +11950,7 @@
     ]
   },
   {
+    "id": 479,
     "number": "279.",
     "type": "especifico",
     "question": "El género Clostridium se caracteriza por:",
@@ -11496,6 +11975,7 @@
     ]
   },
   {
+    "id": 480,
     "number": "280.",
     "type": "especifico",
     "question": "¿Qué prueba bioquímica utilizaremos para la diferenciación de enterobacterias?",
@@ -11520,6 +12000,7 @@
     ]
   },
   {
+    "id": 481,
     "number": "281.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes microorganismos es oxidasa negativo?",
@@ -11544,6 +12025,7 @@
     ]
   },
   {
+    "id": 482,
     "number": "282.",
     "type": "especifico",
     "question": "La Legionella es un bacilo Gram negativo que provoca:",
@@ -11568,6 +12050,7 @@
     ]
   },
   {
+    "id": 483,
     "number": "283.",
     "type": "especifico",
     "question": "Son capaces de formar una toxina eritrogénica responsable del exantema de la escarlatina:",
@@ -11592,6 +12075,7 @@
     ]
   },
   {
+    "id": 484,
     "number": "284.",
     "type": "especifico",
     "question": "Bacteria gram negativa, aerobia y móvil, causante de gran parte de las infecciones nosocomiales:",
@@ -11616,6 +12100,7 @@
     ]
   },
   {
+    "id": 485,
     "number": "285.",
     "type": "especifico",
     "question": "Es el agente causal de más del 80% de las cistitis agudas:",
@@ -11640,6 +12125,7 @@
     ]
   },
   {
+    "id": 486,
     "number": "286.",
     "type": "especifico",
     "question": "Agente etiológico de la sífilis:",
@@ -11664,6 +12150,7 @@
     ]
   },
   {
+    "id": 487,
     "number": "287.",
     "type": "especifico",
     "question": "La alteración en el número de copias de un cromosoma, respecto al par normal, se denomina:",
@@ -11688,6 +12175,7 @@
     ]
   },
   {
+    "id": 488,
     "number": "288.",
     "type": "especifico",
     "question": "Entre las aplicaciones de la técnica de PCR (Polymerase Chain Reaction) NO está:",
@@ -11712,6 +12200,7 @@
     ]
   },
   {
+    "id": 489,
     "number": "289.",
     "type": "especifico",
     "question": "Respecto a la fluorescencia de hibridación in situ (FISH), una de las siguientes afirmaciones es INCORRECTA. Señálese:",
@@ -11736,6 +12225,7 @@
     ]
   },
   {
+    "id": 490,
     "number": "290.",
     "type": "especifico",
     "question": "¿En qué fase de la división del núcleo de la célula sería el momento más apropiado para estudiar la morfología de los cromosomas?",
@@ -11760,6 +12250,7 @@
     ]
   },
   {
+    "id": 491,
     "number": "291.",
     "type": "especifico",
     "question": "Las alteraciones cromosómicas pueden ser:",
@@ -11784,6 +12275,7 @@
     ]
   },
   {
+    "id": 492,
     "number": "292.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes muestras sería la adecuada para cultivo celular en citogenética?",
@@ -11808,6 +12300,7 @@
     ]
   },
   {
+    "id": 493,
     "number": "293.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes técnicas NO se utiliza para la extracción del ADN?",
@@ -11832,6 +12325,7 @@
     ]
   },
   {
+    "id": 494,
     "number": "294.",
     "type": "especifico",
     "question": "¿Cuál de los siguientes componentes NO es necesario para la realización de la PCR (Polymerase Chain Reaction)?",
@@ -11856,6 +12350,7 @@
     ]
   },
   {
+    "id": 495,
     "number": "295.",
     "type": "especifico",
     "question": "La enzima DNA polimerasa utilizada en las PCR presenta la siguiente característica principal:",
@@ -11880,6 +12375,7 @@
     ]
   },
   {
+    "id": 496,
     "number": "296.",
     "type": "especifico",
     "question": "¿Cuál de las siguientes técnicas NO es una técnica de hibridación?",
@@ -11904,6 +12400,7 @@
     ]
   },
   {
+    "id": 497,
     "number": "297.",
     "type": "especifico",
     "question": "Un organismo que requiere añadir los factores V y X para su crecimiento aparecerá en la tinción de Gram como:",
@@ -11928,6 +12425,7 @@
     ]
   },
   {
+    "id": 498,
     "number": "298.",
     "type": "especifico",
     "question": "Conforme al Plan de Salud para Euskadi 2013-2020 señale, ¿cuál de las siguientes áreas NO tienen la consideración de áreas transversales?",
@@ -11952,6 +12450,7 @@
     ]
   },
   {
+    "id": 499,
     "number": "299.",
     "type": "especifico",
     "question": "Como se recoge en la Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi:",
@@ -11976,6 +12475,7 @@
     ]
   },
   {
+    "id": 500,
     "number": "300.",
     "type": "especifico",
     "question": "Señale cuál es el plazo que establece la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales para que los responsables y encargados del tratamiento comuniquen a la Agencia Española de Protección de Datos o, en su caso, a las autoridades autonómicas de protección de datos, las designaciones, nombramientos y ceses de los delegados de protección de datos:",

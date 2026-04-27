@@ -1,7 +1,9 @@
-﻿using SimulacroOposiciones.Data;
+﻿using Examy.Objects;
+using SimulacroOposiciones.Data;
 using SimulacroOposiciones.Objects;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
@@ -68,7 +70,7 @@ namespace SimulacroOposiciones.MVC.StartTest
             return displaytype;
         }
 
-        public List<Question> GenerateQuestionary(string category, string mode, string type)
+        public List<Question> GenerateQuestionaryPractica(string category, string type)
         {
             List<Question> temporal = new List<Question>();
             List<Question> questionary = new List<Question>();
@@ -76,8 +78,7 @@ namespace SimulacroOposiciones.MVC.StartTest
             switch (category)
             {
                 case "auxiliar":
-                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.auxiliar_questions)
-);
+                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.auxiliar_questions));
                     break;
                 case "laboratorio":
                     temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.laboratorio_questions));
@@ -87,28 +88,65 @@ namespace SimulacroOposiciones.MVC.StartTest
                     break;
             }
 
-            switch (mode)
+            switch (type)
             {
-                case "practica":
-                    switch (type)
-                    {
-                        case "comun":
-                            temporal = temporal.Where(q => q.type == "comun").ToList();
-                            break;
-                        case "especifico":
-                            temporal = temporal.Where(q => q.type == "especifico").ToList();
-                            break;
-                        case "todo":
-                            break;
-                    }
-                    questionary = temporal.OrderBy(x => Guid.NewGuid()).Take(50).ToList();
+                case "comun":
+                    temporal = temporal.Where(q => q.type == "comun").ToList();
                     break;
-                case "errores":
+                case "especifico":
+                    temporal = temporal.Where(q => q.type == "especifico").ToList();
                     break;
-                case "examen":
-                    questionary = temporal.OrderBy(x => Guid.NewGuid()).Take(100).ToList();
+                case "todo":
                     break;
             }
+
+            questionary = temporal.OrderBy(x => Guid.NewGuid()).Take(50).ToList();
+                   
+            return questionary;
+        }
+
+        public List<Question> GenerateQuestionaryErrores(string category, string type)
+        {
+            string auxiliar_error_path = Path.Combine(AppContext.BaseDirectory, "Data", "auxiliar_errors.json");
+            string laboratorio_error_path = Path.Combine(AppContext.BaseDirectory, "Data", "laboratorio_errors.json");
+            string celador_error_path = Path.Combine(AppContext.BaseDirectory, "Data", "celador_errors.json");
+
+            List<QuestionErrors> auxiliar_errors = Gen.LoadQuestionErrors(auxiliar_error_path);
+            List<QuestionErrors> laboratorio_errors = Gen.LoadQuestionErrors(laboratorio_error_path);
+            List<QuestionErrors> celador_errors = Gen.LoadQuestionErrors(celador_error_path);
+
+            List<Question> temporal = new List<Question>();
+            List<Question> questionary = new List<Question>();
+
+            switch (category)
+            {
+                case "auxiliar":
+                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.auxiliar_questions));
+                    temporal = temporal.Where(q => auxiliar_errors.Exists(e => e.id == q.id)).ToList();
+                    break;
+                case "laboratorio":
+                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.laboratorio_questions));
+                    temporal = temporal.Where(q => laboratorio_errors.Exists(e => e.id == q.id)).ToList();
+                    break;
+                case "celador":
+                    temporal = JsonSerializer.Deserialize<List<Question>>(JsonSerializer.Serialize(Gen.celador_questions));
+                    temporal = temporal.Where(q => celador_errors.Exists(e => e.id == q.id)).ToList();
+                    break;
+            }
+
+            switch (type)
+            {
+                case "comun":
+                    temporal = temporal.Where(q => q.type == "comun").ToList();
+                    break;
+                case "especifico":
+                    temporal = temporal.Where(q => q.type == "especifico").ToList();
+                    break;
+                case "todo":
+                    break;
+            }
+
+            questionary = temporal.OrderBy(x => Guid.NewGuid()).Take(50).ToList();
 
             return questionary;
         }

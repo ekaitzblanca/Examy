@@ -8,6 +8,7 @@ namespace SimulacroOposiciones.Objects
 {
     public class Question
     {
+        public int id { get; set; }
         public string number { get; set; }
         public string type { get; set; }
         public string question { get; set; }

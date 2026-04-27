@@ -22,12 +22,12 @@ namespace SimulacroOposiciones.MVC.PracticeResume
     /// </summary>
     public partial class View : Page
     {
-        public View(List<Question> questions, string from_view)
+        public View(List<Question> questions, string category, string mode)
         {
             InitializeComponent();
 
             lbl_version.Text = Gen.version;
-            Controller controller = new Controller(this, questions, from_view);
+            Controller controller = new Controller(this, questions, category, mode);
         }
     }
 }

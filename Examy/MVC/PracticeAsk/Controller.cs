@@ -15,13 +15,15 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
 
         private int _index;
         private List<Question> _questions;
-        private string _from_view;
+        private string _category;
+        private string _mode;
 
-        public Controller(View view, int index, List<Question> questions, string from_view)
+        public Controller(View view, int index, List<Question> questions, string category, string mode)
         {
             _index = index;
             _questions = questions;
-            _from_view = from_view;
+            _category = category;
+            _mode = mode;
 
             _model = new Model();
             _view = view;
@@ -100,22 +102,22 @@ namespace SimulacroOposiciones.MVC.PracticeAsk
                 return;
             }
 
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index-1, _questions, _from_view));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index-1, _questions, _category, _mode));
         }
         private void Next_Click(object sender, RoutedEventArgs e)
         {
-            if (_index == 49)
+            if (_index == _questions.Count - 1)
             {
                 MessageBox.Show("No hay preguntas siguientes");
                 return;
             }
 
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index+1, _questions, _from_view));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(_index+1, _questions, _category, _mode));
         }
 
         private void Fin_Click(object sender, RoutedEventArgs e)
         {
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeResume.View(_questions, _from_view));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeResume.View(_questions, _category, _mode));
         }
     }
 }

@@ -38,12 +38,14 @@ namespace SimulacroOposiciones.MVC.ModeMenu
 
         private void Errores_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Funcionalidad no implementada aún.");
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.TypeMenu.View(_category, "errores"));
         }
 
         private void Examen_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Funcionalidad no implementada aún.");
+            MessageBox.Show("La función de examen aún no está implementada");
+            return;
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.TypeMenu.View(_category, "examen"));
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)

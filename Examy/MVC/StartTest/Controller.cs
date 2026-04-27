@@ -39,9 +39,29 @@ namespace SimulacroOposiciones.MVC.StartTest
 
         private void StartTest_Click(object sender, RoutedEventArgs e)
         {
-            List<Question> questions = _model.GenerateQuestionary(_category, _mode, _type);
-
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, questions, "practica"));
+            switch (_mode)
+            {
+                case "practica":
+                    List<Question> questions = _model.GenerateQuestionaryPractica(_category, _type);
+                    if (questions.Count == 0)
+                    {
+                        MessageBox.Show("No hay preguntas disponibles para esta combinación de categoría y tipo.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                        return;
+                    }
+                    _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, questions, _category, _mode));
+                    break;
+                case "errores":
+                    List<Question> errorQuestions = _model.GenerateQuestionaryErrores(_category, _type);
+                    if (errorQuestions.Count == 0)
+                    {
+                        MessageBox.Show("No hay preguntas disponibles para esta combinación de categoría y tipo.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                        return;
+                    }
+                    _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, errorQuestions, _category, _mode));
+                    break;
+                case "examen":
+                    break;
+            }
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)

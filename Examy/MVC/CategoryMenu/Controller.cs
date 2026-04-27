@@ -54,7 +54,7 @@ namespace SimulacroOposiciones.MVC.CategoryMenu
                 return;
             }
 
-            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, history_questions, "review"));
+            _view.NavigationService?.Navigate(new SimulacroOposiciones.MVC.PracticeAsk.View(0, history_questions, "", "review"));
         }
     }
 }
