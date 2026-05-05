@@ -19,7 +19,7 @@ namespace SimulacroOposiciones.Data
         public static string laboratorio_error_path { get; set; }
         public static string celador_error_path { get; set; }
 
-        public static string version { get; set; } = "Version: 1.0.4";
+        public static string version { get; set; } = "Version: 1.0.5";
 
         public static List<Question> LoadQuestions(string filePath)
         {
